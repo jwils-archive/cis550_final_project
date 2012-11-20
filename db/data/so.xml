@@ -1,0 +1,9555 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Medals>
+<medals_1896>
+<record>
+<rk>1 </rk>
+<country>Greece</country>
+<gold>10 </gold>
+<silver>18 </silver>
+<bronze>19 </bronze>
+<total>47 </total>
+</record>
+<record>
+<rk>2 </rk>
+<country>United States</country>
+<gold>11 </gold>
+<silver>7 </silver>
+<bronze>2 </bronze>
+<total>20 </total>
+</record>
+<record>
+<rk>3 </rk>
+<country>Germany</country>
+<gold>6 </gold>
+<silver>5 </silver>
+<bronze>2 </bronze>
+<total>13 </total>
+</record>
+<record>
+<rk>4 </rk>
+<country>France</country>
+<gold>5 </gold>
+<silver>4 </silver>
+<bronze>2 </bronze>
+<total>11 </total>
+</record>
+<record>
+<rk>5 </rk>
+<country>Great Britain</country>
+<gold>2 </gold>
+<silver>3 </silver>
+<bronze>2 </bronze>
+<total>7 </total>
+</record>
+<record>
+<rk>6 </rk>
+<country>Hungary</country>
+<gold>2 </gold>
+<silver>1 </silver>
+<bronze>3 </bronze>
+<total>6 </total>
+</record>
+<record>
+<rk>7 </rk>
+<country>Denmark</country>
+<gold>1 </gold>
+<silver>2 </silver>
+<bronze>3 </bronze>
+<total>6 </total>
+</record>
+<record>
+<rk>8 </rk>
+<country>Austria</country>
+<gold>2 </gold>
+<silver>1 </silver>
+<bronze>2 </bronze>
+<total>5 </total>
+</record>
+<record>
+<rk>9 </rk>
+<country>Switzerland</country>
+<gold>1 </gold>
+<silver>2 </silver>
+<bronze>0 </bronze>
+<total>3 </total>
+</record>
+<record>
+<rk>10 </rk>
+<country>Australia</country>
+<gold>2 </gold>
+<silver>0 </silver>
+<bronze>0 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>11 </rk>
+<country>Mixed team</country>
+<gold>1 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>2 </total>
+</record>
+</medals_1896>
+<medals_1900>
+<record>
+<rk>1 </rk>
+<country>France</country>
+<gold>27 </gold>
+<silver>39 </silver>
+<bronze>37 </bronze>
+<total>103 </total>
+</record>
+<record>
+<rk>2 </rk>
+<country>United States</country>
+<gold>19 </gold>
+<silver>14 </silver>
+<bronze>14 </bronze>
+<total>47 </total>
+</record>
+<record>
+<rk>3 </rk>
+<country>Great Britain</country>
+<gold>15 </gold>
+<silver>8 </silver>
+<bronze>9 </bronze>
+<total>32 </total>
+</record>
+<record>
+<rk>4 </rk>
+<country>Mixed team</country>
+<gold>7 </gold>
+<silver>4 </silver>
+<bronze>7 </bronze>
+<total>18 </total>
+</record>
+<record>
+<rk>5 </rk>
+<country>Belgium</country>
+<gold>6 </gold>
+<silver>7 </silver>
+<bronze>4 </bronze>
+<total>17 </total>
+</record>
+<record>
+<rk>6 </rk>
+<country>Switzerland</country>
+<gold>6 </gold>
+<silver>2 </silver>
+<bronze>1 </bronze>
+<total>9 </total>
+</record>
+<record>
+<rk>7 </rk>
+<country>Germany</country>
+<gold>4 </gold>
+<silver>3 </silver>
+<bronze>2 </bronze>
+<total>9 </total>
+</record>
+<record>
+<rk>8 </rk>
+<country>Denmark</country>
+<gold>1 </gold>
+<silver>3 </silver>
+<bronze>2 </bronze>
+<total>6 </total>
+</record>
+<record>
+<rk>9 </rk>
+<country>Netherlands</country>
+<gold>1 </gold>
+<silver>2 </silver>
+<bronze>3 </bronze>
+<total>6 </total>
+</record>
+<record>
+<rk>10 </rk>
+<country>Austria</country>
+<gold>0 </gold>
+<silver>3 </silver>
+<bronze>3 </bronze>
+<total>6 </total>
+</record>
+<record>
+<rk>11 </rk>
+<country>Italy</country>
+<gold>3 </gold>
+<silver>2 </silver>
+<bronze>0 </bronze>
+<total>5 </total>
+</record>
+<record>
+<rk>12 </rk>
+<country>Australia</country>
+<gold>2 </gold>
+<silver>0 </silver>
+<bronze>3 </bronze>
+<total>5 </total>
+</record>
+<record>
+<rk>13 </rk>
+<country>Hungary</country>
+<gold>1 </gold>
+<silver>2 </silver>
+<bronze>2 </bronze>
+<total>5 </total>
+</record>
+<record>
+<rk>14 </rk>
+<country>Norway</country>
+<gold>0 </gold>
+<silver>2 </silver>
+<bronze>3 </bronze>
+<total>5 </total>
+</record>
+<record>
+<rk>15 </rk>
+<country>Cuba</country>
+<gold>1 </gold>
+<silver>1 </silver>
+<bronze>0 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>16 </rk>
+<country>Canada</country>
+<gold>1 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>17 </rk>
+<country>India</country>
+<gold>0 </gold>
+<silver>2 </silver>
+<bronze>0 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>18 </rk>
+<country>Bohemia</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>1 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>19 </rk>
+<country>Luxembourg</country>
+<gold>1 </gold>
+<silver>0 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>20 </rk>
+<country>Spain</country>
+<gold>1 </gold>
+<silver>0 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>21 </rk>
+<country>Sweden</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>1 </total>
+</record>
+</medals_1900>
+<medals_1904>
+<record>
+<rk>1 </rk>
+<country>United States</country>
+<gold>76 </gold>
+<silver>78 </silver>
+<bronze>77 </bronze>
+<total>231 </total>
+</record>
+<record>
+<rk>2 </rk>
+<country>Germany</country>
+<gold>4 </gold>
+<silver>5 </silver>
+<bronze>6 </bronze>
+<total>15 </total>
+</record>
+<record>
+<rk>3 </rk>
+<country>Canada</country>
+<gold>4 </gold>
+<silver>1 </silver>
+<bronze>1 </bronze>
+<total>6 </total>
+</record>
+<record>
+<rk>4 </rk>
+<country>Hungary</country>
+<gold>2 </gold>
+<silver>1 </silver>
+<bronze>1 </bronze>
+<total>4 </total>
+</record>
+<record>
+<rk>5 </rk>
+<country>Mixed team</country>
+<gold>2 </gold>
+<silver>1 </silver>
+<bronze>1 </bronze>
+<total>4 </total>
+</record>
+<record>
+<rk>6 </rk>
+<country>Australia</country>
+<gold>0 </gold>
+<silver>3 </silver>
+<bronze>1 </bronze>
+<total>4 </total>
+</record>
+<record>
+<rk>7 </rk>
+<country>Cuba</country>
+<gold>3 </gold>
+<silver>0 </silver>
+<bronze>0 </bronze>
+<total>3 </total>
+</record>
+<record>
+<rk>8 </rk>
+<country>Austria</country>
+<gold>1 </gold>
+<silver>1 </silver>
+<bronze>1 </bronze>
+<total>3 </total>
+</record>
+<record>
+<rk>9 </rk>
+<country>Switzerland</country>
+<gold>1 </gold>
+<silver>0 </silver>
+<bronze>2 </bronze>
+<total>3 </total>
+</record>
+<record>
+<rk>10 </rk>
+<country>Norway</country>
+<gold>2 </gold>
+<silver>0 </silver>
+<bronze>0 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>11 </rk>
+<country>Great Britain</country>
+<gold>1 </gold>
+<silver>1 </silver>
+<bronze>0 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>12 </rk>
+<country>Greece</country>
+<gold>1 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>13 </rk>
+<country>France</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+</medals_1904>
+<medals_1906>
+<record>
+<rk>1 </rk>
+<country>France</country>
+<gold>15 </gold>
+<silver>9 </silver>
+<bronze>16 </bronze>
+<total>40 </total>
+</record>
+<record>
+<rk>2 </rk>
+<country>Greece</country>
+<gold>8 </gold>
+<silver>13 </silver>
+<bronze>12 </bronze>
+<total>33 </total>
+</record>
+<record>
+<rk>3 </rk>
+<country>United States</country>
+<gold>12 </gold>
+<silver>6 </silver>
+<bronze>6 </bronze>
+<total>24 </total>
+</record>
+<record>
+<rk>4 </rk>
+<country>Great Britain</country>
+<gold>8 </gold>
+<silver>11 </silver>
+<bronze>5 </bronze>
+<total>24 </total>
+</record>
+<record>
+<rk>5 </rk>
+<country>Italy</country>
+<gold>7 </gold>
+<silver>6 </silver>
+<bronze>3 </bronze>
+<total>16 </total>
+</record>
+<record>
+<rk>6 </rk>
+<country>Germany</country>
+<gold>4 </gold>
+<silver>6 </silver>
+<bronze>5 </bronze>
+<total>15 </total>
+</record>
+<record>
+<rk>7 </rk>
+<country>Sweden</country>
+<gold>2 </gold>
+<silver>5 </silver>
+<bronze>7 </bronze>
+<total>14 </total>
+</record>
+<record>
+<rk>8 </rk>
+<country>Hungary</country>
+<gold>2 </gold>
+<silver>5 </silver>
+<bronze>3 </bronze>
+<total>10 </total>
+</record>
+<record>
+<rk>9 </rk>
+<country>Austria</country>
+<gold>3 </gold>
+<silver>3 </silver>
+<bronze>3 </bronze>
+<total>9 </total>
+</record>
+<record>
+<rk>10 </rk>
+<country>Switzerland</country>
+<gold>4 </gold>
+<silver>3 </silver>
+<bronze>1 </bronze>
+<total>8 </total>
+</record>
+<record>
+<rk>11 </rk>
+<country>Denmark</country>
+<gold>3 </gold>
+<silver>2 </silver>
+<bronze>1 </bronze>
+<total>6 </total>
+</record>
+<record>
+<rk>12 </rk>
+<country>Belgium</country>
+<gold>2 </gold>
+<silver>1 </silver>
+<bronze>3 </bronze>
+<total>6 </total>
+</record>
+<record>
+<rk>13 </rk>
+<country>Finland</country>
+<gold>2 </gold>
+<silver>1 </silver>
+<bronze>1 </bronze>
+<total>4 </total>
+</record>
+<record>
+<rk>14 </rk>
+<country>Netherlands</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>2 </bronze>
+<total>3 </total>
+</record>
+<record>
+<rk>15 </rk>
+<country>Australia</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>3 </bronze>
+<total>3 </total>
+</record>
+<record>
+<rk>16 </rk>
+<country>Norway</country>
+<gold>1 </gold>
+<silver>1 </silver>
+<bronze>0 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>17 </rk>
+<country>Canada</country>
+<gold>1 </gold>
+<silver>1 </silver>
+<bronze>0 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>18 </rk>
+<country>Mixed team</country>
+<gold>0 </gold>
+<silver>2 </silver>
+<bronze>0 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>19 </rk>
+<country>Bohemia</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>2 </bronze>
+<total>2 </total>
+</record>
+</medals_1906>
+<medals_1908>
+<record>
+<rk>1 </rk>
+<country>Great Britain</country>
+<gold>56 </gold>
+<silver>51 </silver>
+<bronze>39 </bronze>
+<total>146 </total>
+</record>
+<record>
+<rk>2 </rk>
+<country>United States</country>
+<gold>23 </gold>
+<silver>12 </silver>
+<bronze>12 </bronze>
+<total>47 </total>
+</record>
+<record>
+<rk>3 </rk>
+<country>Sweden</country>
+<gold>8 </gold>
+<silver>6 </silver>
+<bronze>11 </bronze>
+<total>25 </total>
+</record>
+<record>
+<rk>4 </rk>
+<country>France</country>
+<gold>5 </gold>
+<silver>5 </silver>
+<bronze>9 </bronze>
+<total>19 </total>
+</record>
+<record>
+<rk>5 </rk>
+<country>Canada</country>
+<gold>3 </gold>
+<silver>3 </silver>
+<bronze>10 </bronze>
+<total>16 </total>
+</record>
+<record>
+<rk>6 </rk>
+<country>Germany</country>
+<gold>3 </gold>
+<silver>5 </silver>
+<bronze>5 </bronze>
+<total>13 </total>
+</record>
+<record>
+<rk>7 </rk>
+<country>Hungary</country>
+<gold>3 </gold>
+<silver>4 </silver>
+<bronze>2 </bronze>
+<total>9 </total>
+</record>
+<record>
+<rk>8 </rk>
+<country>Norway</country>
+<gold>2 </gold>
+<silver>3 </silver>
+<bronze>3 </bronze>
+<total>8 </total>
+</record>
+<record>
+<rk>9 </rk>
+<country>Belgium</country>
+<gold>1 </gold>
+<silver>5 </silver>
+<bronze>2 </bronze>
+<total>8 </total>
+</record>
+<record>
+<rk>10 </rk>
+<country>Australasia</country>
+<gold>1 </gold>
+<silver>2 </silver>
+<bronze>2 </bronze>
+<total>5 </total>
+</record>
+<record>
+<rk>11 </rk>
+<country>Finland</country>
+<gold>1 </gold>
+<silver>1 </silver>
+<bronze>3 </bronze>
+<total>5 </total>
+</record>
+<record>
+<rk>12 </rk>
+<country>Denmark</country>
+<gold>0 </gold>
+<silver>2 </silver>
+<bronze>3 </bronze>
+<total>5 </total>
+</record>
+<record>
+<rk>13 </rk>
+<country>Italy</country>
+<gold>2 </gold>
+<silver>2 </silver>
+<bronze>0 </bronze>
+<total>4 </total>
+</record>
+<record>
+<rk>14 </rk>
+<country>Greece</country>
+<gold>0 </gold>
+<silver>3 </silver>
+<bronze>1 </bronze>
+<total>4 </total>
+</record>
+<record>
+<rk>15 </rk>
+<country>Russia</country>
+<gold>1 </gold>
+<silver>2 </silver>
+<bronze>0 </bronze>
+<total>3 </total>
+</record>
+<record>
+<rk>16 </rk>
+<country>South Africa</country>
+<gold>1 </gold>
+<silver>1 </silver>
+<bronze>0 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>17 </rk>
+<country>Netherlands</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>2 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>18 </rk>
+<country>Bohemia</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>2 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>19 </rk>
+<country>Austria</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>1 </total>
+</record>
+</medals_1908>
+<medals_1912>
+<record>
+<rk>1 </rk>
+<country>Sweden</country>
+<gold>24 </gold>
+<silver>24 </silver>
+<bronze>17 </bronze>
+<total>65 </total>
+</record>
+<record>
+<rk>2 </rk>
+<country>United States</country>
+<gold>26 </gold>
+<silver>19 </silver>
+<bronze>19 </bronze>
+<total>64 </total>
+</record>
+<record>
+<rk>3 </rk>
+<country>Great Britain</country>
+<gold>10 </gold>
+<silver>15 </silver>
+<bronze>16 </bronze>
+<total>41 </total>
+</record>
+<record>
+<rk>4 </rk>
+<country>Finland</country>
+<gold>9 </gold>
+<silver>8 </silver>
+<bronze>9 </bronze>
+<total>26 </total>
+</record>
+<record>
+<rk>5 </rk>
+<country>Germany</country>
+<gold>6 </gold>
+<silver>13 </silver>
+<bronze>7 </bronze>
+<total>26 </total>
+</record>
+<record>
+<rk>6 </rk>
+<country>France</country>
+<gold>7 </gold>
+<silver>5 </silver>
+<bronze>3 </bronze>
+<total>15 </total>
+</record>
+<record>
+<rk>7 </rk>
+<country>Denmark</country>
+<gold>1 </gold>
+<silver>6 </silver>
+<bronze>5 </bronze>
+<total>12 </total>
+</record>
+<record>
+<rk>8 </rk>
+<country>Norway</country>
+<gold>4 </gold>
+<silver>1 </silver>
+<bronze>5 </bronze>
+<total>10 </total>
+</record>
+<record>
+<rk>9 </rk>
+<country>Italy</country>
+<gold>5 </gold>
+<silver>1 </silver>
+<bronze>2 </bronze>
+<total>8 </total>
+</record>
+<record>
+<rk>10 </rk>
+<country>Canada</country>
+<gold>3 </gold>
+<silver>2 </silver>
+<bronze>3 </bronze>
+<total>8 </total>
+</record>
+<record>
+<rk>11 </rk>
+<country>Hungary</country>
+<gold>3 </gold>
+<silver>2 </silver>
+<bronze>3 </bronze>
+<total>8 </total>
+</record>
+<record>
+<rk>12 </rk>
+<country>Australasia</country>
+<gold>2 </gold>
+<silver>2 </silver>
+<bronze>3 </bronze>
+<total>7 </total>
+</record>
+<record>
+<rk>13 </rk>
+<country>South Africa</country>
+<gold>4 </gold>
+<silver>2 </silver>
+<bronze>0 </bronze>
+<total>6 </total>
+</record>
+<record>
+<rk>14 </rk>
+<country>Belgium</country>
+<gold>2 </gold>
+<silver>1 </silver>
+<bronze>3 </bronze>
+<total>6 </total>
+</record>
+<record>
+<rk>15 </rk>
+<country>Russia</country>
+<gold>0 </gold>
+<silver>2 </silver>
+<bronze>3 </bronze>
+<total>5 </total>
+</record>
+<record>
+<rk>16 </rk>
+<country>Austria</country>
+<gold>0 </gold>
+<silver>2 </silver>
+<bronze>2 </bronze>
+<total>4 </total>
+</record>
+<record>
+<rk>17 </rk>
+<country>Netherlands</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>3 </bronze>
+<total>3 </total>
+</record>
+<record>
+<rk>18 </rk>
+<country>Greece</country>
+<gold>1 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>19 </rk>
+<country>Switzerland</country>
+<gold>1 </gold>
+<silver>0 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+</medals_1912>
+<medals_1920>
+<record>
+<rk>1 </rk>
+<country>United States</country>
+<gold>41 </gold>
+<silver>27 </silver>
+<bronze>26 </bronze>
+<total>94 </total>
+</record>
+<record>
+<rk>2 </rk>
+<country>Sweden</country>
+<gold>19 </gold>
+<silver>20 </silver>
+<bronze>24 </bronze>
+<total>63 </total>
+</record>
+<record>
+<rk>3 </rk>
+<country>Great Britain</country>
+<gold>14 </gold>
+<silver>16 </silver>
+<bronze>13 </bronze>
+<total>43 </total>
+</record>
+<record>
+<rk>4 </rk>
+<country>Belgium</country>
+<gold>16 </gold>
+<silver>12 </silver>
+<bronze>14 </bronze>
+<total>42 </total>
+</record>
+<record>
+<rk>5 </rk>
+<country>France</country>
+<gold>9 </gold>
+<silver>20 </silver>
+<bronze>13 </bronze>
+<total>42 </total>
+</record>
+<record>
+<rk>6 </rk>
+<country>Finland</country>
+<gold>15 </gold>
+<silver>10 </silver>
+<bronze>9 </bronze>
+<total>34 </total>
+</record>
+<record>
+<rk>7 </rk>
+<country>Norway</country>
+<gold>13 </gold>
+<silver>10 </silver>
+<bronze>9 </bronze>
+<total>32 </total>
+</record>
+<record>
+<rk>8 </rk>
+<country>Italy</country>
+<gold>14 </gold>
+<silver>6 </silver>
+<bronze>5 </bronze>
+<total>25 </total>
+</record>
+<record>
+<rk>9 </rk>
+<country>Denmark</country>
+<gold>3 </gold>
+<silver>9 </silver>
+<bronze>1 </bronze>
+<total>13 </total>
+</record>
+<record>
+<rk>10 </rk>
+<country>Netherlands</country>
+<gold>4 </gold>
+<silver>2 </silver>
+<bronze>5 </bronze>
+<total>11 </total>
+</record>
+<record>
+<rk>11 </rk>
+<country>Switzerland</country>
+<gold>2 </gold>
+<silver>2 </silver>
+<bronze>7 </bronze>
+<total>11 </total>
+</record>
+<record>
+<rk>12 </rk>
+<country>South Africa</country>
+<gold>3 </gold>
+<silver>4 </silver>
+<bronze>3 </bronze>
+<total>10 </total>
+</record>
+<record>
+<rk>13 </rk>
+<country>Canada</country>
+<gold>3 </gold>
+<silver>3 </silver>
+<bronze>3 </bronze>
+<total>9 </total>
+</record>
+<record>
+<rk>14 </rk>
+<country>Estonia</country>
+<gold>1 </gold>
+<silver>2 </silver>
+<bronze>0 </bronze>
+<total>3 </total>
+</record>
+<record>
+<rk>15 </rk>
+<country>Brazil</country>
+<gold>1 </gold>
+<silver>1 </silver>
+<bronze>1 </bronze>
+<total>3 </total>
+</record>
+<record>
+<rk>16 </rk>
+<country>Australia</country>
+<gold>0 </gold>
+<silver>2 </silver>
+<bronze>1 </bronze>
+<total>3 </total>
+</record>
+<record>
+<rk>17 </rk>
+<country>Japan</country>
+<gold>0 </gold>
+<silver>2 </silver>
+<bronze>0 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>18 </rk>
+<country>Spain</country>
+<gold>0 </gold>
+<silver>2 </silver>
+<bronze>0 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>19 </rk>
+<country>Czechoslovakia</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>2 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>20 </rk>
+<country>Luxembourg</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>21 </rk>
+<country>Greece</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>22 </rk>
+<country>New Zealand</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>1 </total>
+</record>
+</medals_1920>
+<medals_1924>
+<record>
+<rk>1 </rk>
+<country>United States</country>
+<gold>45 </gold>
+<silver>27 </silver>
+<bronze>27 </bronze>
+<total>99 </total>
+</record>
+<record>
+<rk>2 </rk>
+<country>France</country>
+<gold>14 </gold>
+<silver>15 </silver>
+<bronze>12 </bronze>
+<total>41 </total>
+</record>
+<record>
+<rk>3 </rk>
+<country>Finland</country>
+<gold>14 </gold>
+<silver>13 </silver>
+<bronze>10 </bronze>
+<total>37 </total>
+</record>
+<record>
+<rk>4 </rk>
+<country>Great Britain</country>
+<gold>9 </gold>
+<silver>14 </silver>
+<bronze>12 </bronze>
+<total>35 </total>
+</record>
+<record>
+<rk>5 </rk>
+<country>Sweden</country>
+<gold>4 </gold>
+<silver>13 </silver>
+<bronze>12 </bronze>
+<total>29 </total>
+</record>
+<record>
+<rk>6 </rk>
+<country>Switzerland</country>
+<gold>7 </gold>
+<silver>8 </silver>
+<bronze>10 </bronze>
+<total>25 </total>
+</record>
+<record>
+<rk>7 </rk>
+<country>Italy</country>
+<gold>8 </gold>
+<silver>3 </silver>
+<bronze>5 </bronze>
+<total>16 </total>
+</record>
+<record>
+<rk>8 </rk>
+<country>Belgium</country>
+<gold>3 </gold>
+<silver>7 </silver>
+<bronze>3 </bronze>
+<total>13 </total>
+</record>
+<record>
+<rk>9 </rk>
+<country>Netherlands</country>
+<gold>4 </gold>
+<silver>1 </silver>
+<bronze>6 </bronze>
+<total>11 </total>
+</record>
+<record>
+<rk>10 </rk>
+<country>Denmark</country>
+<gold>2 </gold>
+<silver>6 </silver>
+<bronze>3 </bronze>
+<total>11 </total>
+</record>
+<record>
+<rk>11 </rk>
+<country>Norway</country>
+<gold>5 </gold>
+<silver>2 </silver>
+<bronze>3 </bronze>
+<total>10 </total>
+</record>
+<record>
+<rk>12 </rk>
+<country>Hungary</country>
+<gold>2 </gold>
+<silver>4 </silver>
+<bronze>4 </bronze>
+<total>10 </total>
+</record>
+<record>
+<rk>13 </rk>
+<country>Czechoslovakia</country>
+<gold>1 </gold>
+<silver>4 </silver>
+<bronze>5 </bronze>
+<total>10 </total>
+</record>
+<record>
+<rk>14 </rk>
+<country>Australia</country>
+<gold>3 </gold>
+<silver>1 </silver>
+<bronze>2 </bronze>
+<total>6 </total>
+</record>
+<record>
+<rk>15 </rk>
+<country>Argentina</country>
+<gold>1 </gold>
+<silver>3 </silver>
+<bronze>2 </bronze>
+<total>6 </total>
+</record>
+<record>
+<rk>16 </rk>
+<country>Estonia</country>
+<gold>1 </gold>
+<silver>1 </silver>
+<bronze>4 </bronze>
+<total>6 </total>
+</record>
+<record>
+<rk>17 </rk>
+<country>Canada</country>
+<gold>0 </gold>
+<silver>3 </silver>
+<bronze>1 </bronze>
+<total>4 </total>
+</record>
+<record>
+<rk>18 </rk>
+<country>Austria</country>
+<gold>0 </gold>
+<silver>3 </silver>
+<bronze>1 </bronze>
+<total>4 </total>
+</record>
+<record>
+<rk>19 </rk>
+<country>South Africa</country>
+<gold>1 </gold>
+<silver>1 </silver>
+<bronze>1 </bronze>
+<total>3 </total>
+</record>
+<record>
+<rk>20 </rk>
+<country>Yugoslavia</country>
+<gold>2 </gold>
+<silver>0 </silver>
+<bronze>0 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>21 </rk>
+<country>Luxembourg</country>
+<gold>1 </gold>
+<silver>1 </silver>
+<bronze>0 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>22 </rk>
+<country>Ireland</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>1 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>23 </rk>
+<country>Poland</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>1 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>24 </rk>
+<country>Uruguay</country>
+<gold>1 </gold>
+<silver>0 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>25 </rk>
+<country>Greece</country>
+<gold>1 </gold>
+<silver>0 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>26 </rk>
+<country>New Zealand</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>27 </rk>
+<country>Japan</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>28 </rk>
+<country>Portugal</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>29 </rk>
+<country>Romania</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>30 </rk>
+<country>Haiti</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>31 </rk>
+<country>Monaco</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>1 </total>
+</record>
+</medals_1924>
+<medals_1928>
+<record>
+<rk>1 </rk>
+<country>United States</country>
+<gold>22 </gold>
+<silver>18 </silver>
+<bronze>16 </bronze>
+<total>56 </total>
+</record>
+<record>
+<rk>2 </rk>
+<country>Germany</country>
+<gold>11 </gold>
+<silver>9 </silver>
+<bronze>19 </bronze>
+<total>39 </total>
+</record>
+<record>
+<rk>3 </rk>
+<country>Finland</country>
+<gold>8 </gold>
+<silver>8 </silver>
+<bronze>9 </bronze>
+<total>25 </total>
+</record>
+<record>
+<rk>4 </rk>
+<country>France</country>
+<gold>7 </gold>
+<silver>12 </silver>
+<bronze>6 </bronze>
+<total>25 </total>
+</record>
+<record>
+<rk>5 </rk>
+<country>Sweden</country>
+<gold>7 </gold>
+<silver>6 </silver>
+<bronze>12 </bronze>
+<total>25 </total>
+</record>
+<record>
+<rk>6 </rk>
+<country>Netherlands</country>
+<gold>8 </gold>
+<silver>10 </silver>
+<bronze>5 </bronze>
+<total>23 </total>
+</record>
+<record>
+<rk>7 </rk>
+<country>Great Britain</country>
+<gold>4 </gold>
+<silver>11 </silver>
+<bronze>7 </bronze>
+<total>22 </total>
+</record>
+<record>
+<rk>8 </rk>
+<country>Italy</country>
+<gold>7 </gold>
+<silver>6 </silver>
+<bronze>7 </bronze>
+<total>20 </total>
+</record>
+<record>
+<rk>9 </rk>
+<country>Switzerland</country>
+<gold>7 </gold>
+<silver>6 </silver>
+<bronze>4 </bronze>
+<total>17 </total>
+</record>
+<record>
+<rk>10 </rk>
+<country>Canada</country>
+<gold>4 </gold>
+<silver>4 </silver>
+<bronze>7 </bronze>
+<total>15 </total>
+</record>
+<record>
+<rk>11 </rk>
+<country>Hungary</country>
+<gold>5 </gold>
+<silver>5 </silver>
+<bronze>0 </bronze>
+<total>10 </total>
+</record>
+<record>
+<rk>12 </rk>
+<country>Denmark</country>
+<gold>3 </gold>
+<silver>2 </silver>
+<bronze>4 </bronze>
+<total>9 </total>
+</record>
+<record>
+<rk>13 </rk>
+<country>Czechoslovakia</country>
+<gold>2 </gold>
+<silver>5 </silver>
+<bronze>2 </bronze>
+<total>9 </total>
+</record>
+<record>
+<rk>14 </rk>
+<country>Argentina</country>
+<gold>3 </gold>
+<silver>3 </silver>
+<bronze>1 </bronze>
+<total>7 </total>
+</record>
+<record>
+<rk>15 </rk>
+<country>Poland</country>
+<gold>2 </gold>
+<silver>1 </silver>
+<bronze>4 </bronze>
+<total>7 </total>
+</record>
+<record>
+<rk>16 </rk>
+<country>Japan</country>
+<gold>2 </gold>
+<silver>2 </silver>
+<bronze>1 </bronze>
+<total>5 </total>
+</record>
+<record>
+<rk>17 </rk>
+<country>Estonia</country>
+<gold>2 </gold>
+<silver>1 </silver>
+<bronze>2 </bronze>
+<total>5 </total>
+</record>
+<record>
+<rk>18 </rk>
+<country>Yugoslavia</country>
+<gold>1 </gold>
+<silver>1 </silver>
+<bronze>3 </bronze>
+<total>5 </total>
+</record>
+<record>
+<rk>19 </rk>
+<country>Austria</country>
+<gold>3 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>4 </total>
+</record>
+<record>
+<rk>20 </rk>
+<country>Egypt</country>
+<gold>2 </gold>
+<silver>1 </silver>
+<bronze>1 </bronze>
+<total>4 </total>
+</record>
+<record>
+<rk>21 </rk>
+<country>Australia</country>
+<gold>1 </gold>
+<silver>2 </silver>
+<bronze>1 </bronze>
+<total>4 </total>
+</record>
+<record>
+<rk>22 </rk>
+<country>Norway</country>
+<gold>1 </gold>
+<silver>2 </silver>
+<bronze>1 </bronze>
+<total>4 </total>
+</record>
+<record>
+<rk>23 </rk>
+<country>South Africa</country>
+<gold>1 </gold>
+<silver>0 </silver>
+<bronze>2 </bronze>
+<total>3 </total>
+</record>
+<record>
+<rk>24 </rk>
+<country>Belgium</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>2 </bronze>
+<total>3 </total>
+</record>
+<record>
+<rk>25 </rk>
+<country>New Zealand</country>
+<gold>1 </gold>
+<silver>0 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>26 </rk>
+<country>India</country>
+<gold>1 </gold>
+<silver>0 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>27 </rk>
+<country>Spain</country>
+<gold>1 </gold>
+<silver>0 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>28 </rk>
+<country>Uruguay</country>
+<gold>1 </gold>
+<silver>0 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>29 </rk>
+<country>Ireland</country>
+<gold>1 </gold>
+<silver>0 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>30 </rk>
+<country>Luxembourg</country>
+<gold>1 </gold>
+<silver>0 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>31 </rk>
+<country>Haiti</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>32 </rk>
+<country>Chile</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>33 </rk>
+<country>Philippines</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>34 </rk>
+<country>Portugal</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>1 </total>
+</record>
+</medals_1928>
+<medals_1932>
+<record>
+<rk>1 </rk>
+<country>United States</country>
+<gold>44 </gold>
+<silver>36 </silver>
+<bronze>30 </bronze>
+<total>110 </total>
+</record>
+<record>
+<rk>2 </rk>
+<country>Italy</country>
+<gold>12 </gold>
+<silver>12 </silver>
+<bronze>12 </bronze>
+<total>36 </total>
+</record>
+<record>
+<rk>3 </rk>
+<country>Finland</country>
+<gold>5 </gold>
+<silver>8 </silver>
+<bronze>12 </bronze>
+<total>25 </total>
+</record>
+<record>
+<rk>4 </rk>
+<country>Sweden</country>
+<gold>10 </gold>
+<silver>5 </silver>
+<bronze>9 </bronze>
+<total>24 </total>
+</record>
+<record>
+<rk>5 </rk>
+<country>Germany</country>
+<gold>5 </gold>
+<silver>12 </silver>
+<bronze>7 </bronze>
+<total>24 </total>
+</record>
+<record>
+<rk>6 </rk>
+<country>France</country>
+<gold>11 </gold>
+<silver>5 </silver>
+<bronze>4 </bronze>
+<total>20 </total>
+</record>
+<record>
+<rk>7 </rk>
+<country>Japan</country>
+<gold>7 </gold>
+<silver>7 </silver>
+<bronze>4 </bronze>
+<total>18 </total>
+</record>
+<record>
+<rk>8 </rk>
+<country>Great Britain</country>
+<gold>5 </gold>
+<silver>7 </silver>
+<bronze>5 </bronze>
+<total>17 </total>
+</record>
+<record>
+<rk>9 </rk>
+<country>Hungary</country>
+<gold>6 </gold>
+<silver>5 </silver>
+<bronze>5 </bronze>
+<total>16 </total>
+</record>
+<record>
+<rk>10 </rk>
+<country>Canada</country>
+<gold>2 </gold>
+<silver>5 </silver>
+<bronze>9 </bronze>
+<total>16 </total>
+</record>
+<record>
+<rk>11 </rk>
+<country>Poland</country>
+<gold>3 </gold>
+<silver>2 </silver>
+<bronze>4 </bronze>
+<total>9 </total>
+</record>
+<record>
+<rk>12 </rk>
+<country>Netherlands</country>
+<gold>2 </gold>
+<silver>5 </silver>
+<bronze>1 </bronze>
+<total>8 </total>
+</record>
+<record>
+<rk>13 </rk>
+<country>Denmark</country>
+<gold>0 </gold>
+<silver>5 </silver>
+<bronze>3 </bronze>
+<total>8 </total>
+</record>
+<record>
+<rk>14 </rk>
+<country>Czechoslovakia</country>
+<gold>1 </gold>
+<silver>3 </silver>
+<bronze>2 </bronze>
+<total>6 </total>
+</record>
+<record>
+<rk>15 </rk>
+<country>Australia</country>
+<gold>3 </gold>
+<silver>1 </silver>
+<bronze>1 </bronze>
+<total>5 </total>
+</record>
+<record>
+<rk>16 </rk>
+<country>South Africa</country>
+<gold>2 </gold>
+<silver>0 </silver>
+<bronze>3 </bronze>
+<total>5 </total>
+</record>
+<record>
+<rk>17 </rk>
+<country>Austria</country>
+<gold>1 </gold>
+<silver>1 </silver>
+<bronze>3 </bronze>
+<total>5 </total>
+</record>
+<record>
+<rk>18 </rk>
+<country>Argentina</country>
+<gold>3 </gold>
+<silver>1 </silver>
+<bronze>0 </bronze>
+<total>4 </total>
+</record>
+<record>
+<rk>19 </rk>
+<country>Philippines</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>3 </bronze>
+<total>3 </total>
+</record>
+<record>
+<rk>20 </rk>
+<country>Ireland</country>
+<gold>2 </gold>
+<silver>0 </silver>
+<bronze>0 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>21 </rk>
+<country>Mexico</country>
+<gold>0 </gold>
+<silver>2 </silver>
+<bronze>0 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>22 </rk>
+<country>India</country>
+<gold>1 </gold>
+<silver>0 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>23 </rk>
+<country>Switzerland</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>24 </rk>
+<country>New Zealand</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>25 </rk>
+<country>Latvia</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>26 </rk>
+<country>Spain</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>27 </rk>
+<country>Uruguay</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>28 </rk>
+<country>Belgium</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>1 </total>
+</record>
+</medals_1932>
+<medals_1936>
+<record>
+<rk>1 </rk>
+<country>Germany</country>
+<gold>38 </gold>
+<silver>31 </silver>
+<bronze>32 </bronze>
+<total>101 </total>
+</record>
+<record>
+<rk>2 </rk>
+<country>United States</country>
+<gold>24 </gold>
+<silver>21 </silver>
+<bronze>12 </bronze>
+<total>57 </total>
+</record>
+<record>
+<rk>3 </rk>
+<country>Italy</country>
+<gold>9 </gold>
+<silver>13 </silver>
+<bronze>5 </bronze>
+<total>27 </total>
+</record>
+<record>
+<rk>4 </rk>
+<country>Sweden</country>
+<gold>6 </gold>
+<silver>5 </silver>
+<bronze>10 </bronze>
+<total>21 </total>
+</record>
+<record>
+<rk>5 </rk>
+<country>Finland</country>
+<gold>8 </gold>
+<silver>6 </silver>
+<bronze>6 </bronze>
+<total>20 </total>
+</record>
+<record>
+<rk>6 </rk>
+<country>Japan</country>
+<gold>6 </gold>
+<silver>4 </silver>
+<bronze>10 </bronze>
+<total>20 </total>
+</record>
+<record>
+<rk>7 </rk>
+<country>France</country>
+<gold>7 </gold>
+<silver>6 </silver>
+<bronze>6 </bronze>
+<total>19 </total>
+</record>
+<record>
+<rk>8 </rk>
+<country>Switzerland</country>
+<gold>4 </gold>
+<silver>9 </silver>
+<bronze>5 </bronze>
+<total>18 </total>
+</record>
+<record>
+<rk>9 </rk>
+<country>Netherlands</country>
+<gold>6 </gold>
+<silver>4 </silver>
+<bronze>7 </bronze>
+<total>17 </total>
+</record>
+<record>
+<rk>10 </rk>
+<country>Austria</country>
+<gold>5 </gold>
+<silver>7 </silver>
+<bronze>5 </bronze>
+<total>17 </total>
+</record>
+<record>
+<rk>11 </rk>
+<country>Hungary</country>
+<gold>10 </gold>
+<silver>1 </silver>
+<bronze>5 </bronze>
+<total>16 </total>
+</record>
+<record>
+<rk>12 </rk>
+<country>Great Britain</country>
+<gold>4 </gold>
+<silver>7 </silver>
+<bronze>3 </bronze>
+<total>14 </total>
+</record>
+<record>
+<rk>13 </rk>
+<country>Czechoslovakia</country>
+<gold>3 </gold>
+<silver>5 </silver>
+<bronze>1 </bronze>
+<total>9 </total>
+</record>
+<record>
+<rk>14 </rk>
+<country>Canada</country>
+<gold>1 </gold>
+<silver>3 </silver>
+<bronze>5 </bronze>
+<total>9 </total>
+</record>
+<record>
+<rk>15 </rk>
+<country>Poland</country>
+<gold>0 </gold>
+<silver>4 </silver>
+<bronze>5 </bronze>
+<total>9 </total>
+</record>
+<record>
+<rk>16 </rk>
+<country>Argentina</country>
+<gold>2 </gold>
+<silver>2 </silver>
+<bronze>3 </bronze>
+<total>7 </total>
+</record>
+<record>
+<rk>17 </rk>
+<country>Estonia</country>
+<gold>2 </gold>
+<silver>2 </silver>
+<bronze>3 </bronze>
+<total>7 </total>
+</record>
+<record>
+<rk>18 </rk>
+<country>Norway</country>
+<gold>1 </gold>
+<silver>3 </silver>
+<bronze>2 </bronze>
+<total>6 </total>
+</record>
+<record>
+<rk>19 </rk>
+<country>Egypt</country>
+<gold>2 </gold>
+<silver>1 </silver>
+<bronze>2 </bronze>
+<total>5 </total>
+</record>
+<record>
+<rk>20 </rk>
+<country>Denmark</country>
+<gold>0 </gold>
+<silver>2 </silver>
+<bronze>3 </bronze>
+<total>5 </total>
+</record>
+<record>
+<rk>21 </rk>
+<country>Belgium</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>3 </bronze>
+<total>3 </total>
+</record>
+<record>
+<rk>22 </rk>
+<country>Mexico</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>3 </bronze>
+<total>3 </total>
+</record>
+<record>
+<rk>23 </rk>
+<country>Turkey</country>
+<gold>1 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>24 </rk>
+<country>Latvia</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>1 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>25 </rk>
+<country>New Zealand</country>
+<gold>1 </gold>
+<silver>0 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>26 </rk>
+<country>India</country>
+<gold>1 </gold>
+<silver>0 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>27 </rk>
+<country>South Africa</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>28 </rk>
+<country>Yugoslavia</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>29 </rk>
+<country>Romania</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>30 </rk>
+<country>Philippines</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>31 </rk>
+<country>Australia</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>32 </rk>
+<country>Portugal</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>1 </total>
+</record>
+</medals_1936>
+<medals_1948>
+<record>
+<rk>1 </rk>
+<country>United States</country>
+<gold>38 </gold>
+<silver>27 </silver>
+<bronze>19 </bronze>
+<total>84 </total>
+</record>
+<record>
+<rk>2 </rk>
+<country>Sweden</country>
+<gold>17 </gold>
+<silver>11 </silver>
+<bronze>18 </bronze>
+<total>46 </total>
+</record>
+<record>
+<rk>3 </rk>
+<country>France</country>
+<gold>11 </gold>
+<silver>6 </silver>
+<bronze>15 </bronze>
+<total>32 </total>
+</record>
+<record>
+<rk>4 </rk>
+<country>Italy</country>
+<gold>9 </gold>
+<silver>12 </silver>
+<bronze>10 </bronze>
+<total>31 </total>
+</record>
+<record>
+<rk>5 </rk>
+<country>Hungary</country>
+<gold>10 </gold>
+<silver>5 </silver>
+<bronze>13 </bronze>
+<total>28 </total>
+</record>
+<record>
+<rk>6 </rk>
+<country>Great Britain</country>
+<gold>4 </gold>
+<silver>16 </silver>
+<bronze>7 </bronze>
+<total>27 </total>
+</record>
+<record>
+<rk>7 </rk>
+<country>Finland</country>
+<gold>10 </gold>
+<silver>8 </silver>
+<bronze>6 </bronze>
+<total>24 </total>
+</record>
+<record>
+<rk>8 </rk>
+<country>Switzerland</country>
+<gold>5 </gold>
+<silver>12 </silver>
+<bronze>6 </bronze>
+<total>23 </total>
+</record>
+<record>
+<rk>9 </rk>
+<country>Denmark</country>
+<gold>5 </gold>
+<silver>8 </silver>
+<bronze>9 </bronze>
+<total>22 </total>
+</record>
+<record>
+<rk>10 </rk>
+<country>Netherlands</country>
+<gold>5 </gold>
+<silver>2 </silver>
+<bronze>9 </bronze>
+<total>16 </total>
+</record>
+<record>
+<rk>11 </rk>
+<country>Australia</country>
+<gold>2 </gold>
+<silver>6 </silver>
+<bronze>5 </bronze>
+<total>13 </total>
+</record>
+<record>
+<rk>12 </rk>
+<country>Turkey</country>
+<gold>6 </gold>
+<silver>4 </silver>
+<bronze>2 </bronze>
+<total>12 </total>
+</record>
+<record>
+<rk>13 </rk>
+<country>Czechoslovakia</country>
+<gold>6 </gold>
+<silver>2 </silver>
+<bronze>3 </bronze>
+<total>11 </total>
+</record>
+<record>
+<rk>14 </rk>
+<country>Austria</country>
+<gold>2 </gold>
+<silver>2 </silver>
+<bronze>4 </bronze>
+<total>8 </total>
+</record>
+<record>
+<rk>15 </rk>
+<country>Argentina</country>
+<gold>3 </gold>
+<silver>3 </silver>
+<bronze>1 </bronze>
+<total>7 </total>
+</record>
+<record>
+<rk>16 </rk>
+<country>Belgium</country>
+<gold>2 </gold>
+<silver>2 </silver>
+<bronze>3 </bronze>
+<total>7 </total>
+</record>
+<record>
+<rk>17 </rk>
+<country>Norway</country>
+<gold>1 </gold>
+<silver>3 </silver>
+<bronze>3 </bronze>
+<total>7 </total>
+</record>
+<record>
+<rk>18 </rk>
+<country>South Africa</country>
+<gold>2 </gold>
+<silver>2 </silver>
+<bronze>2 </bronze>
+<total>6 </total>
+</record>
+<record>
+<rk>19 </rk>
+<country>Egypt</country>
+<gold>2 </gold>
+<silver>2 </silver>
+<bronze>1 </bronze>
+<total>5 </total>
+</record>
+<record>
+<rk>20 </rk>
+<country>Mexico</country>
+<gold>2 </gold>
+<silver>1 </silver>
+<bronze>2 </bronze>
+<total>5 </total>
+</record>
+<record>
+<rk>21 </rk>
+<country>Canada</country>
+<gold>0 </gold>
+<silver>2 </silver>
+<bronze>2 </bronze>
+<total>4 </total>
+</record>
+<record>
+<rk>22 </rk>
+<country>Jamaica</country>
+<gold>1 </gold>
+<silver>2 </silver>
+<bronze>0 </bronze>
+<total>3 </total>
+</record>
+<record>
+<rk>23 </rk>
+<country>Poland</country>
+<gold>1 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>24 </rk>
+<country>Yugoslavia</country>
+<gold>0 </gold>
+<silver>2 </silver>
+<bronze>0 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>25 </rk>
+<country>Portugal</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>1 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>26 </rk>
+<country>Uruguay</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>1 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>27 </rk>
+<country>South Korea</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>2 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>28 </rk>
+<country>Panama</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>2 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>29 </rk>
+<country>India</country>
+<gold>1 </gold>
+<silver>0 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>30 </rk>
+<country>Peru</country>
+<gold>1 </gold>
+<silver>0 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>31 </rk>
+<country>Trinidad and Tobago</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>32 </rk>
+<country>Spain</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>33 </rk>
+<country>Cuba</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>34 </rk>
+<country>Sri Lanka</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>35 </rk>
+<country>Puerto Rico</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>36 </rk>
+<country>Brazil</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>37 </rk>
+<country>Iran</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>38 </rk>
+<country>Ireland</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>1 </total>
+</record>
+</medals_1948>
+<medals_1952>
+<record>
+<rk>1 </rk>
+<country>United States</country>
+<gold>40 </gold>
+<silver>19 </silver>
+<bronze>17 </bronze>
+<total>76 </total>
+</record>
+<record>
+<rk>2 </rk>
+<country>Soviet Union</country>
+<gold>22 </gold>
+<silver>30 </silver>
+<bronze>19 </bronze>
+<total>71 </total>
+</record>
+<record>
+<rk>3 </rk>
+<country>Hungary</country>
+<gold>16 </gold>
+<silver>10 </silver>
+<bronze>16 </bronze>
+<total>42 </total>
+</record>
+<record>
+<rk>4 </rk>
+<country>Sweden</country>
+<gold>12 </gold>
+<silver>13 </silver>
+<bronze>10 </bronze>
+<total>35 </total>
+</record>
+<record>
+<rk>5 </rk>
+<country>Germany</country>
+<gold>0 </gold>
+<silver>7 </silver>
+<bronze>17 </bronze>
+<total>24 </total>
+</record>
+<record>
+<rk>6 </rk>
+<country>Finland</country>
+<gold>6 </gold>
+<silver>3 </silver>
+<bronze>13 </bronze>
+<total>22 </total>
+</record>
+<record>
+<rk>7 </rk>
+<country>Italy</country>
+<gold>8 </gold>
+<silver>9 </silver>
+<bronze>4 </bronze>
+<total>21 </total>
+</record>
+<record>
+<rk>8 </rk>
+<country>France</country>
+<gold>6 </gold>
+<silver>6 </silver>
+<bronze>6 </bronze>
+<total>18 </total>
+</record>
+<record>
+<rk>9 </rk>
+<country>Switzerland</country>
+<gold>2 </gold>
+<silver>6 </silver>
+<bronze>6 </bronze>
+<total>14 </total>
+</record>
+<record>
+<rk>10 </rk>
+<country>Czechoslovakia</country>
+<gold>7 </gold>
+<silver>3 </silver>
+<bronze>3 </bronze>
+<total>13 </total>
+</record>
+<record>
+<rk>11 </rk>
+<country>Australia</country>
+<gold>6 </gold>
+<silver>2 </silver>
+<bronze>3 </bronze>
+<total>11 </total>
+</record>
+<record>
+<rk>12 </rk>
+<country>Great Britain</country>
+<gold>1 </gold>
+<silver>2 </silver>
+<bronze>8 </bronze>
+<total>11 </total>
+</record>
+<record>
+<rk>13 </rk>
+<country>South Africa</country>
+<gold>2 </gold>
+<silver>4 </silver>
+<bronze>4 </bronze>
+<total>10 </total>
+</record>
+<record>
+<rk>14 </rk>
+<country>Japan</country>
+<gold>1 </gold>
+<silver>6 </silver>
+<bronze>2 </bronze>
+<total>9 </total>
+</record>
+<record>
+<rk>15 </rk>
+<country>Iran</country>
+<gold>0 </gold>
+<silver>3 </silver>
+<bronze>4 </bronze>
+<total>7 </total>
+</record>
+<record>
+<rk>16 </rk>
+<country>Denmark</country>
+<gold>2 </gold>
+<silver>1 </silver>
+<bronze>3 </bronze>
+<total>6 </total>
+</record>
+<record>
+<rk>17 </rk>
+<country>Norway</country>
+<gold>3 </gold>
+<silver>2 </silver>
+<bronze>0 </bronze>
+<total>5 </total>
+</record>
+<record>
+<rk>18 </rk>
+<country>Jamaica</country>
+<gold>2 </gold>
+<silver>3 </silver>
+<bronze>0 </bronze>
+<total>5 </total>
+</record>
+<record>
+<rk>19 </rk>
+<country>Argentina</country>
+<gold>1 </gold>
+<silver>2 </silver>
+<bronze>2 </bronze>
+<total>5 </total>
+</record>
+<record>
+<rk>20 </rk>
+<country>Netherlands</country>
+<gold>0 </gold>
+<silver>5 </silver>
+<bronze>0 </bronze>
+<total>5 </total>
+</record>
+<record>
+<rk>21 </rk>
+<country>Belgium</country>
+<gold>2 </gold>
+<silver>2 </silver>
+<bronze>0 </bronze>
+<total>4 </total>
+</record>
+<record>
+<rk>22 </rk>
+<country>Poland</country>
+<gold>1 </gold>
+<silver>2 </silver>
+<bronze>1 </bronze>
+<total>4 </total>
+</record>
+<record>
+<rk>23 </rk>
+<country>Romania</country>
+<gold>1 </gold>
+<silver>1 </silver>
+<bronze>2 </bronze>
+<total>4 </total>
+</record>
+<record>
+<rk>24 </rk>
+<country>Turkey</country>
+<gold>2 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>3 </total>
+</record>
+<record>
+<rk>25 </rk>
+<country>Canada</country>
+<gold>1 </gold>
+<silver>2 </silver>
+<bronze>0 </bronze>
+<total>3 </total>
+</record>
+<record>
+<rk>26 </rk>
+<country>Yugoslavia</country>
+<gold>1 </gold>
+<silver>2 </silver>
+<bronze>0 </bronze>
+<total>3 </total>
+</record>
+<record>
+<rk>27 </rk>
+<country>Brazil</country>
+<gold>1 </gold>
+<silver>0 </silver>
+<bronze>2 </bronze>
+<total>3 </total>
+</record>
+<record>
+<rk>28 </rk>
+<country>New Zealand</country>
+<gold>1 </gold>
+<silver>0 </silver>
+<bronze>2 </bronze>
+<total>3 </total>
+</record>
+<record>
+<rk>29 </rk>
+<country>India</country>
+<gold>1 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>30 </rk>
+<country>Chile</country>
+<gold>0 </gold>
+<silver>2 </silver>
+<bronze>0 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>31 </rk>
+<country>Lebanon</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>1 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>32 </rk>
+<country>Austria</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>1 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>33 </rk>
+<country>Trinidad and Tobago</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>2 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>34 </rk>
+<country>Uruguay</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>2 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>35 </rk>
+<country>South Korea</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>2 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>36 </rk>
+<country>Luxembourg</country>
+<gold>1 </gold>
+<silver>0 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>37 </rk>
+<country>Ireland</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>38 </rk>
+<country>Spain</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>39 </rk>
+<country>Mexico</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>40 </rk>
+<country>Portugal</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>41 </rk>
+<country>Bulgaria</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>42 </rk>
+<country>Venezuela</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>43 </rk>
+<country>Egypt</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>1 </total>
+</record>
+</medals_1952>
+<medals_1956>
+<record>
+<rk>1 </rk>
+<country>Soviet Union</country>
+<gold>37 </gold>
+<silver>29 </silver>
+<bronze>32 </bronze>
+<total>98 </total>
+</record>
+<record>
+<rk>2 </rk>
+<country>United States</country>
+<gold>32 </gold>
+<silver>25 </silver>
+<bronze>17 </bronze>
+<total>74 </total>
+</record>
+<record>
+<rk>3 </rk>
+<country>Australia</country>
+<gold>13 </gold>
+<silver>8 </silver>
+<bronze>14 </bronze>
+<total>35 </total>
+</record>
+<record>
+<rk>4 </rk>
+<country>Hungary</country>
+<gold>9 </gold>
+<silver>10 </silver>
+<bronze>7 </bronze>
+<total>26 </total>
+</record>
+<record>
+<rk>5 </rk>
+<country>Italy</country>
+<gold>8 </gold>
+<silver>6 </silver>
+<bronze>8 </bronze>
+<total>22 </total>
+</record>
+<record>
+<rk>6 </rk>
+<country>Great Britain</country>
+<gold>5 </gold>
+<silver>7 </silver>
+<bronze>9 </bronze>
+<total>21 </total>
+</record>
+<record>
+<rk>7 </rk>
+<country>Germany</country>
+<gold>4 </gold>
+<silver>10 </silver>
+<bronze>6 </bronze>
+<total>20 </total>
+</record>
+<record>
+<rk>8 </rk>
+<country>Japan</country>
+<gold>4 </gold>
+<silver>10 </silver>
+<bronze>5 </bronze>
+<total>19 </total>
+</record>
+<record>
+<rk>9 </rk>
+<country>Sweden</country>
+<gold>5 </gold>
+<silver>5 </silver>
+<bronze>6 </bronze>
+<total>16 </total>
+</record>
+<record>
+<rk>10 </rk>
+<country>Finland</country>
+<gold>3 </gold>
+<silver>1 </silver>
+<bronze>11 </bronze>
+<total>15 </total>
+</record>
+<record>
+<rk>11 </rk>
+<country>France</country>
+<gold>4 </gold>
+<silver>4 </silver>
+<bronze>6 </bronze>
+<total>14 </total>
+</record>
+<record>
+<rk>12 </rk>
+<country>Romania</country>
+<gold>5 </gold>
+<silver>3 </silver>
+<bronze>5 </bronze>
+<total>13 </total>
+</record>
+<record>
+<rk>13 </rk>
+<country>Poland</country>
+<gold>1 </gold>
+<silver>4 </silver>
+<bronze>4 </bronze>
+<total>9 </total>
+</record>
+<record>
+<rk>14 </rk>
+<country>Turkey</country>
+<gold>3 </gold>
+<silver>2 </silver>
+<bronze>2 </bronze>
+<total>7 </total>
+</record>
+<record>
+<rk>15 </rk>
+<country>Czechoslovakia</country>
+<gold>1 </gold>
+<silver>4 </silver>
+<bronze>1 </bronze>
+<total>6 </total>
+</record>
+<record>
+<rk>16 </rk>
+<country>Iran</country>
+<gold>2 </gold>
+<silver>2 </silver>
+<bronze>1 </bronze>
+<total>5 </total>
+</record>
+<record>
+<rk>17 </rk>
+<country>Canada</country>
+<gold>2 </gold>
+<silver>1 </silver>
+<bronze>2 </bronze>
+<total>5 </total>
+</record>
+<record>
+<rk>18 </rk>
+<country>Bulgaria</country>
+<gold>1 </gold>
+<silver>3 </silver>
+<bronze>1 </bronze>
+<total>5 </total>
+</record>
+<record>
+<rk>19 </rk>
+<country>Ireland</country>
+<gold>1 </gold>
+<silver>1 </silver>
+<bronze>3 </bronze>
+<total>5 </total>
+</record>
+<record>
+<rk>20 </rk>
+<country>Chile</country>
+<gold>0 </gold>
+<silver>2 </silver>
+<bronze>2 </bronze>
+<total>4 </total>
+</record>
+<record>
+<rk>21 </rk>
+<country>South Africa</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>4 </bronze>
+<total>4 </total>
+</record>
+<record>
+<rk>22 </rk>
+<country>Denmark</country>
+<gold>1 </gold>
+<silver>1 </silver>
+<bronze>1 </bronze>
+<total>3 </total>
+</record>
+<record>
+<rk>23 </rk>
+<country>Norway</country>
+<gold>1 </gold>
+<silver>0 </silver>
+<bronze>2 </bronze>
+<total>3 </total>
+</record>
+<record>
+<rk>24 </rk>
+<country>Yugoslavia</country>
+<gold>0 </gold>
+<silver>3 </silver>
+<bronze>0 </bronze>
+<total>3 </total>
+</record>
+<record>
+<rk>25 </rk>
+<country>New Zealand</country>
+<gold>2 </gold>
+<silver>0 </silver>
+<bronze>0 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>26 </rk>
+<country>Mexico</country>
+<gold>1 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>27 </rk>
+<country>Belgium</country>
+<gold>0 </gold>
+<silver>2 </silver>
+<bronze>0 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>28 </rk>
+<country>South Korea</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>1 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>29 </rk>
+<country>Argentina</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>1 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>30 </rk>
+<country>Austria</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>2 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>31 </rk>
+<country>India</country>
+<gold>1 </gold>
+<silver>0 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>32 </rk>
+<country>Brazil</country>
+<gold>1 </gold>
+<silver>0 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>33 </rk>
+<country>Iceland</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>34 </rk>
+<country>Pakistan</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>35 </rk>
+<country>Greece</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>36 </rk>
+<country>Bahamas</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>37 </rk>
+<country>Uruguay</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>1 </total>
+</record>
+</medals_1956>
+<medals_1960>
+<record>
+<rk>1 </rk>
+<country>Soviet Union</country>
+<gold>43 </gold>
+<silver>29 </silver>
+<bronze>31 </bronze>
+<total>103 </total>
+</record>
+<record>
+<rk>2 </rk>
+<country>United States</country>
+<gold>34 </gold>
+<silver>21 </silver>
+<bronze>16 </bronze>
+<total>71 </total>
+</record>
+<record>
+<rk>3 </rk>
+<country>Germany</country>
+<gold>12 </gold>
+<silver>19 </silver>
+<bronze>11 </bronze>
+<total>42 </total>
+</record>
+<record>
+<rk>4 </rk>
+<country>Italy</country>
+<gold>13 </gold>
+<silver>10 </silver>
+<bronze>13 </bronze>
+<total>36 </total>
+</record>
+<record>
+<rk>5 </rk>
+<country>Australia</country>
+<gold>8 </gold>
+<silver>8 </silver>
+<bronze>6 </bronze>
+<total>22 </total>
+</record>
+<record>
+<rk>6 </rk>
+<country>Hungary</country>
+<gold>6 </gold>
+<silver>8 </silver>
+<bronze>7 </bronze>
+<total>21 </total>
+</record>
+<record>
+<rk>7 </rk>
+<country>Poland</country>
+<gold>4 </gold>
+<silver>6 </silver>
+<bronze>11 </bronze>
+<total>21 </total>
+</record>
+<record>
+<rk>8 </rk>
+<country>Great Britain</country>
+<gold>2 </gold>
+<silver>6 </silver>
+<bronze>12 </bronze>
+<total>20 </total>
+</record>
+<record>
+<rk>9 </rk>
+<country>Japan</country>
+<gold>4 </gold>
+<silver>7 </silver>
+<bronze>7 </bronze>
+<total>18 </total>
+</record>
+<record>
+<rk>10 </rk>
+<country>Romania</country>
+<gold>3 </gold>
+<silver>1 </silver>
+<bronze>6 </bronze>
+<total>10 </total>
+</record>
+<record>
+<rk>11 </rk>
+<country>Turkey</country>
+<gold>7 </gold>
+<silver>2 </silver>
+<bronze>0 </bronze>
+<total>9 </total>
+</record>
+<record>
+<rk>12 </rk>
+<country>Czechoslovakia</country>
+<gold>3 </gold>
+<silver>2 </silver>
+<bronze>3 </bronze>
+<total>8 </total>
+</record>
+<record>
+<rk>13 </rk>
+<country>Bulgaria</country>
+<gold>1 </gold>
+<silver>3 </silver>
+<bronze>3 </bronze>
+<total>7 </total>
+</record>
+<record>
+<rk>14 </rk>
+<country>Denmark</country>
+<gold>2 </gold>
+<silver>3 </silver>
+<bronze>1 </bronze>
+<total>6 </total>
+</record>
+<record>
+<rk>15 </rk>
+<country>Sweden</country>
+<gold>1 </gold>
+<silver>2 </silver>
+<bronze>3 </bronze>
+<total>6 </total>
+</record>
+<record>
+<rk>16 </rk>
+<country>Switzerland</country>
+<gold>0 </gold>
+<silver>3 </silver>
+<bronze>3 </bronze>
+<total>6 </total>
+</record>
+<record>
+<rk>17 </rk>
+<country>Finland</country>
+<gold>1 </gold>
+<silver>1 </silver>
+<bronze>3 </bronze>
+<total>5 </total>
+</record>
+<record>
+<rk>18 </rk>
+<country>France</country>
+<gold>0 </gold>
+<silver>2 </silver>
+<bronze>3 </bronze>
+<total>5 </total>
+</record>
+<record>
+<rk>19 </rk>
+<country>Belgium</country>
+<gold>0 </gold>
+<silver>2 </silver>
+<bronze>2 </bronze>
+<total>4 </total>
+</record>
+<record>
+<rk>20 </rk>
+<country>Iran</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>3 </bronze>
+<total>4 </total>
+</record>
+<record>
+<rk>21 </rk>
+<country>New Zealand</country>
+<gold>2 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>3 </total>
+</record>
+<record>
+<rk>22 </rk>
+<country>Netherlands</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>2 </bronze>
+<total>3 </total>
+</record>
+<record>
+<rk>23 </rk>
+<country>South Africa</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>2 </bronze>
+<total>3 </total>
+</record>
+<record>
+<rk>24 </rk>
+<country>Yugoslavia</country>
+<gold>1 </gold>
+<silver>1 </silver>
+<bronze>0 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>25 </rk>
+<country>Austria</country>
+<gold>1 </gold>
+<silver>1 </silver>
+<bronze>0 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>26 </rk>
+<country>Pakistan</country>
+<gold>1 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>27 </rk>
+<country>Argentina</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>1 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>28 </rk>
+<country>United Arab Republic</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>1 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>29 </rk>
+<country>Brazil</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>2 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>30 </rk>
+<country>West Indies Federation</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>2 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>31 </rk>
+<country>Norway</country>
+<gold>1 </gold>
+<silver>0 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>32 </rk>
+<country>Ethiopia</country>
+<gold>1 </gold>
+<silver>0 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>33 </rk>
+<country>Greece</country>
+<gold>1 </gold>
+<silver>0 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>34 </rk>
+<country>Singapore</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>35 </rk>
+<country>India</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>36 </rk>
+<country>Chinese Taipei</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>37 </rk>
+<country>Canada</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>38 </rk>
+<country>Portugal</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>39 </rk>
+<country>Ghana</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>40 </rk>
+<country>Morocco</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>41 </rk>
+<country>Venezuela</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>42 </rk>
+<country>Mexico</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>43 </rk>
+<country>Iraq</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>44 </rk>
+<country>Spain</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>1 </total>
+</record>
+</medals_1960>
+<medals_1964>
+<record>
+<rk>1 </rk>
+<country>Soviet Union</country>
+<gold>30 </gold>
+<silver>31 </silver>
+<bronze>35 </bronze>
+<total>96 </total>
+</record>
+<record>
+<rk>2 </rk>
+<country>United States</country>
+<gold>36 </gold>
+<silver>26 </silver>
+<bronze>28 </bronze>
+<total>90 </total>
+</record>
+<record>
+<rk>3 </rk>
+<country>Germany</country>
+<gold>10 </gold>
+<silver>22 </silver>
+<bronze>18 </bronze>
+<total>50 </total>
+</record>
+<record>
+<rk>4 </rk>
+<country>Japan</country>
+<gold>16 </gold>
+<silver>5 </silver>
+<bronze>8 </bronze>
+<total>29 </total>
+</record>
+<record>
+<rk>5 </rk>
+<country>Italy</country>
+<gold>10 </gold>
+<silver>10 </silver>
+<bronze>7 </bronze>
+<total>27 </total>
+</record>
+<record>
+<rk>6 </rk>
+<country>Poland</country>
+<gold>7 </gold>
+<silver>6 </silver>
+<bronze>10 </bronze>
+<total>23 </total>
+</record>
+<record>
+<rk>7 </rk>
+<country>Hungary</country>
+<gold>10 </gold>
+<silver>7 </silver>
+<bronze>5 </bronze>
+<total>22 </total>
+</record>
+<record>
+<rk>8 </rk>
+<country>Australia</country>
+<gold>6 </gold>
+<silver>2 </silver>
+<bronze>10 </bronze>
+<total>18 </total>
+</record>
+<record>
+<rk>9 </rk>
+<country>Great Britain</country>
+<gold>4 </gold>
+<silver>12 </silver>
+<bronze>2 </bronze>
+<total>18 </total>
+</record>
+<record>
+<rk>10 </rk>
+<country>France</country>
+<gold>1 </gold>
+<silver>8 </silver>
+<bronze>6 </bronze>
+<total>15 </total>
+</record>
+<record>
+<rk>11 </rk>
+<country>Czechoslovakia</country>
+<gold>5 </gold>
+<silver>6 </silver>
+<bronze>3 </bronze>
+<total>14 </total>
+</record>
+<record>
+<rk>12 </rk>
+<country>Romania</country>
+<gold>2 </gold>
+<silver>4 </silver>
+<bronze>6 </bronze>
+<total>12 </total>
+</record>
+<record>
+<rk>13 </rk>
+<country>Bulgaria</country>
+<gold>3 </gold>
+<silver>5 </silver>
+<bronze>2 </bronze>
+<total>10 </total>
+</record>
+<record>
+<rk>14 </rk>
+<country>Netherlands</country>
+<gold>2 </gold>
+<silver>4 </silver>
+<bronze>4 </bronze>
+<total>10 </total>
+</record>
+<record>
+<rk>15 </rk>
+<country>Sweden</country>
+<gold>2 </gold>
+<silver>2 </silver>
+<bronze>4 </bronze>
+<total>8 </total>
+</record>
+<record>
+<rk>16 </rk>
+<country>Turkey</country>
+<gold>2 </gold>
+<silver>3 </silver>
+<bronze>1 </bronze>
+<total>6 </total>
+</record>
+<record>
+<rk>17 </rk>
+<country>Denmark</country>
+<gold>2 </gold>
+<silver>1 </silver>
+<bronze>3 </bronze>
+<total>6 </total>
+</record>
+<record>
+<rk>18 </rk>
+<country>New Zealand</country>
+<gold>3 </gold>
+<silver>0 </silver>
+<bronze>2 </bronze>
+<total>5 </total>
+</record>
+<record>
+<rk>19 </rk>
+<country>Finland</country>
+<gold>3 </gold>
+<silver>0 </silver>
+<bronze>2 </bronze>
+<total>5 </total>
+</record>
+<record>
+<rk>20 </rk>
+<country>Yugoslavia</country>
+<gold>2 </gold>
+<silver>1 </silver>
+<bronze>2 </bronze>
+<total>5 </total>
+</record>
+<record>
+<rk>21 </rk>
+<country>Switzerland</country>
+<gold>1 </gold>
+<silver>2 </silver>
+<bronze>1 </bronze>
+<total>4 </total>
+</record>
+<record>
+<rk>22 </rk>
+<country>Canada</country>
+<gold>1 </gold>
+<silver>2 </silver>
+<bronze>1 </bronze>
+<total>4 </total>
+</record>
+<record>
+<rk>23 </rk>
+<country>Belgium</country>
+<gold>2 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>3 </total>
+</record>
+<record>
+<rk>24 </rk>
+<country>South Korea</country>
+<gold>0 </gold>
+<silver>2 </silver>
+<bronze>1 </bronze>
+<total>3 </total>
+</record>
+<record>
+<rk>25 </rk>
+<country>Trinidad and Tobago</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>2 </bronze>
+<total>3 </total>
+</record>
+<record>
+<rk>26 </rk>
+<country>Tunisia</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>1 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>27 </rk>
+<country>Iran</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>2 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>28 </rk>
+<country>Ethiopia</country>
+<gold>1 </gold>
+<silver>0 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>29 </rk>
+<country>Bahamas</country>
+<gold>1 </gold>
+<silver>0 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>30 </rk>
+<country>India</country>
+<gold>1 </gold>
+<silver>0 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>31 </rk>
+<country>Pakistan</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>32 </rk>
+<country>Argentina</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>33 </rk>
+<country>Philippines</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>34 </rk>
+<country>Cuba</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>35 </rk>
+<country>Uruguay</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>36 </rk>
+<country>Ireland</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>37 </rk>
+<country>Nigeria</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>38 </rk>
+<country>Brazil</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>39 </rk>
+<country>Mexico</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>40 </rk>
+<country>Ghana</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>41 </rk>
+<country>Kenya</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>1 </total>
+</record>
+</medals_1964>
+<medals_1968>
+<record>
+<rk>1 </rk>
+<country>United States</country>
+<gold>45 </gold>
+<silver>28 </silver>
+<bronze>34 </bronze>
+<total>107 </total>
+</record>
+<record>
+<rk>2 </rk>
+<country>Soviet Union</country>
+<gold>29 </gold>
+<silver>32 </silver>
+<bronze>30 </bronze>
+<total>91 </total>
+</record>
+<record>
+<rk>3 </rk>
+<country>Hungary</country>
+<gold>10 </gold>
+<silver>10 </silver>
+<bronze>12 </bronze>
+<total>32 </total>
+</record>
+<record>
+<rk>4 </rk>
+<country>West Germany</country>
+<gold>5 </gold>
+<silver>11 </silver>
+<bronze>10 </bronze>
+<total>26 </total>
+</record>
+<record>
+<rk>5 </rk>
+<country>Japan</country>
+<gold>11 </gold>
+<silver>7 </silver>
+<bronze>7 </bronze>
+<total>25 </total>
+</record>
+<record>
+<rk>6 </rk>
+<country>East Germany</country>
+<gold>9 </gold>
+<silver>9 </silver>
+<bronze>7 </bronze>
+<total>25 </total>
+</record>
+<record>
+<rk>7 </rk>
+<country>Poland</country>
+<gold>5 </gold>
+<silver>2 </silver>
+<bronze>11 </bronze>
+<total>18 </total>
+</record>
+<record>
+<rk>8 </rk>
+<country>Australia</country>
+<gold>5 </gold>
+<silver>7 </silver>
+<bronze>5 </bronze>
+<total>17 </total>
+</record>
+<record>
+<rk>9 </rk>
+<country>Italy</country>
+<gold>3 </gold>
+<silver>4 </silver>
+<bronze>9 </bronze>
+<total>16 </total>
+</record>
+<record>
+<rk>10 </rk>
+<country>France</country>
+<gold>7 </gold>
+<silver>3 </silver>
+<bronze>5 </bronze>
+<total>15 </total>
+</record>
+<record>
+<rk>11 </rk>
+<country>Romania</country>
+<gold>4 </gold>
+<silver>6 </silver>
+<bronze>5 </bronze>
+<total>15 </total>
+</record>
+<record>
+<rk>12 </rk>
+<country>Czechoslovakia</country>
+<gold>7 </gold>
+<silver>2 </silver>
+<bronze>4 </bronze>
+<total>13 </total>
+</record>
+<record>
+<rk>13 </rk>
+<country>Great Britain</country>
+<gold>5 </gold>
+<silver>5 </silver>
+<bronze>3 </bronze>
+<total>13 </total>
+</record>
+<record>
+<rk>14 </rk>
+<country>Kenya</country>
+<gold>3 </gold>
+<silver>4 </silver>
+<bronze>2 </bronze>
+<total>9 </total>
+</record>
+<record>
+<rk>15 </rk>
+<country>Mexico</country>
+<gold>3 </gold>
+<silver>3 </silver>
+<bronze>3 </bronze>
+<total>9 </total>
+</record>
+<record>
+<rk>16 </rk>
+<country>Bulgaria</country>
+<gold>2 </gold>
+<silver>4 </silver>
+<bronze>3 </bronze>
+<total>9 </total>
+</record>
+<record>
+<rk>17 </rk>
+<country>Yugoslavia</country>
+<gold>3 </gold>
+<silver>3 </silver>
+<bronze>2 </bronze>
+<total>8 </total>
+</record>
+<record>
+<rk>18 </rk>
+<country>Denmark</country>
+<gold>1 </gold>
+<silver>4 </silver>
+<bronze>3 </bronze>
+<total>8 </total>
+</record>
+<record>
+<rk>19 </rk>
+<country>Netherlands</country>
+<gold>3 </gold>
+<silver>3 </silver>
+<bronze>1 </bronze>
+<total>7 </total>
+</record>
+<record>
+<rk>20 </rk>
+<country>Iran</country>
+<gold>2 </gold>
+<silver>1 </silver>
+<bronze>2 </bronze>
+<total>5 </total>
+</record>
+<record>
+<rk>21 </rk>
+<country>Canada</country>
+<gold>1 </gold>
+<silver>3 </silver>
+<bronze>1 </bronze>
+<total>5 </total>
+</record>
+<record>
+<rk>22 </rk>
+<country>Switzerland</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>4 </bronze>
+<total>5 </total>
+</record>
+<record>
+<rk>23 </rk>
+<country>Sweden</country>
+<gold>2 </gold>
+<silver>1 </silver>
+<bronze>1 </bronze>
+<total>4 </total>
+</record>
+<record>
+<rk>24 </rk>
+<country>Finland</country>
+<gold>1 </gold>
+<silver>2 </silver>
+<bronze>1 </bronze>
+<total>4 </total>
+</record>
+<record>
+<rk>25 </rk>
+<country>Cuba</country>
+<gold>0 </gold>
+<silver>4 </silver>
+<bronze>0 </bronze>
+<total>4 </total>
+</record>
+<record>
+<rk>26 </rk>
+<country>Austria</country>
+<gold>0 </gold>
+<silver>2 </silver>
+<bronze>2 </bronze>
+<total>4 </total>
+</record>
+<record>
+<rk>27 </rk>
+<country>Mongolia</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>3 </bronze>
+<total>4 </total>
+</record>
+<record>
+<rk>28 </rk>
+<country>New Zealand</country>
+<gold>1 </gold>
+<silver>0 </silver>
+<bronze>2 </bronze>
+<total>3 </total>
+</record>
+<record>
+<rk>29 </rk>
+<country>Brazil</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>2 </bronze>
+<total>3 </total>
+</record>
+<record>
+<rk>30 </rk>
+<country>Turkey</country>
+<gold>2 </gold>
+<silver>0 </silver>
+<bronze>0 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>31 </rk>
+<country>Ethiopia</country>
+<gold>1 </gold>
+<silver>1 </silver>
+<bronze>0 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>32 </rk>
+<country>Norway</country>
+<gold>1 </gold>
+<silver>1 </silver>
+<bronze>0 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>33 </rk>
+<country>Tunisia</country>
+<gold>1 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>34 </rk>
+<country>Belgium</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>1 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>35 </rk>
+<country>South Korea</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>1 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>36 </rk>
+<country>Uganda</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>1 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>37 </rk>
+<country>Argentina</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>2 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>38 </rk>
+<country>Venezuela</country>
+<gold>1 </gold>
+<silver>0 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>39 </rk>
+<country>Pakistan</country>
+<gold>1 </gold>
+<silver>0 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>40 </rk>
+<country>Cameroon</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>41 </rk>
+<country>Jamaica</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>42 </rk>
+<country>Chinese Taipei</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>43 </rk>
+<country>India</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>44 </rk>
+<country>Greece</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>1 </total>
+</record>
+</medals_1968>
+<medals_1972>
+<record>
+<rk>1 </rk>
+<country>Soviet Union</country>
+<gold>50 </gold>
+<silver>27 </silver>
+<bronze>22 </bronze>
+<total>99 </total>
+</record>
+<record>
+<rk>2 </rk>
+<country>United States</country>
+<gold>33 </gold>
+<silver>31 </silver>
+<bronze>30 </bronze>
+<total>94 </total>
+</record>
+<record>
+<rk>3 </rk>
+<country>East Germany</country>
+<gold>20 </gold>
+<silver>23 </silver>
+<bronze>23 </bronze>
+<total>66 </total>
+</record>
+<record>
+<rk>4 </rk>
+<country>West Germany</country>
+<gold>13 </gold>
+<silver>11 </silver>
+<bronze>16 </bronze>
+<total>40 </total>
+</record>
+<record>
+<rk>5 </rk>
+<country>Hungary</country>
+<gold>6 </gold>
+<silver>13 </silver>
+<bronze>16 </bronze>
+<total>35 </total>
+</record>
+<record>
+<rk>6 </rk>
+<country>Japan</country>
+<gold>13 </gold>
+<silver>8 </silver>
+<bronze>8 </bronze>
+<total>29 </total>
+</record>
+<record>
+<rk>7 </rk>
+<country>Poland</country>
+<gold>7 </gold>
+<silver>5 </silver>
+<bronze>9 </bronze>
+<total>21 </total>
+</record>
+<record>
+<rk>8 </rk>
+<country>Bulgaria</country>
+<gold>6 </gold>
+<silver>10 </silver>
+<bronze>5 </bronze>
+<total>21 </total>
+</record>
+<record>
+<rk>9 </rk>
+<country>Italy</country>
+<gold>5 </gold>
+<silver>3 </silver>
+<bronze>10 </bronze>
+<total>18 </total>
+</record>
+<record>
+<rk>10 </rk>
+<country>Great Britain</country>
+<gold>4 </gold>
+<silver>5 </silver>
+<bronze>9 </bronze>
+<total>18 </total>
+</record>
+<record>
+<rk>11 </rk>
+<country>Australia</country>
+<gold>8 </gold>
+<silver>7 </silver>
+<bronze>2 </bronze>
+<total>17 </total>
+</record>
+<record>
+<rk>12 </rk>
+<country>Sweden</country>
+<gold>4 </gold>
+<silver>6 </silver>
+<bronze>6 </bronze>
+<total>16 </total>
+</record>
+<record>
+<rk>13 </rk>
+<country>Romania</country>
+<gold>3 </gold>
+<silver>6 </silver>
+<bronze>7 </bronze>
+<total>16 </total>
+</record>
+<record>
+<rk>14 </rk>
+<country>France</country>
+<gold>2 </gold>
+<silver>4 </silver>
+<bronze>7 </bronze>
+<total>13 </total>
+</record>
+<record>
+<rk>15 </rk>
+<country>Kenya</country>
+<gold>2 </gold>
+<silver>3 </silver>
+<bronze>4 </bronze>
+<total>9 </total>
+</record>
+<record>
+<rk>16 </rk>
+<country>Cuba</country>
+<gold>3 </gold>
+<silver>1 </silver>
+<bronze>4 </bronze>
+<total>8 </total>
+</record>
+<record>
+<rk>17 </rk>
+<country>Finland</country>
+<gold>3 </gold>
+<silver>1 </silver>
+<bronze>4 </bronze>
+<total>8 </total>
+</record>
+<record>
+<rk>18 </rk>
+<country>Czechoslovakia</country>
+<gold>2 </gold>
+<silver>4 </silver>
+<bronze>2 </bronze>
+<total>8 </total>
+</record>
+<record>
+<rk>19 </rk>
+<country>Netherlands</country>
+<gold>3 </gold>
+<silver>1 </silver>
+<bronze>1 </bronze>
+<total>5 </total>
+</record>
+<record>
+<rk>20 </rk>
+<country>Yugoslavia</country>
+<gold>2 </gold>
+<silver>1 </silver>
+<bronze>2 </bronze>
+<total>5 </total>
+</record>
+<record>
+<rk>21 </rk>
+<country>North Korea</country>
+<gold>1 </gold>
+<silver>1 </silver>
+<bronze>3 </bronze>
+<total>5 </total>
+</record>
+<record>
+<rk>22 </rk>
+<country>Canada</country>
+<gold>0 </gold>
+<silver>2 </silver>
+<bronze>3 </bronze>
+<total>5 </total>
+</record>
+<record>
+<rk>23 </rk>
+<country>Norway</country>
+<gold>2 </gold>
+<silver>1 </silver>
+<bronze>1 </bronze>
+<total>4 </total>
+</record>
+<record>
+<rk>24 </rk>
+<country>New Zealand</country>
+<gold>1 </gold>
+<silver>1 </silver>
+<bronze>1 </bronze>
+<total>3 </total>
+</record>
+<record>
+<rk>25 </rk>
+<country>Switzerland</country>
+<gold>0 </gold>
+<silver>3 </silver>
+<bronze>0 </bronze>
+<total>3 </total>
+</record>
+<record>
+<rk>26 </rk>
+<country>Iran</country>
+<gold>0 </gold>
+<silver>2 </silver>
+<bronze>1 </bronze>
+<total>3 </total>
+</record>
+<record>
+<rk>27 </rk>
+<country>Colombia</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>2 </bronze>
+<total>3 </total>
+</record>
+<record>
+<rk>28 </rk>
+<country>Austria</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>2 </bronze>
+<total>3 </total>
+</record>
+<record>
+<rk>29 </rk>
+<country>Uganda</country>
+<gold>1 </gold>
+<silver>1 </silver>
+<bronze>0 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>30 </rk>
+<country>Greece</country>
+<gold>0 </gold>
+<silver>2 </silver>
+<bronze>0 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>31 </rk>
+<country>Belgium</country>
+<gold>0 </gold>
+<silver>2 </silver>
+<bronze>0 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>32 </rk>
+<country>Brazil</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>2 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>33 </rk>
+<country>Ethiopia</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>2 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>34 </rk>
+<country>Denmark</country>
+<gold>1 </gold>
+<silver>0 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>35 </rk>
+<country>Mexico</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>36 </rk>
+<country>Lebanon</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>37 </rk>
+<country>Tunisia</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>38 </rk>
+<country>Turkey</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>39 </rk>
+<country>South Korea</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>40 </rk>
+<country>Pakistan</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>41 </rk>
+<country>Mongolia</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>42 </rk>
+<country>Argentina</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>43 </rk>
+<country>Spain</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>44 </rk>
+<country>Niger</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>45 </rk>
+<country>Ghana</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>46 </rk>
+<country>India</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>47 </rk>
+<country>Jamaica</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>48 </rk>
+<country>Nigeria</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>1 </total>
+</record>
+</medals_1972>
+<medals_1976>
+<record>
+<rk>1 </rk>
+<country>Soviet Union</country>
+<gold>49 </gold>
+<silver>41 </silver>
+<bronze>35 </bronze>
+<total>125 </total>
+</record>
+<record>
+<rk>2 </rk>
+<country>United States</country>
+<gold>34 </gold>
+<silver>35 </silver>
+<bronze>25 </bronze>
+<total>94 </total>
+</record>
+<record>
+<rk>3 </rk>
+<country>East Germany</country>
+<gold>40 </gold>
+<silver>25 </silver>
+<bronze>25 </bronze>
+<total>90 </total>
+</record>
+<record>
+<rk>4 </rk>
+<country>West Germany</country>
+<gold>10 </gold>
+<silver>12 </silver>
+<bronze>17 </bronze>
+<total>39 </total>
+</record>
+<record>
+<rk>5 </rk>
+<country>Romania</country>
+<gold>4 </gold>
+<silver>9 </silver>
+<bronze>14 </bronze>
+<total>27 </total>
+</record>
+<record>
+<rk>6 </rk>
+<country>Poland</country>
+<gold>7 </gold>
+<silver>6 </silver>
+<bronze>13 </bronze>
+<total>26 </total>
+</record>
+<record>
+<rk>7 </rk>
+<country>Japan</country>
+<gold>9 </gold>
+<silver>6 </silver>
+<bronze>10 </bronze>
+<total>25 </total>
+</record>
+<record>
+<rk>8 </rk>
+<country>Bulgaria</country>
+<gold>6 </gold>
+<silver>9 </silver>
+<bronze>7 </bronze>
+<total>22 </total>
+</record>
+<record>
+<rk>9 </rk>
+<country>Hungary</country>
+<gold>4 </gold>
+<silver>5 </silver>
+<bronze>13 </bronze>
+<total>22 </total>
+</record>
+<record>
+<rk>10 </rk>
+<country>Cuba</country>
+<gold>6 </gold>
+<silver>4 </silver>
+<bronze>3 </bronze>
+<total>13 </total>
+</record>
+<record>
+<rk>11 </rk>
+<country>Great Britain</country>
+<gold>3 </gold>
+<silver>5 </silver>
+<bronze>5 </bronze>
+<total>13 </total>
+</record>
+<record>
+<rk>12 </rk>
+<country>Italy</country>
+<gold>2 </gold>
+<silver>7 </silver>
+<bronze>4 </bronze>
+<total>13 </total>
+</record>
+<record>
+<rk>13 </rk>
+<country>Canada</country>
+<gold>0 </gold>
+<silver>5 </silver>
+<bronze>6 </bronze>
+<total>11 </total>
+</record>
+<record>
+<rk>14 </rk>
+<country>France</country>
+<gold>2 </gold>
+<silver>3 </silver>
+<bronze>4 </bronze>
+<total>9 </total>
+</record>
+<record>
+<rk>15 </rk>
+<country>Yugoslavia</country>
+<gold>2 </gold>
+<silver>3 </silver>
+<bronze>3 </bronze>
+<total>8 </total>
+</record>
+<record>
+<rk>16 </rk>
+<country>Czechoslovakia</country>
+<gold>2 </gold>
+<silver>2 </silver>
+<bronze>4 </bronze>
+<total>8 </total>
+</record>
+<record>
+<rk>17 </rk>
+<country>Finland</country>
+<gold>4 </gold>
+<silver>2 </silver>
+<bronze>0 </bronze>
+<total>6 </total>
+</record>
+<record>
+<rk>18 </rk>
+<country>South Korea</country>
+<gold>1 </gold>
+<silver>1 </silver>
+<bronze>4 </bronze>
+<total>6 </total>
+</record>
+<record>
+<rk>19 </rk>
+<country>Belgium</country>
+<gold>0 </gold>
+<silver>3 </silver>
+<bronze>3 </bronze>
+<total>6 </total>
+</record>
+<record>
+<rk>20 </rk>
+<country>Sweden</country>
+<gold>4 </gold>
+<silver>1 </silver>
+<bronze>0 </bronze>
+<total>5 </total>
+</record>
+<record>
+<rk>21 </rk>
+<country>Netherlands</country>
+<gold>0 </gold>
+<silver>2 </silver>
+<bronze>3 </bronze>
+<total>5 </total>
+</record>
+<record>
+<rk>22 </rk>
+<country>Australia</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>4 </bronze>
+<total>5 </total>
+</record>
+<record>
+<rk>23 </rk>
+<country>New Zealand</country>
+<gold>2 </gold>
+<silver>1 </silver>
+<bronze>1 </bronze>
+<total>4 </total>
+</record>
+<record>
+<rk>24 </rk>
+<country>Switzerland</country>
+<gold>1 </gold>
+<silver>1 </silver>
+<bronze>2 </bronze>
+<total>4 </total>
+</record>
+<record>
+<rk>25 </rk>
+<country>Denmark</country>
+<gold>1 </gold>
+<silver>0 </silver>
+<bronze>2 </bronze>
+<total>3 </total>
+</record>
+<record>
+<rk>26 </rk>
+<country>Jamaica</country>
+<gold>1 </gold>
+<silver>1 </silver>
+<bronze>0 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>27 </rk>
+<country>Norway</country>
+<gold>1 </gold>
+<silver>1 </silver>
+<bronze>0 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>28 </rk>
+<country>North Korea</country>
+<gold>1 </gold>
+<silver>1 </silver>
+<bronze>0 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>29 </rk>
+<country>Mexico</country>
+<gold>1 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>30 </rk>
+<country>Spain</country>
+<gold>0 </gold>
+<silver>2 </silver>
+<bronze>0 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>31 </rk>
+<country>Portugal</country>
+<gold>0 </gold>
+<silver>2 </silver>
+<bronze>0 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>32 </rk>
+<country>Iran</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>1 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>33 </rk>
+<country>Brazil</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>2 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>34 </rk>
+<country>Trinidad and Tobago</country>
+<gold>1 </gold>
+<silver>0 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>35 </rk>
+<country>Venezuela</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>36 </rk>
+<country>Mongolia</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>37 </rk>
+<country>Thailand</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>38 </rk>
+<country>Bermuda</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>39 </rk>
+<country>Puerto Rico</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>40 </rk>
+<country>Pakistan</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>41 </rk>
+<country>Austria</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>1 </total>
+</record>
+</medals_1976>
+<medals_1980>
+<record>
+<rk>1 </rk>
+<country>Soviet Union</country>
+<gold>80 </gold>
+<silver>69 </silver>
+<bronze>46 </bronze>
+<total>195 </total>
+</record>
+<record>
+<rk>2 </rk>
+<country>East Germany</country>
+<gold>47 </gold>
+<silver>37 </silver>
+<bronze>42 </bronze>
+<total>126 </total>
+</record>
+<record>
+<rk>3 </rk>
+<country>Bulgaria</country>
+<gold>8 </gold>
+<silver>16 </silver>
+<bronze>17 </bronze>
+<total>41 </total>
+</record>
+<record>
+<rk>4 </rk>
+<country>Hungary</country>
+<gold>7 </gold>
+<silver>10 </silver>
+<bronze>15 </bronze>
+<total>32 </total>
+</record>
+<record>
+<rk>5 </rk>
+<country>Poland</country>
+<gold>3 </gold>
+<silver>14 </silver>
+<bronze>15 </bronze>
+<total>32 </total>
+</record>
+<record>
+<rk>6 </rk>
+<country>Romania</country>
+<gold>6 </gold>
+<silver>6 </silver>
+<bronze>13 </bronze>
+<total>25 </total>
+</record>
+<record>
+<rk>7 </rk>
+<country>Great Britain</country>
+<gold>5 </gold>
+<silver>7 </silver>
+<bronze>9 </bronze>
+<total>21 </total>
+</record>
+<record>
+<rk>8 </rk>
+<country>Cuba</country>
+<gold>8 </gold>
+<silver>7 </silver>
+<bronze>5 </bronze>
+<total>20 </total>
+</record>
+<record>
+<rk>9 </rk>
+<country>Italy</country>
+<gold>8 </gold>
+<silver>3 </silver>
+<bronze>4 </bronze>
+<total>15 </total>
+</record>
+<record>
+<rk>10 </rk>
+<country>France</country>
+<gold>6 </gold>
+<silver>5 </silver>
+<bronze>3 </bronze>
+<total>14 </total>
+</record>
+<record>
+<rk>11 </rk>
+<country>Czechoslovakia</country>
+<gold>2 </gold>
+<silver>3 </silver>
+<bronze>9 </bronze>
+<total>14 </total>
+</record>
+<record>
+<rk>12 </rk>
+<country>Sweden</country>
+<gold>3 </gold>
+<silver>3 </silver>
+<bronze>6 </bronze>
+<total>12 </total>
+</record>
+<record>
+<rk>13 </rk>
+<country>Yugoslavia</country>
+<gold>2 </gold>
+<silver>3 </silver>
+<bronze>4 </bronze>
+<total>9 </total>
+</record>
+<record>
+<rk>14 </rk>
+<country>Australia</country>
+<gold>2 </gold>
+<silver>2 </silver>
+<bronze>5 </bronze>
+<total>9 </total>
+</record>
+<record>
+<rk>15 </rk>
+<country>Finland</country>
+<gold>3 </gold>
+<silver>1 </silver>
+<bronze>4 </bronze>
+<total>8 </total>
+</record>
+<record>
+<rk>16 </rk>
+<country>Spain</country>
+<gold>1 </gold>
+<silver>3 </silver>
+<bronze>2 </bronze>
+<total>6 </total>
+</record>
+<record>
+<rk>17 </rk>
+<country>Denmark</country>
+<gold>2 </gold>
+<silver>1 </silver>
+<bronze>2 </bronze>
+<total>5 </total>
+</record>
+<record>
+<rk>18 </rk>
+<country>North Korea</country>
+<gold>0 </gold>
+<silver>3 </silver>
+<bronze>2 </bronze>
+<total>5 </total>
+</record>
+<record>
+<rk>19 </rk>
+<country>Brazil</country>
+<gold>2 </gold>
+<silver>0 </silver>
+<bronze>2 </bronze>
+<total>4 </total>
+</record>
+<record>
+<rk>20 </rk>
+<country>Ethiopia</country>
+<gold>2 </gold>
+<silver>0 </silver>
+<bronze>2 </bronze>
+<total>4 </total>
+</record>
+<record>
+<rk>21 </rk>
+<country>Austria</country>
+<gold>1 </gold>
+<silver>2 </silver>
+<bronze>1 </bronze>
+<total>4 </total>
+</record>
+<record>
+<rk>22 </rk>
+<country>Mongolia</country>
+<gold>0 </gold>
+<silver>2 </silver>
+<bronze>2 </bronze>
+<total>4 </total>
+</record>
+<record>
+<rk>23 </rk>
+<country>Mexico</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>3 </bronze>
+<total>4 </total>
+</record>
+<record>
+<rk>24 </rk>
+<country>Greece</country>
+<gold>1 </gold>
+<silver>0 </silver>
+<bronze>2 </bronze>
+<total>3 </total>
+</record>
+<record>
+<rk>25 </rk>
+<country>Netherlands</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>2 </bronze>
+<total>3 </total>
+</record>
+<record>
+<rk>26 </rk>
+<country>Jamaica</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>3 </bronze>
+<total>3 </total>
+</record>
+<record>
+<rk>27 </rk>
+<country>Switzerland</country>
+<gold>2 </gold>
+<silver>0 </silver>
+<bronze>0 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>28 </rk>
+<country>Tanzania</country>
+<gold>0 </gold>
+<silver>2 </silver>
+<bronze>0 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>29 </rk>
+<country>Ireland</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>1 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>30 </rk>
+<country>Zimbabwe</country>
+<gold>1 </gold>
+<silver>0 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>31 </rk>
+<country>Belgium</country>
+<gold>1 </gold>
+<silver>0 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>32 </rk>
+<country>India</country>
+<gold>1 </gold>
+<silver>0 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>33 </rk>
+<country>Uganda</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>34 </rk>
+<country>Venezuela</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>35 </rk>
+<country>Guyana</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>36 </rk>
+<country>Lebanon</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>1 </total>
+</record>
+</medals_1980>
+<medals_1984>
+<record>
+<rk>1 </rk>
+<country>United States</country>
+<gold>83 </gold>
+<silver>61 </silver>
+<bronze>30 </bronze>
+<total>174 </total>
+</record>
+<record>
+<rk>2 </rk>
+<country>West Germany</country>
+<gold>17 </gold>
+<silver>19 </silver>
+<bronze>23 </bronze>
+<total>59 </total>
+</record>
+<record>
+<rk>3 </rk>
+<country>Romania</country>
+<gold>20 </gold>
+<silver>16 </silver>
+<bronze>17 </bronze>
+<total>53 </total>
+</record>
+<record>
+<rk>4 </rk>
+<country>Canada</country>
+<gold>10 </gold>
+<silver>18 </silver>
+<bronze>16 </bronze>
+<total>44 </total>
+</record>
+<record>
+<rk>5 </rk>
+<country>Great Britain</country>
+<gold>5 </gold>
+<silver>11 </silver>
+<bronze>21 </bronze>
+<total>37 </total>
+</record>
+<record>
+<rk>6 </rk>
+<country>China</country>
+<gold>15 </gold>
+<silver>8 </silver>
+<bronze>9 </bronze>
+<total>32 </total>
+</record>
+<record>
+<rk>7 </rk>
+<country>Italy</country>
+<gold>14 </gold>
+<silver>6 </silver>
+<bronze>12 </bronze>
+<total>32 </total>
+</record>
+<record>
+<rk>8 </rk>
+<country>Japan</country>
+<gold>10 </gold>
+<silver>8 </silver>
+<bronze>14 </bronze>
+<total>32 </total>
+</record>
+<record>
+<rk>9 </rk>
+<country>France</country>
+<gold>5 </gold>
+<silver>7 </silver>
+<bronze>16 </bronze>
+<total>28 </total>
+</record>
+<record>
+<rk>10 </rk>
+<country>Australia</country>
+<gold>4 </gold>
+<silver>8 </silver>
+<bronze>12 </bronze>
+<total>24 </total>
+</record>
+<record>
+<rk>11 </rk>
+<country>South Korea</country>
+<gold>6 </gold>
+<silver>6 </silver>
+<bronze>7 </bronze>
+<total>19 </total>
+</record>
+<record>
+<rk>12 </rk>
+<country>Sweden</country>
+<gold>2 </gold>
+<silver>11 </silver>
+<bronze>6 </bronze>
+<total>19 </total>
+</record>
+<record>
+<rk>13 </rk>
+<country>Yugoslavia</country>
+<gold>7 </gold>
+<silver>4 </silver>
+<bronze>7 </bronze>
+<total>18 </total>
+</record>
+<record>
+<rk>14 </rk>
+<country>Netherlands</country>
+<gold>5 </gold>
+<silver>2 </silver>
+<bronze>6 </bronze>
+<total>13 </total>
+</record>
+<record>
+<rk>15 </rk>
+<country>Finland</country>
+<gold>4 </gold>
+<silver>2 </silver>
+<bronze>6 </bronze>
+<total>12 </total>
+</record>
+<record>
+<rk>16 </rk>
+<country>New Zealand</country>
+<gold>8 </gold>
+<silver>1 </silver>
+<bronze>2 </bronze>
+<total>11 </total>
+</record>
+<record>
+<rk>17 </rk>
+<country>Brazil</country>
+<gold>1 </gold>
+<silver>5 </silver>
+<bronze>2 </bronze>
+<total>8 </total>
+</record>
+<record>
+<rk>18 </rk>
+<country>Switzerland</country>
+<gold>0 </gold>
+<silver>4 </silver>
+<bronze>4 </bronze>
+<total>8 </total>
+</record>
+<record>
+<rk>19 </rk>
+<country>Mexico</country>
+<gold>2 </gold>
+<silver>3 </silver>
+<bronze>1 </bronze>
+<total>6 </total>
+</record>
+<record>
+<rk>20 </rk>
+<country>Denmark</country>
+<gold>0 </gold>
+<silver>3 </silver>
+<bronze>3 </bronze>
+<total>6 </total>
+</record>
+<record>
+<rk>21 </rk>
+<country>Spain</country>
+<gold>1 </gold>
+<silver>2 </silver>
+<bronze>2 </bronze>
+<total>5 </total>
+</record>
+<record>
+<rk>22 </rk>
+<country>Belgium</country>
+<gold>1 </gold>
+<silver>1 </silver>
+<bronze>2 </bronze>
+<total>4 </total>
+</record>
+<record>
+<rk>23 </rk>
+<country>Austria</country>
+<gold>1 </gold>
+<silver>1 </silver>
+<bronze>1 </bronze>
+<total>3 </total>
+</record>
+<record>
+<rk>24 </rk>
+<country>Kenya</country>
+<gold>1 </gold>
+<silver>0 </silver>
+<bronze>2 </bronze>
+<total>3 </total>
+</record>
+<record>
+<rk>25 </rk>
+<country>Portugal</country>
+<gold>1 </gold>
+<silver>0 </silver>
+<bronze>2 </bronze>
+<total>3 </total>
+</record>
+<record>
+<rk>26 </rk>
+<country>Norway</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>2 </bronze>
+<total>3 </total>
+</record>
+<record>
+<rk>27 </rk>
+<country>Jamaica</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>2 </bronze>
+<total>3 </total>
+</record>
+<record>
+<rk>28 </rk>
+<country>Turkey</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>3 </bronze>
+<total>3 </total>
+</record>
+<record>
+<rk>29 </rk>
+<country>Venezuela</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>3 </bronze>
+<total>3 </total>
+</record>
+<record>
+<rk>30 </rk>
+<country>Morocco</country>
+<gold>2 </gold>
+<silver>0 </silver>
+<bronze>0 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>31 </rk>
+<country>Puerto Rico</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>1 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>32 </rk>
+<country>Greece</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>1 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>33 </rk>
+<country>Nigeria</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>1 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>34 </rk>
+<country>Algeria</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>2 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>35 </rk>
+<country>Pakistan</country>
+<gold>1 </gold>
+<silver>0 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>36 </rk>
+<country>Egypt</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>37 </rk>
+<country>Thailand</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>38 </rk>
+<country>Colombia</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>39 </rk>
+<country>Ireland</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>40 </rk>
+<country>Peru</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>41 </rk>
+<country>Cote d'Ivoire</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>42 </rk>
+<country>Syria</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>43 </rk>
+<country>Dominican Republic</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>44 </rk>
+<country>Chinese Taipei</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>45 </rk>
+<country>Iceland</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>46 </rk>
+<country>Zambia</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>47 </rk>
+<country>Cameroon</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>1 </total>
+</record>
+</medals_1984>
+<medals_1988>
+<record>
+<rk>1 </rk>
+<country>Soviet Union</country>
+<gold>55 </gold>
+<silver>31 </silver>
+<bronze>46 </bronze>
+<total>132 </total>
+</record>
+<record>
+<rk>2 </rk>
+<country>East Germany</country>
+<gold>37 </gold>
+<silver>35 </silver>
+<bronze>30 </bronze>
+<total>102 </total>
+</record>
+<record>
+<rk>3 </rk>
+<country>United States</country>
+<gold>36 </gold>
+<silver>31 </silver>
+<bronze>27 </bronze>
+<total>94 </total>
+</record>
+<record>
+<rk>4 </rk>
+<country>West Germany</country>
+<gold>11 </gold>
+<silver>14 </silver>
+<bronze>15 </bronze>
+<total>40 </total>
+</record>
+<record>
+<rk>5 </rk>
+<country>Bulgaria</country>
+<gold>10 </gold>
+<silver>12 </silver>
+<bronze>13 </bronze>
+<total>35 </total>
+</record>
+<record>
+<rk>6 </rk>
+<country>South Korea</country>
+<gold>12 </gold>
+<silver>10 </silver>
+<bronze>11 </bronze>
+<total>33 </total>
+</record>
+<record>
+<rk>7 </rk>
+<country>China</country>
+<gold>5 </gold>
+<silver>11 </silver>
+<bronze>12 </bronze>
+<total>28 </total>
+</record>
+<record>
+<rk>8 </rk>
+<country>Romania</country>
+<gold>7 </gold>
+<silver>11 </silver>
+<bronze>6 </bronze>
+<total>24 </total>
+</record>
+<record>
+<rk>9 </rk>
+<country>Great Britain</country>
+<gold>5 </gold>
+<silver>10 </silver>
+<bronze>9 </bronze>
+<total>24 </total>
+</record>
+<record>
+<rk>10 </rk>
+<country>Hungary</country>
+<gold>11 </gold>
+<silver>6 </silver>
+<bronze>6 </bronze>
+<total>23 </total>
+</record>
+<record>
+<rk>11 </rk>
+<country>France</country>
+<gold>6 </gold>
+<silver>4 </silver>
+<bronze>6 </bronze>
+<total>16 </total>
+</record>
+<record>
+<rk>12 </rk>
+<country>Poland</country>
+<gold>2 </gold>
+<silver>5 </silver>
+<bronze>9 </bronze>
+<total>16 </total>
+</record>
+<record>
+<rk>13 </rk>
+<country>Italy</country>
+<gold>6 </gold>
+<silver>4 </silver>
+<bronze>4 </bronze>
+<total>14 </total>
+</record>
+<record>
+<rk>14 </rk>
+<country>Japan</country>
+<gold>4 </gold>
+<silver>3 </silver>
+<bronze>7 </bronze>
+<total>14 </total>
+</record>
+<record>
+<rk>15 </rk>
+<country>Australia</country>
+<gold>3 </gold>
+<silver>6 </silver>
+<bronze>5 </bronze>
+<total>14 </total>
+</record>
+<record>
+<rk>16 </rk>
+<country>New Zealand</country>
+<gold>3 </gold>
+<silver>2 </silver>
+<bronze>8 </bronze>
+<total>13 </total>
+</record>
+<record>
+<rk>17 </rk>
+<country>Yugoslavia</country>
+<gold>3 </gold>
+<silver>4 </silver>
+<bronze>5 </bronze>
+<total>12 </total>
+</record>
+<record>
+<rk>18 </rk>
+<country>Sweden</country>
+<gold>0 </gold>
+<silver>4 </silver>
+<bronze>7 </bronze>
+<total>11 </total>
+</record>
+<record>
+<rk>19 </rk>
+<country>Canada</country>
+<gold>3 </gold>
+<silver>2 </silver>
+<bronze>5 </bronze>
+<total>10 </total>
+</record>
+<record>
+<rk>20 </rk>
+<country>Kenya</country>
+<gold>5 </gold>
+<silver>2 </silver>
+<bronze>2 </bronze>
+<total>9 </total>
+</record>
+<record>
+<rk>21 </rk>
+<country>Netherlands</country>
+<gold>2 </gold>
+<silver>2 </silver>
+<bronze>5 </bronze>
+<total>9 </total>
+</record>
+<record>
+<rk>22 </rk>
+<country>Czechoslovakia</country>
+<gold>3 </gold>
+<silver>3 </silver>
+<bronze>2 </bronze>
+<total>8 </total>
+</record>
+<record>
+<rk>23 </rk>
+<country>Brazil</country>
+<gold>1 </gold>
+<silver>2 </silver>
+<bronze>3 </bronze>
+<total>6 </total>
+</record>
+<record>
+<rk>24 </rk>
+<country>Norway</country>
+<gold>2 </gold>
+<silver>3 </silver>
+<bronze>0 </bronze>
+<total>5 </total>
+</record>
+<record>
+<rk>25 </rk>
+<country>Denmark</country>
+<gold>2 </gold>
+<silver>1 </silver>
+<bronze>1 </bronze>
+<total>4 </total>
+</record>
+<record>
+<rk>26 </rk>
+<country>Spain</country>
+<gold>1 </gold>
+<silver>1 </silver>
+<bronze>2 </bronze>
+<total>4 </total>
+</record>
+<record>
+<rk>27 </rk>
+<country>Finland</country>
+<gold>1 </gold>
+<silver>1 </silver>
+<bronze>2 </bronze>
+<total>4 </total>
+</record>
+<record>
+<rk>28 </rk>
+<country>Switzerland</country>
+<gold>0 </gold>
+<silver>2 </silver>
+<bronze>2 </bronze>
+<total>4 </total>
+</record>
+<record>
+<rk>29 </rk>
+<country>Morocco</country>
+<gold>1 </gold>
+<silver>0 </silver>
+<bronze>2 </bronze>
+<total>3 </total>
+</record>
+<record>
+<rk>30 </rk>
+<country>Turkey</country>
+<gold>1 </gold>
+<silver>1 </silver>
+<bronze>0 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>31 </rk>
+<country>Jamaica</country>
+<gold>0 </gold>
+<silver>2 </silver>
+<bronze>0 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>32 </rk>
+<country>Argentina</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>1 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>33 </rk>
+<country>Belgium</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>2 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>34 </rk>
+<country>Mexico</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>2 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>35 </rk>
+<country>Suriname</country>
+<gold>1 </gold>
+<silver>0 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>36 </rk>
+<country>Austria</country>
+<gold>1 </gold>
+<silver>0 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>37 </rk>
+<country>Portugal</country>
+<gold>1 </gold>
+<silver>0 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>38 </rk>
+<country>Costa Rica</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>39 </rk>
+<country>United States Virgin Islands</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>40 </rk>
+<country>Peru</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>41 </rk>
+<country>Iran</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>42 </rk>
+<country>Netherlands Antilles</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>43 </rk>
+<country>Indonesia</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>44 </rk>
+<country>Chile</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>45 </rk>
+<country>Senegal</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>46 </rk>
+<country>Thailand</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>47 </rk>
+<country>Mongolia</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>48 </rk>
+<country>Pakistan</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>49 </rk>
+<country>Djibouti</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>50 </rk>
+<country>Philippines</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>51 </rk>
+<country>Colombia</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>52 </rk>
+<country>Greece</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>1 </total>
+</record>
+</medals_1988>
+<medals_1992>
+<record>
+<rk>1 </rk>
+<country>Unified Team</country>
+<gold>45 </gold>
+<silver>38 </silver>
+<bronze>29 </bronze>
+<total>112 </total>
+</record>
+<record>
+<rk>2 </rk>
+<country>United States</country>
+<gold>37 </gold>
+<silver>34 </silver>
+<bronze>37 </bronze>
+<total>108 </total>
+</record>
+<record>
+<rk>3 </rk>
+<country>Germany</country>
+<gold>33 </gold>
+<silver>21 </silver>
+<bronze>28 </bronze>
+<total>82 </total>
+</record>
+<record>
+<rk>4 </rk>
+<country>China</country>
+<gold>16 </gold>
+<silver>22 </silver>
+<bronze>16 </bronze>
+<total>54 </total>
+</record>
+<record>
+<rk>5 </rk>
+<country>Cuba</country>
+<gold>14 </gold>
+<silver>6 </silver>
+<bronze>11 </bronze>
+<total>31 </total>
+</record>
+<record>
+<rk>6 </rk>
+<country>Hungary</country>
+<gold>11 </gold>
+<silver>12 </silver>
+<bronze>7 </bronze>
+<total>30 </total>
+</record>
+<record>
+<rk>7 </rk>
+<country>South Korea</country>
+<gold>12 </gold>
+<silver>5 </silver>
+<bronze>12 </bronze>
+<total>29 </total>
+</record>
+<record>
+<rk>8 </rk>
+<country>France</country>
+<gold>8 </gold>
+<silver>5 </silver>
+<bronze>16 </bronze>
+<total>29 </total>
+</record>
+<record>
+<rk>9 </rk>
+<country>Australia</country>
+<gold>7 </gold>
+<silver>9 </silver>
+<bronze>11 </bronze>
+<total>27 </total>
+</record>
+<record>
+<rk>10 </rk>
+<country>Spain</country>
+<gold>13 </gold>
+<silver>7 </silver>
+<bronze>2 </bronze>
+<total>22 </total>
+</record>
+<record>
+<rk>11 </rk>
+<country>Japan</country>
+<gold>3 </gold>
+<silver>8 </silver>
+<bronze>11 </bronze>
+<total>22 </total>
+</record>
+<record>
+<rk>12 </rk>
+<country>Great Britain</country>
+<gold>5 </gold>
+<silver>3 </silver>
+<bronze>12 </bronze>
+<total>20 </total>
+</record>
+<record>
+<rk>13 </rk>
+<country>Italy</country>
+<gold>6 </gold>
+<silver>5 </silver>
+<bronze>8 </bronze>
+<total>19 </total>
+</record>
+<record>
+<rk>14 </rk>
+<country>Poland</country>
+<gold>3 </gold>
+<silver>6 </silver>
+<bronze>10 </bronze>
+<total>19 </total>
+</record>
+<record>
+<rk>15 </rk>
+<country>Canada</country>
+<gold>7 </gold>
+<silver>4 </silver>
+<bronze>7 </bronze>
+<total>18 </total>
+</record>
+<record>
+<rk>16 </rk>
+<country>Romania</country>
+<gold>4 </gold>
+<silver>6 </silver>
+<bronze>8 </bronze>
+<total>18 </total>
+</record>
+<record>
+<rk>17 </rk>
+<country>Bulgaria</country>
+<gold>3 </gold>
+<silver>7 </silver>
+<bronze>6 </bronze>
+<total>16 </total>
+</record>
+<record>
+<rk>18 </rk>
+<country>Netherlands</country>
+<gold>2 </gold>
+<silver>6 </silver>
+<bronze>7 </bronze>
+<total>15 </total>
+</record>
+<record>
+<rk>19 </rk>
+<country>Sweden</country>
+<gold>1 </gold>
+<silver>7 </silver>
+<bronze>4 </bronze>
+<total>12 </total>
+</record>
+<record>
+<rk>20 </rk>
+<country>New Zealand</country>
+<gold>1 </gold>
+<silver>4 </silver>
+<bronze>5 </bronze>
+<total>10 </total>
+</record>
+<record>
+<rk>21 </rk>
+<country>North Korea</country>
+<gold>4 </gold>
+<silver>0 </silver>
+<bronze>5 </bronze>
+<total>9 </total>
+</record>
+<record>
+<rk>22 </rk>
+<country>Kenya</country>
+<gold>2 </gold>
+<silver>4 </silver>
+<bronze>2 </bronze>
+<total>8 </total>
+</record>
+<record>
+<rk>23 </rk>
+<country>Czechoslovakia</country>
+<gold>4 </gold>
+<silver>2 </silver>
+<bronze>1 </bronze>
+<total>7 </total>
+</record>
+<record>
+<rk>24 </rk>
+<country>Norway</country>
+<gold>2 </gold>
+<silver>4 </silver>
+<bronze>1 </bronze>
+<total>7 </total>
+</record>
+<record>
+<rk>25 </rk>
+<country>Turkey</country>
+<gold>2 </gold>
+<silver>2 </silver>
+<bronze>2 </bronze>
+<total>6 </total>
+</record>
+<record>
+<rk>26 </rk>
+<country>Denmark</country>
+<gold>1 </gold>
+<silver>1 </silver>
+<bronze>4 </bronze>
+<total>6 </total>
+</record>
+<record>
+<rk>27 </rk>
+<country>Indonesia</country>
+<gold>2 </gold>
+<silver>2 </silver>
+<bronze>1 </bronze>
+<total>5 </total>
+</record>
+<record>
+<rk>28 </rk>
+<country>Finland</country>
+<gold>1 </gold>
+<silver>2 </silver>
+<bronze>2 </bronze>
+<total>5 </total>
+</record>
+<record>
+<rk>29 </rk>
+<country>Nigeria</country>
+<gold>0 </gold>
+<silver>3 </silver>
+<bronze>1 </bronze>
+<total>4 </total>
+</record>
+<record>
+<rk>30 </rk>
+<country>Jamaica</country>
+<gold>0 </gold>
+<silver>3 </silver>
+<bronze>1 </bronze>
+<total>4 </total>
+</record>
+<record>
+<rk>31 </rk>
+<country>Brazil</country>
+<gold>2 </gold>
+<silver>1 </silver>
+<bronze>0 </bronze>
+<total>3 </total>
+</record>
+<record>
+<rk>32 </rk>
+<country>Morocco</country>
+<gold>1 </gold>
+<silver>1 </silver>
+<bronze>1 </bronze>
+<total>3 </total>
+</record>
+<record>
+<rk>33 </rk>
+<country>Ethiopia</country>
+<gold>1 </gold>
+<silver>0 </silver>
+<bronze>2 </bronze>
+<total>3 </total>
+</record>
+<record>
+<rk>34 </rk>
+<country>Latvia</country>
+<gold>0 </gold>
+<silver>2 </silver>
+<bronze>1 </bronze>
+<total>3 </total>
+</record>
+<record>
+<rk>35 </rk>
+<country>Belgium</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>2 </bronze>
+<total>3 </total>
+</record>
+<record>
+<rk>36 </rk>
+<country>Croatia</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>2 </bronze>
+<total>3 </total>
+</record>
+<record>
+<rk>37 </rk>
+<country>Independent Olympic Participants</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>2 </bronze>
+<total>3 </total>
+</record>
+<record>
+<rk>38 </rk>
+<country>Iran</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>2 </bronze>
+<total>3 </total>
+</record>
+<record>
+<rk>39 </rk>
+<country>Greece</country>
+<gold>2 </gold>
+<silver>0 </silver>
+<bronze>0 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>40 </rk>
+<country>Ireland</country>
+<gold>1 </gold>
+<silver>1 </silver>
+<bronze>0 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>41 </rk>
+<country>Estonia</country>
+<gold>1 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>42 </rk>
+<country>Algeria</country>
+<gold>1 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>43 </rk>
+<country>Lithuania</country>
+<gold>1 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>44 </rk>
+<country>Austria</country>
+<gold>0 </gold>
+<silver>2 </silver>
+<bronze>0 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>45 </rk>
+<country>South Africa</country>
+<gold>0 </gold>
+<silver>2 </silver>
+<bronze>0 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>46 </rk>
+<country>Namibia</country>
+<gold>0 </gold>
+<silver>2 </silver>
+<bronze>0 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>47 </rk>
+<country>Israel</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>1 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>48 </rk>
+<country>Slovenia</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>2 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>49 </rk>
+<country>Mongolia</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>2 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>50 </rk>
+<country>Switzerland</country>
+<gold>1 </gold>
+<silver>0 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>51 </rk>
+<country>Peru</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>52 </rk>
+<country>Mexico</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>53 </rk>
+<country>Chinese Taipei</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>54 </rk>
+<country>Colombia</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>55 </rk>
+<country>Suriname</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>56 </rk>
+<country>Philippines</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>57 </rk>
+<country>Thailand</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>58 </rk>
+<country>Ghana</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>59 </rk>
+<country>Argentina</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>60 </rk>
+<country>Puerto Rico</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>61 </rk>
+<country>Pakistan</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>62 </rk>
+<country>Malaysia</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>63 </rk>
+<country>Qatar</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>64 </rk>
+<country>Bahamas</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>1 </total>
+</record>
+</medals_1992>
+<medals_1996>
+<record>
+<rk>1 </rk>
+<country>United States</country>
+<gold>44 </gold>
+<silver>32 </silver>
+<bronze>25 </bronze>
+<total>101 </total>
+</record>
+<record>
+<rk>2 </rk>
+<country>Germany</country>
+<gold>20 </gold>
+<silver>18 </silver>
+<bronze>27 </bronze>
+<total>65 </total>
+</record>
+<record>
+<rk>3 </rk>
+<country>Russia</country>
+<gold>26 </gold>
+<silver>21 </silver>
+<bronze>16 </bronze>
+<total>63 </total>
+</record>
+<record>
+<rk>4 </rk>
+<country>China</country>
+<gold>16 </gold>
+<silver>22 </silver>
+<bronze>12 </bronze>
+<total>50 </total>
+</record>
+<record>
+<rk>5 </rk>
+<country>Australia</country>
+<gold>9 </gold>
+<silver>9 </silver>
+<bronze>23 </bronze>
+<total>41 </total>
+</record>
+<record>
+<rk>6 </rk>
+<country>France</country>
+<gold>15 </gold>
+<silver>7 </silver>
+<bronze>15 </bronze>
+<total>37 </total>
+</record>
+<record>
+<rk>7 </rk>
+<country>Italy</country>
+<gold>13 </gold>
+<silver>10 </silver>
+<bronze>12 </bronze>
+<total>35 </total>
+</record>
+<record>
+<rk>8 </rk>
+<country>South Korea</country>
+<gold>7 </gold>
+<silver>15 </silver>
+<bronze>5 </bronze>
+<total>27 </total>
+</record>
+<record>
+<rk>9 </rk>
+<country>Cuba</country>
+<gold>9 </gold>
+<silver>8 </silver>
+<bronze>8 </bronze>
+<total>25 </total>
+</record>
+<record>
+<rk>10 </rk>
+<country>Ukraine</country>
+<gold>9 </gold>
+<silver>2 </silver>
+<bronze>12 </bronze>
+<total>23 </total>
+</record>
+<record>
+<rk>11 </rk>
+<country>Canada</country>
+<gold>3 </gold>
+<silver>11 </silver>
+<bronze>8 </bronze>
+<total>22 </total>
+</record>
+<record>
+<rk>12 </rk>
+<country>Hungary</country>
+<gold>7 </gold>
+<silver>4 </silver>
+<bronze>10 </bronze>
+<total>21 </total>
+</record>
+<record>
+<rk>13 </rk>
+<country>Romania</country>
+<gold>4 </gold>
+<silver>7 </silver>
+<bronze>9 </bronze>
+<total>20 </total>
+</record>
+<record>
+<rk>14 </rk>
+<country>Netherlands</country>
+<gold>4 </gold>
+<silver>5 </silver>
+<bronze>10 </bronze>
+<total>19 </total>
+</record>
+<record>
+<rk>15 </rk>
+<country>Poland</country>
+<gold>7 </gold>
+<silver>5 </silver>
+<bronze>5 </bronze>
+<total>17 </total>
+</record>
+<record>
+<rk>16 </rk>
+<country>Spain</country>
+<gold>5 </gold>
+<silver>6 </silver>
+<bronze>6 </bronze>
+<total>17 </total>
+</record>
+<record>
+<rk>17 </rk>
+<country>Bulgaria</country>
+<gold>3 </gold>
+<silver>7 </silver>
+<bronze>5 </bronze>
+<total>15 </total>
+</record>
+<record>
+<rk>18 </rk>
+<country>Brazil</country>
+<gold>3 </gold>
+<silver>3 </silver>
+<bronze>9 </bronze>
+<total>15 </total>
+</record>
+<record>
+<rk>19 </rk>
+<country>Great Britain</country>
+<gold>1 </gold>
+<silver>8 </silver>
+<bronze>6 </bronze>
+<total>15 </total>
+</record>
+<record>
+<rk>20 </rk>
+<country>Belarus</country>
+<gold>1 </gold>
+<silver>6 </silver>
+<bronze>8 </bronze>
+<total>15 </total>
+</record>
+<record>
+<rk>21 </rk>
+<country>Japan</country>
+<gold>3 </gold>
+<silver>6 </silver>
+<bronze>5 </bronze>
+<total>14 </total>
+</record>
+<record>
+<rk>22 </rk>
+<country>Czech Republic</country>
+<gold>4 </gold>
+<silver>3 </silver>
+<bronze>4 </bronze>
+<total>11 </total>
+</record>
+<record>
+<rk>23 </rk>
+<country>Kazakhstan</country>
+<gold>3 </gold>
+<silver>4 </silver>
+<bronze>4 </bronze>
+<total>11 </total>
+</record>
+<record>
+<rk>24 </rk>
+<country>Greece</country>
+<gold>4 </gold>
+<silver>4 </silver>
+<bronze>0 </bronze>
+<total>8 </total>
+</record>
+<record>
+<rk>25 </rk>
+<country>Sweden</country>
+<gold>2 </gold>
+<silver>4 </silver>
+<bronze>2 </bronze>
+<total>8 </total>
+</record>
+<record>
+<rk>26 </rk>
+<country>Kenya</country>
+<gold>1 </gold>
+<silver>4 </silver>
+<bronze>3 </bronze>
+<total>8 </total>
+</record>
+<record>
+<rk>27 </rk>
+<country>Switzerland</country>
+<gold>4 </gold>
+<silver>3 </silver>
+<bronze>0 </bronze>
+<total>7 </total>
+</record>
+<record>
+<rk>28 </rk>
+<country>Norway</country>
+<gold>2 </gold>
+<silver>2 </silver>
+<bronze>3 </bronze>
+<total>7 </total>
+</record>
+<record>
+<rk>29 </rk>
+<country>Turkey</country>
+<gold>4 </gold>
+<silver>1 </silver>
+<bronze>1 </bronze>
+<total>6 </total>
+</record>
+<record>
+<rk>30 </rk>
+<country>Denmark</country>
+<gold>4 </gold>
+<silver>1 </silver>
+<bronze>1 </bronze>
+<total>6 </total>
+</record>
+<record>
+<rk>31 </rk>
+<country>New Zealand</country>
+<gold>3 </gold>
+<silver>2 </silver>
+<bronze>1 </bronze>
+<total>6 </total>
+</record>
+<record>
+<rk>32 </rk>
+<country>Belgium</country>
+<gold>2 </gold>
+<silver>2 </silver>
+<bronze>2 </bronze>
+<total>6 </total>
+</record>
+<record>
+<rk>33 </rk>
+<country>Nigeria</country>
+<gold>2 </gold>
+<silver>1 </silver>
+<bronze>3 </bronze>
+<total>6 </total>
+</record>
+<record>
+<rk>34 </rk>
+<country>Jamaica</country>
+<gold>1 </gold>
+<silver>3 </silver>
+<bronze>2 </bronze>
+<total>6 </total>
+</record>
+<record>
+<rk>35 </rk>
+<country>South Africa</country>
+<gold>3 </gold>
+<silver>1 </silver>
+<bronze>1 </bronze>
+<total>5 </total>
+</record>
+<record>
+<rk>36 </rk>
+<country>North Korea</country>
+<gold>2 </gold>
+<silver>1 </silver>
+<bronze>2 </bronze>
+<total>5 </total>
+</record>
+<record>
+<rk>37 </rk>
+<country>Ireland</country>
+<gold>3 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>4 </total>
+</record>
+<record>
+<rk>38 </rk>
+<country>Finland</country>
+<gold>1 </gold>
+<silver>2 </silver>
+<bronze>1 </bronze>
+<total>4 </total>
+</record>
+<record>
+<rk>39 </rk>
+<country>Serbia and Montenegro</country>
+<gold>1 </gold>
+<silver>1 </silver>
+<bronze>2 </bronze>
+<total>4 </total>
+</record>
+<record>
+<rk>40 </rk>
+<country>Indonesia</country>
+<gold>1 </gold>
+<silver>1 </silver>
+<bronze>2 </bronze>
+<total>4 </total>
+</record>
+<record>
+<rk>41 </rk>
+<country>Ethiopia</country>
+<gold>2 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>3 </total>
+</record>
+<record>
+<rk>42 </rk>
+<country>Algeria</country>
+<gold>2 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>3 </total>
+</record>
+<record>
+<rk>43 </rk>
+<country>Iran</country>
+<gold>1 </gold>
+<silver>1 </silver>
+<bronze>1 </bronze>
+<total>3 </total>
+</record>
+<record>
+<rk>44 </rk>
+<country>Slovakia</country>
+<gold>1 </gold>
+<silver>1 </silver>
+<bronze>1 </bronze>
+<total>3 </total>
+</record>
+<record>
+<rk>45 </rk>
+<country>Argentina</country>
+<gold>0 </gold>
+<silver>2 </silver>
+<bronze>1 </bronze>
+<total>3 </total>
+</record>
+<record>
+<rk>46 </rk>
+<country>Austria</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>2 </bronze>
+<total>3 </total>
+</record>
+<record>
+<rk>47 </rk>
+<country>Armenia</country>
+<gold>1 </gold>
+<silver>1 </silver>
+<bronze>0 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>48 </rk>
+<country>Croatia</country>
+<gold>1 </gold>
+<silver>1 </silver>
+<bronze>0 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>49 </rk>
+<country>Portugal</country>
+<gold>1 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>50 </rk>
+<country>Thailand</country>
+<gold>1 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>51 </rk>
+<country>Namibia</country>
+<gold>0 </gold>
+<silver>2 </silver>
+<bronze>0 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>52 </rk>
+<country>Slovenia</country>
+<gold>0 </gold>
+<silver>2 </silver>
+<bronze>0 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>53 </rk>
+<country>Malaysia</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>1 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>54 </rk>
+<country>Uzbekistan</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>1 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>55 </rk>
+<country>Moldova</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>1 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>56 </rk>
+<country>Trinidad and Tobago</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>2 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>57 </rk>
+<country>Morocco</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>2 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>58 </rk>
+<country>Georgia</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>2 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>59 </rk>
+<country>Burundi</country>
+<gold>1 </gold>
+<silver>0 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>60 </rk>
+<country>Ecuador</country>
+<gold>1 </gold>
+<silver>0 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>61 </rk>
+<country>Syria</country>
+<gold>1 </gold>
+<silver>0 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>62 </rk>
+<country>Hong Kong</country>
+<gold>1 </gold>
+<silver>0 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>63 </rk>
+<country>Costa Rica</country>
+<gold>1 </gold>
+<silver>0 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>64 </rk>
+<country>Chinese Taipei</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>65 </rk>
+<country>Latvia</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>66 </rk>
+<country>Tonga</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>67 </rk>
+<country>Zambia</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>68 </rk>
+<country>Bahamas</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>69 </rk>
+<country>Azerbaijan</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>70 </rk>
+<country>Philippines</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>71 </rk>
+<country>Tunisia</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>72 </rk>
+<country>Lithuania</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>73 </rk>
+<country>India</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>74 </rk>
+<country>Uganda</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>75 </rk>
+<country>Israel</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>76 </rk>
+<country>Mongolia</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>77 </rk>
+<country>Puerto Rico</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>78 </rk>
+<country>Mexico</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>79 </rk>
+<country>Mozambique</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>1 </total>
+</record>
+</medals_1996>
+<medals_2000>
+<record>
+<rk>1 </rk>
+<country>United States</country>
+<gold>37 </gold>
+<silver>24 </silver>
+<bronze>33 </bronze>
+<total>94 </total>
+</record>
+<record>
+<rk>2 </rk>
+<country>Russia</country>
+<gold>32 </gold>
+<silver>28 </silver>
+<bronze>29 </bronze>
+<total>89 </total>
+</record>
+<record>
+<rk>3 </rk>
+<country>China</country>
+<gold>28 </gold>
+<silver>16 </silver>
+<bronze>14 </bronze>
+<total>58 </total>
+</record>
+<record>
+<rk>4 </rk>
+<country>Australia</country>
+<gold>16 </gold>
+<silver>25 </silver>
+<bronze>17 </bronze>
+<total>58 </total>
+</record>
+<record>
+<rk>5 </rk>
+<country>Germany</country>
+<gold>13 </gold>
+<silver>17 </silver>
+<bronze>26 </bronze>
+<total>56 </total>
+</record>
+<record>
+<rk>6 </rk>
+<country>France</country>
+<gold>13 </gold>
+<silver>14 </silver>
+<bronze>11 </bronze>
+<total>38 </total>
+</record>
+<record>
+<rk>7 </rk>
+<country>Italy</country>
+<gold>13 </gold>
+<silver>8 </silver>
+<bronze>13 </bronze>
+<total>34 </total>
+</record>
+<record>
+<rk>8 </rk>
+<country>Cuba</country>
+<gold>11 </gold>
+<silver>11 </silver>
+<bronze>7 </bronze>
+<total>29 </total>
+</record>
+<record>
+<rk>9 </rk>
+<country>Great Britain</country>
+<gold>11 </gold>
+<silver>10 </silver>
+<bronze>7 </bronze>
+<total>28 </total>
+</record>
+<record>
+<rk>10 </rk>
+<country>South Korea</country>
+<gold>8 </gold>
+<silver>10 </silver>
+<bronze>10 </bronze>
+<total>28 </total>
+</record>
+<record>
+<rk>11 </rk>
+<country>Romania</country>
+<gold>11 </gold>
+<silver>6 </silver>
+<bronze>9 </bronze>
+<total>26 </total>
+</record>
+<record>
+<rk>12 </rk>
+<country>Netherlands</country>
+<gold>12 </gold>
+<silver>9 </silver>
+<bronze>4 </bronze>
+<total>25 </total>
+</record>
+<record>
+<rk>13 </rk>
+<country>Ukraine</country>
+<gold>3 </gold>
+<silver>10 </silver>
+<bronze>10 </bronze>
+<total>23 </total>
+</record>
+<record>
+<rk>14 </rk>
+<country>Japan</country>
+<gold>5 </gold>
+<silver>8 </silver>
+<bronze>5 </bronze>
+<total>18 </total>
+</record>
+<record>
+<rk>15 </rk>
+<country>Hungary</country>
+<gold>8 </gold>
+<silver>6 </silver>
+<bronze>3 </bronze>
+<total>17 </total>
+</record>
+<record>
+<rk>16 </rk>
+<country>Belarus</country>
+<gold>3 </gold>
+<silver>3 </silver>
+<bronze>11 </bronze>
+<total>17 </total>
+</record>
+<record>
+<rk>17 </rk>
+<country>Poland</country>
+<gold>6 </gold>
+<silver>5 </silver>
+<bronze>3 </bronze>
+<total>14 </total>
+</record>
+<record>
+<rk>18 </rk>
+<country>Canada</country>
+<gold>3 </gold>
+<silver>3 </silver>
+<bronze>8 </bronze>
+<total>14 </total>
+</record>
+<record>
+<rk>19 </rk>
+<country>Bulgaria</country>
+<gold>5 </gold>
+<silver>6 </silver>
+<bronze>2 </bronze>
+<total>13 </total>
+</record>
+<record>
+<rk>20 </rk>
+<country>Greece</country>
+<gold>4 </gold>
+<silver>6 </silver>
+<bronze>3 </bronze>
+<total>13 </total>
+</record>
+<record>
+<rk>21 </rk>
+<country>Sweden</country>
+<gold>4 </gold>
+<silver>5 </silver>
+<bronze>3 </bronze>
+<total>12 </total>
+</record>
+<record>
+<rk>22 </rk>
+<country>Brazil</country>
+<gold>0 </gold>
+<silver>6 </silver>
+<bronze>6 </bronze>
+<total>12 </total>
+</record>
+<record>
+<rk>23 </rk>
+<country>Spain</country>
+<gold>3 </gold>
+<silver>3 </silver>
+<bronze>5 </bronze>
+<total>11 </total>
+</record>
+<record>
+<rk>24 </rk>
+<country>Norway</country>
+<gold>4 </gold>
+<silver>3 </silver>
+<bronze>3 </bronze>
+<total>10 </total>
+</record>
+<record>
+<rk>25 </rk>
+<country>Switzerland</country>
+<gold>1 </gold>
+<silver>6 </silver>
+<bronze>2 </bronze>
+<total>9 </total>
+</record>
+<record>
+<rk>26 </rk>
+<country>Jamaica</country>
+<gold>0 </gold>
+<silver>6 </silver>
+<bronze>3 </bronze>
+<total>9 </total>
+</record>
+<record>
+<rk>27 </rk>
+<country>Ethiopia</country>
+<gold>4 </gold>
+<silver>1 </silver>
+<bronze>3 </bronze>
+<total>8 </total>
+</record>
+<record>
+<rk>28 </rk>
+<country>Czech Republic</country>
+<gold>2 </gold>
+<silver>3 </silver>
+<bronze>3 </bronze>
+<total>8 </total>
+</record>
+<record>
+<rk>29 </rk>
+<country>Kazakhstan</country>
+<gold>3 </gold>
+<silver>4 </silver>
+<bronze>0 </bronze>
+<total>7 </total>
+</record>
+<record>
+<rk>30 </rk>
+<country>Kenya</country>
+<gold>2 </gold>
+<silver>3 </silver>
+<bronze>2 </bronze>
+<total>7 </total>
+</record>
+<record>
+<rk>31 </rk>
+<country>Denmark</country>
+<gold>2 </gold>
+<silver>3 </silver>
+<bronze>1 </bronze>
+<total>6 </total>
+</record>
+<record>
+<rk>32 </rk>
+<country>Indonesia</country>
+<gold>1 </gold>
+<silver>3 </silver>
+<bronze>2 </bronze>
+<total>6 </total>
+</record>
+<record>
+<rk>33 </rk>
+<country>Mexico</country>
+<gold>1 </gold>
+<silver>2 </silver>
+<bronze>3 </bronze>
+<total>6 </total>
+</record>
+<record>
+<rk>34 </rk>
+<country>Georgia</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>6 </bronze>
+<total>6 </total>
+</record>
+<record>
+<rk>35 </rk>
+<country>Turkey</country>
+<gold>3 </gold>
+<silver>0 </silver>
+<bronze>2 </bronze>
+<total>5 </total>
+</record>
+<record>
+<rk>36 </rk>
+<country>Lithuania</country>
+<gold>2 </gold>
+<silver>0 </silver>
+<bronze>3 </bronze>
+<total>5 </total>
+</record>
+<record>
+<rk>37 </rk>
+<country>Slovakia</country>
+<gold>1 </gold>
+<silver>3 </silver>
+<bronze>1 </bronze>
+<total>5 </total>
+</record>
+<record>
+<rk>38 </rk>
+<country>Algeria</country>
+<gold>1 </gold>
+<silver>1 </silver>
+<bronze>3 </bronze>
+<total>5 </total>
+</record>
+<record>
+<rk>39 </rk>
+<country>South Africa</country>
+<gold>0 </gold>
+<silver>2 </silver>
+<bronze>3 </bronze>
+<total>5 </total>
+</record>
+<record>
+<rk>40 </rk>
+<country>Belgium</country>
+<gold>0 </gold>
+<silver>2 </silver>
+<bronze>3 </bronze>
+<total>5 </total>
+</record>
+<record>
+<rk>41 </rk>
+<country>Chinese Taipei</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>4 </bronze>
+<total>5 </total>
+</record>
+<record>
+<rk>42 </rk>
+<country>Morocco</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>4 </bronze>
+<total>5 </total>
+</record>
+<record>
+<rk>43 </rk>
+<country>Iran</country>
+<gold>3 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>4 </total>
+</record>
+<record>
+<rk>44 </rk>
+<country>Finland</country>
+<gold>2 </gold>
+<silver>1 </silver>
+<bronze>1 </bronze>
+<total>4 </total>
+</record>
+<record>
+<rk>45 </rk>
+<country>Uzbekistan</country>
+<gold>1 </gold>
+<silver>1 </silver>
+<bronze>2 </bronze>
+<total>4 </total>
+</record>
+<record>
+<rk>46 </rk>
+<country>New Zealand</country>
+<gold>1 </gold>
+<silver>0 </silver>
+<bronze>3 </bronze>
+<total>4 </total>
+</record>
+<record>
+<rk>47 </rk>
+<country>Argentina</country>
+<gold>0 </gold>
+<silver>2 </silver>
+<bronze>2 </bronze>
+<total>4 </total>
+</record>
+<record>
+<rk>48 </rk>
+<country>North Korea</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>3 </bronze>
+<total>4 </total>
+</record>
+<record>
+<rk>49 </rk>
+<country>Austria</country>
+<gold>2 </gold>
+<silver>1 </silver>
+<bronze>0 </bronze>
+<total>3 </total>
+</record>
+<record>
+<rk>50 </rk>
+<country>Bahamas</country>
+<gold>2 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>3 </total>
+</record>
+<record>
+<rk>51 </rk>
+<country>Azerbaijan</country>
+<gold>2 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>3 </total>
+</record>
+<record>
+<rk>52 </rk>
+<country>Nigeria</country>
+<gold>1 </gold>
+<silver>2 </silver>
+<bronze>0 </bronze>
+<total>3 </total>
+</record>
+<record>
+<rk>53 </rk>
+<country>Serbia and Montenegro</country>
+<gold>1 </gold>
+<silver>1 </silver>
+<bronze>1 </bronze>
+<total>3 </total>
+</record>
+<record>
+<rk>54 </rk>
+<country>Latvia</country>
+<gold>1 </gold>
+<silver>1 </silver>
+<bronze>1 </bronze>
+<total>3 </total>
+</record>
+<record>
+<rk>55 </rk>
+<country>Estonia</country>
+<gold>1 </gold>
+<silver>0 </silver>
+<bronze>2 </bronze>
+<total>3 </total>
+</record>
+<record>
+<rk>56 </rk>
+<country>Thailand</country>
+<gold>1 </gold>
+<silver>0 </silver>
+<bronze>2 </bronze>
+<total>3 </total>
+</record>
+<record>
+<rk>57 </rk>
+<country>Slovenia</country>
+<gold>2 </gold>
+<silver>0 </silver>
+<bronze>0 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>58 </rk>
+<country>Croatia</country>
+<gold>1 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>59 </rk>
+<country>Trinidad and Tobago</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>1 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>60 </rk>
+<country>Saudi Arabia</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>1 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>61 </rk>
+<country>Moldova</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>1 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>62 </rk>
+<country>Costa Rica</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>2 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>63 </rk>
+<country>Portugal</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>2 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>64 </rk>
+<country>Mozambique</country>
+<gold>1 </gold>
+<silver>0 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>65 </rk>
+<country>Colombia</country>
+<gold>1 </gold>
+<silver>0 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>66 </rk>
+<country>Cameroon</country>
+<gold>1 </gold>
+<silver>0 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>67 </rk>
+<country>Uruguay</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>68 </rk>
+<country>Vietnam</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>69 </rk>
+<country>Sri Lanka</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>70 </rk>
+<country>Ireland</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>71 </rk>
+<country>Chile</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>72 </rk>
+<country>Iceland</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>73 </rk>
+<country>Kyrgyzstan</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>74 </rk>
+<country>Kuwait</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>75 </rk>
+<country>Barbados</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>76 </rk>
+<country>Macedonia</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>77 </rk>
+<country>Israel</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>78 </rk>
+<country>Armenia</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>79 </rk>
+<country>Qatar</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>80 </rk>
+<country>India</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>1 </total>
+</record>
+</medals_2000>
+<medals_2004>
+<record>
+<rk>1 </rk>
+<country>United States</country>
+<gold>36 </gold>
+<silver>39 </silver>
+<bronze>27 </bronze>
+<total>102 </total>
+</record>
+<record>
+<rk>2 </rk>
+<country>Russia</country>
+<gold>27 </gold>
+<silver>27 </silver>
+<bronze>38 </bronze>
+<total>92 </total>
+</record>
+<record>
+<rk>3 </rk>
+<country>China</country>
+<gold>32 </gold>
+<silver>17 </silver>
+<bronze>14 </bronze>
+<total>63 </total>
+</record>
+<record>
+<rk>4 </rk>
+<country>Australia</country>
+<gold>17 </gold>
+<silver>16 </silver>
+<bronze>16 </bronze>
+<total>49 </total>
+</record>
+<record>
+<rk>5 </rk>
+<country>Germany</country>
+<gold>13 </gold>
+<silver>16 </silver>
+<bronze>20 </bronze>
+<total>49 </total>
+</record>
+<record>
+<rk>6 </rk>
+<country>Japan</country>
+<gold>16 </gold>
+<silver>9 </silver>
+<bronze>12 </bronze>
+<total>37 </total>
+</record>
+<record>
+<rk>7 </rk>
+<country>France</country>
+<gold>11 </gold>
+<silver>9 </silver>
+<bronze>13 </bronze>
+<total>33 </total>
+</record>
+<record>
+<rk>8 </rk>
+<country>Italy</country>
+<gold>10 </gold>
+<silver>11 </silver>
+<bronze>11 </bronze>
+<total>32 </total>
+</record>
+<record>
+<rk>9 </rk>
+<country>South Korea</country>
+<gold>9 </gold>
+<silver>12 </silver>
+<bronze>9 </bronze>
+<total>30 </total>
+</record>
+<record>
+<rk>10 </rk>
+<country>Great Britain</country>
+<gold>9 </gold>
+<silver>9 </silver>
+<bronze>12 </bronze>
+<total>30 </total>
+</record>
+<record>
+<rk>11 </rk>
+<country>Cuba</country>
+<gold>9 </gold>
+<silver>7 </silver>
+<bronze>11 </bronze>
+<total>27 </total>
+</record>
+<record>
+<rk>12 </rk>
+<country>Ukraine</country>
+<gold>9 </gold>
+<silver>5 </silver>
+<bronze>9 </bronze>
+<total>23 </total>
+</record>
+<record>
+<rk>13 </rk>
+<country>Netherlands</country>
+<gold>4 </gold>
+<silver>9 </silver>
+<bronze>9 </bronze>
+<total>22 </total>
+</record>
+<record>
+<rk>14 </rk>
+<country>Romania</country>
+<gold>8 </gold>
+<silver>5 </silver>
+<bronze>6 </bronze>
+<total>19 </total>
+</record>
+<record>
+<rk>15 </rk>
+<country>Spain</country>
+<gold>3 </gold>
+<silver>11 </silver>
+<bronze>5 </bronze>
+<total>19 </total>
+</record>
+<record>
+<rk>16 </rk>
+<country>Hungary</country>
+<gold>8 </gold>
+<silver>6 </silver>
+<bronze>3 </bronze>
+<total>17 </total>
+</record>
+<record>
+<rk>17 </rk>
+<country>Greece</country>
+<gold>6 </gold>
+<silver>6 </silver>
+<bronze>4 </bronze>
+<total>16 </total>
+</record>
+<record>
+<rk>18 </rk>
+<country>Belarus</country>
+<gold>2 </gold>
+<silver>6 </silver>
+<bronze>7 </bronze>
+<total>15 </total>
+</record>
+<record>
+<rk>19 </rk>
+<country>Canada</country>
+<gold>3 </gold>
+<silver>6 </silver>
+<bronze>3 </bronze>
+<total>12 </total>
+</record>
+<record>
+<rk>20 </rk>
+<country>Bulgaria</country>
+<gold>2 </gold>
+<silver>1 </silver>
+<bronze>9 </bronze>
+<total>12 </total>
+</record>
+<record>
+<rk>21 </rk>
+<country>Brazil</country>
+<gold>5 </gold>
+<silver>2 </silver>
+<bronze>3 </bronze>
+<total>10 </total>
+</record>
+<record>
+<rk>22 </rk>
+<country>Turkey</country>
+<gold>3 </gold>
+<silver>3 </silver>
+<bronze>4 </bronze>
+<total>10 </total>
+</record>
+<record>
+<rk>23 </rk>
+<country>Poland</country>
+<gold>3 </gold>
+<silver>2 </silver>
+<bronze>5 </bronze>
+<total>10 </total>
+</record>
+<record>
+<rk>24 </rk>
+<country>Thailand</country>
+<gold>3 </gold>
+<silver>1 </silver>
+<bronze>4 </bronze>
+<total>8 </total>
+</record>
+<record>
+<rk>25 </rk>
+<country>Denmark</country>
+<gold>2 </gold>
+<silver>0 </silver>
+<bronze>6 </bronze>
+<total>8 </total>
+</record>
+<record>
+<rk>26 </rk>
+<country>Kazakhstan</country>
+<gold>1 </gold>
+<silver>4 </silver>
+<bronze>3 </bronze>
+<total>8 </total>
+</record>
+<record>
+<rk>27 </rk>
+<country>Czech Republic</country>
+<gold>1 </gold>
+<silver>3 </silver>
+<bronze>4 </bronze>
+<total>8 </total>
+</record>
+<record>
+<rk>28 </rk>
+<country>Sweden</country>
+<gold>4 </gold>
+<silver>2 </silver>
+<bronze>1 </bronze>
+<total>7 </total>
+</record>
+<record>
+<rk>29 </rk>
+<country>Austria</country>
+<gold>2 </gold>
+<silver>4 </silver>
+<bronze>1 </bronze>
+<total>7 </total>
+</record>
+<record>
+<rk>30 </rk>
+<country>Ethiopia</country>
+<gold>2 </gold>
+<silver>3 </silver>
+<bronze>2 </bronze>
+<total>7 </total>
+</record>
+<record>
+<rk>31 </rk>
+<country>Kenya</country>
+<gold>1 </gold>
+<silver>4 </silver>
+<bronze>2 </bronze>
+<total>7 </total>
+</record>
+<record>
+<rk>32 </rk>
+<country>Norway</country>
+<gold>5 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>6 </total>
+</record>
+<record>
+<rk>33 </rk>
+<country>Slovakia</country>
+<gold>2 </gold>
+<silver>2 </silver>
+<bronze>2 </bronze>
+<total>6 </total>
+</record>
+<record>
+<rk>34 </rk>
+<country>Iran</country>
+<gold>2 </gold>
+<silver>2 </silver>
+<bronze>2 </bronze>
+<total>6 </total>
+</record>
+<record>
+<rk>35 </rk>
+<country>Argentina</country>
+<gold>2 </gold>
+<silver>0 </silver>
+<bronze>4 </bronze>
+<total>6 </total>
+</record>
+<record>
+<rk>36 </rk>
+<country>South Africa</country>
+<gold>1 </gold>
+<silver>3 </silver>
+<bronze>2 </bronze>
+<total>6 </total>
+</record>
+<record>
+<rk>37 </rk>
+<country>New Zealand</country>
+<gold>3 </gold>
+<silver>2 </silver>
+<bronze>0 </bronze>
+<total>5 </total>
+</record>
+<record>
+<rk>38 </rk>
+<country>Chinese Taipei</country>
+<gold>2 </gold>
+<silver>2 </silver>
+<bronze>1 </bronze>
+<total>5 </total>
+</record>
+<record>
+<rk>39 </rk>
+<country>Jamaica</country>
+<gold>2 </gold>
+<silver>1 </silver>
+<bronze>2 </bronze>
+<total>5 </total>
+</record>
+<record>
+<rk>40 </rk>
+<country>Uzbekistan</country>
+<gold>2 </gold>
+<silver>1 </silver>
+<bronze>2 </bronze>
+<total>5 </total>
+</record>
+<record>
+<rk>41 </rk>
+<country>Croatia</country>
+<gold>1 </gold>
+<silver>2 </silver>
+<bronze>2 </bronze>
+<total>5 </total>
+</record>
+<record>
+<rk>42 </rk>
+<country>Switzerland</country>
+<gold>1 </gold>
+<silver>1 </silver>
+<bronze>3 </bronze>
+<total>5 </total>
+</record>
+<record>
+<rk>43 </rk>
+<country>Egypt</country>
+<gold>1 </gold>
+<silver>1 </silver>
+<bronze>3 </bronze>
+<total>5 </total>
+</record>
+<record>
+<rk>44 </rk>
+<country>Azerbaijan</country>
+<gold>1 </gold>
+<silver>0 </silver>
+<bronze>4 </bronze>
+<total>5 </total>
+</record>
+<record>
+<rk>45 </rk>
+<country>North Korea</country>
+<gold>0 </gold>
+<silver>4 </silver>
+<bronze>1 </bronze>
+<total>5 </total>
+</record>
+<record>
+<rk>46 </rk>
+<country>Georgia</country>
+<gold>2 </gold>
+<silver>2 </silver>
+<bronze>0 </bronze>
+<total>4 </total>
+</record>
+<record>
+<rk>47 </rk>
+<country>Indonesia</country>
+<gold>1 </gold>
+<silver>1 </silver>
+<bronze>2 </bronze>
+<total>4 </total>
+</record>
+<record>
+<rk>48 </rk>
+<country>Latvia</country>
+<gold>0 </gold>
+<silver>4 </silver>
+<bronze>0 </bronze>
+<total>4 </total>
+</record>
+<record>
+<rk>49 </rk>
+<country>Mexico</country>
+<gold>0 </gold>
+<silver>3 </silver>
+<bronze>1 </bronze>
+<total>4 </total>
+</record>
+<record>
+<rk>50 </rk>
+<country>Slovenia</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>3 </bronze>
+<total>4 </total>
+</record>
+<record>
+<rk>51 </rk>
+<country>Morocco</country>
+<gold>2 </gold>
+<silver>1 </silver>
+<bronze>0 </bronze>
+<total>3 </total>
+</record>
+<record>
+<rk>52 </rk>
+<country>Chile</country>
+<gold>2 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>3 </total>
+</record>
+<record>
+<rk>53 </rk>
+<country>Lithuania</country>
+<gold>1 </gold>
+<silver>2 </silver>
+<bronze>0 </bronze>
+<total>3 </total>
+</record>
+<record>
+<rk>54 </rk>
+<country>Zimbabwe</country>
+<gold>1 </gold>
+<silver>1 </silver>
+<bronze>1 </bronze>
+<total>3 </total>
+</record>
+<record>
+<rk>55 </rk>
+<country>Belgium</country>
+<gold>1 </gold>
+<silver>0 </silver>
+<bronze>2 </bronze>
+<total>3 </total>
+</record>
+<record>
+<rk>56 </rk>
+<country>Portugal</country>
+<gold>0 </gold>
+<silver>2 </silver>
+<bronze>1 </bronze>
+<total>3 </total>
+</record>
+<record>
+<rk>57 </rk>
+<country>Estonia</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>2 </bronze>
+<total>3 </total>
+</record>
+<record>
+<rk>58 </rk>
+<country>Bahamas</country>
+<gold>1 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>59 </rk>
+<country>Israel</country>
+<gold>1 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>60 </rk>
+<country>Finland</country>
+<gold>0 </gold>
+<silver>2 </silver>
+<bronze>0 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>61 </rk>
+<country>Serbia and Montenegro</country>
+<gold>0 </gold>
+<silver>2 </silver>
+<bronze>0 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>62 </rk>
+<country>Venezuela</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>2 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>63 </rk>
+<country>Nigeria</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>2 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>64 </rk>
+<country>Colombia</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>2 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>65 </rk>
+<country>United Arab Emirates</country>
+<gold>1 </gold>
+<silver>0 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>66 </rk>
+<country>Dominican Republic</country>
+<gold>1 </gold>
+<silver>0 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>67 </rk>
+<country>Cameroon</country>
+<gold>1 </gold>
+<silver>0 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>68 </rk>
+<country>India</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>69 </rk>
+<country>Paraguay</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>70 </rk>
+<country>Hong Kong</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>71 </rk>
+<country>Eritrea</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>72 </rk>
+<country>Trinidad and Tobago</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>73 </rk>
+<country>Syria</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>74 </rk>
+<country>Mongolia</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>1 </total>
+</record>
+</medals_2004>
+<medals_2008>
+<record>
+<rk>1 </rk>
+<country>United States</country>
+<gold>36 </gold>
+<silver>38 </silver>
+<bronze>36 </bronze>
+<total>110 </total>
+</record>
+<record>
+<rk>2 </rk>
+<country>China</country>
+<gold>51 </gold>
+<silver>21 </silver>
+<bronze>28 </bronze>
+<total>100 </total>
+</record>
+<record>
+<rk>3 </rk>
+<country>Russia</country>
+<gold>23 </gold>
+<silver>21 </silver>
+<bronze>29 </bronze>
+<total>73 </total>
+</record>
+<record>
+<rk>4 </rk>
+<country>Great Britain</country>
+<gold>19 </gold>
+<silver>13 </silver>
+<bronze>15 </bronze>
+<total>47 </total>
+</record>
+<record>
+<rk>5 </rk>
+<country>Australia</country>
+<gold>14 </gold>
+<silver>15 </silver>
+<bronze>17 </bronze>
+<total>46 </total>
+</record>
+<record>
+<rk>6 </rk>
+<country>Germany</country>
+<gold>16 </gold>
+<silver>10 </silver>
+<bronze>15 </bronze>
+<total>41 </total>
+</record>
+<record>
+<rk>7 </rk>
+<country>France</country>
+<gold>7 </gold>
+<silver>16 </silver>
+<bronze>18 </bronze>
+<total>41 </total>
+</record>
+<record>
+<rk>8 </rk>
+<country>South Korea</country>
+<gold>13 </gold>
+<silver>10 </silver>
+<bronze>8 </bronze>
+<total>31 </total>
+</record>
+<record>
+<rk>9 </rk>
+<country>Italy</country>
+<gold>8 </gold>
+<silver>9 </silver>
+<bronze>10 </bronze>
+<total>27 </total>
+</record>
+<record>
+<rk>10 </rk>
+<country>Ukraine</country>
+<gold>7 </gold>
+<silver>5 </silver>
+<bronze>15 </bronze>
+<total>27 </total>
+</record>
+<record>
+<rk>11 </rk>
+<country>Japan</country>
+<gold>9 </gold>
+<silver>6 </silver>
+<bronze>10 </bronze>
+<total>25 </total>
+</record>
+<record>
+<rk>12 </rk>
+<country>Cuba</country>
+<gold>2 </gold>
+<silver>11 </silver>
+<bronze>11 </bronze>
+<total>24 </total>
+</record>
+<record>
+<rk>13 </rk>
+<country>Belarus</country>
+<gold>4 </gold>
+<silver>5 </silver>
+<bronze>10 </bronze>
+<total>19 </total>
+</record>
+<record>
+<rk>14 </rk>
+<country>Spain</country>
+<gold>5 </gold>
+<silver>10 </silver>
+<bronze>3 </bronze>
+<total>18 </total>
+</record>
+<record>
+<rk>15 </rk>
+<country>Canada</country>
+<gold>3 </gold>
+<silver>9 </silver>
+<bronze>6 </bronze>
+<total>18 </total>
+</record>
+<record>
+<rk>16 </rk>
+<country>Netherlands</country>
+<gold>7 </gold>
+<silver>5 </silver>
+<bronze>4 </bronze>
+<total>16 </total>
+</record>
+<record>
+<rk>17 </rk>
+<country>Brazil</country>
+<gold>3 </gold>
+<silver>4 </silver>
+<bronze>8 </bronze>
+<total>15 </total>
+</record>
+<record>
+<rk>18 </rk>
+<country>Kenya</country>
+<gold>6 </gold>
+<silver>4 </silver>
+<bronze>4 </bronze>
+<total>14 </total>
+</record>
+<record>
+<rk>19 </rk>
+<country>Kazakhstan</country>
+<gold>2 </gold>
+<silver>4 </silver>
+<bronze>7 </bronze>
+<total>13 </total>
+</record>
+<record>
+<rk>20 </rk>
+<country>Jamaica</country>
+<gold>6 </gold>
+<silver>3 </silver>
+<bronze>2 </bronze>
+<total>11 </total>
+</record>
+<record>
+<rk>21 </rk>
+<country>Poland</country>
+<gold>3 </gold>
+<silver>6 </silver>
+<bronze>1 </bronze>
+<total>10 </total>
+</record>
+<record>
+<rk>22 </rk>
+<country>Hungary</country>
+<gold>3 </gold>
+<silver>5 </silver>
+<bronze>2 </bronze>
+<total>10 </total>
+</record>
+<record>
+<rk>23 </rk>
+<country>Norway</country>
+<gold>3 </gold>
+<silver>5 </silver>
+<bronze>1 </bronze>
+<total>9 </total>
+</record>
+<record>
+<rk>24 </rk>
+<country>New Zealand</country>
+<gold>3 </gold>
+<silver>2 </silver>
+<bronze>4 </bronze>
+<total>9 </total>
+</record>
+<record>
+<rk>25 </rk>
+<country>Romania</country>
+<gold>4 </gold>
+<silver>1 </silver>
+<bronze>3 </bronze>
+<total>8 </total>
+</record>
+<record>
+<rk>26 </rk>
+<country>Turkey</country>
+<gold>1 </gold>
+<silver>4 </silver>
+<bronze>3 </bronze>
+<total>8 </total>
+</record>
+<record>
+<rk>27 </rk>
+<country>Ethiopia</country>
+<gold>4 </gold>
+<silver>1 </silver>
+<bronze>2 </bronze>
+<total>7 </total>
+</record>
+<record>
+<rk>28 </rk>
+<country>Denmark</country>
+<gold>2 </gold>
+<silver>2 </silver>
+<bronze>3 </bronze>
+<total>7 </total>
+</record>
+<record>
+<rk>29 </rk>
+<country>Switzerland</country>
+<gold>2 </gold>
+<silver>1 </silver>
+<bronze>4 </bronze>
+<total>7 </total>
+</record>
+<record>
+<rk>30 </rk>
+<country>Azerbaijan</country>
+<gold>1 </gold>
+<silver>2 </silver>
+<bronze>4 </bronze>
+<total>7 </total>
+</record>
+<record>
+<rk>31 </rk>
+<country>Czech Republic</country>
+<gold>3 </gold>
+<silver>3 </silver>
+<bronze>0 </bronze>
+<total>6 </total>
+</record>
+<record>
+<rk>32 </rk>
+<country>Slovakia</country>
+<gold>3 </gold>
+<silver>2 </silver>
+<bronze>1 </bronze>
+<total>6 </total>
+</record>
+<record>
+<rk>33 </rk>
+<country>Georgia</country>
+<gold>3 </gold>
+<silver>0 </silver>
+<bronze>3 </bronze>
+<total>6 </total>
+</record>
+<record>
+<rk>34 </rk>
+<country>North Korea</country>
+<gold>2 </gold>
+<silver>1 </silver>
+<bronze>3 </bronze>
+<total>6 </total>
+</record>
+<record>
+<rk>35 </rk>
+<country>Argentina</country>
+<gold>2 </gold>
+<silver>0 </silver>
+<bronze>4 </bronze>
+<total>6 </total>
+</record>
+<record>
+<rk>36 </rk>
+<country>Uzbekistan</country>
+<gold>1 </gold>
+<silver>2 </silver>
+<bronze>3 </bronze>
+<total>6 </total>
+</record>
+<record>
+<rk>37 </rk>
+<country>Armenia</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>6 </bronze>
+<total>6 </total>
+</record>
+<record>
+<rk>38 </rk>
+<country>Slovenia</country>
+<gold>1 </gold>
+<silver>2 </silver>
+<bronze>2 </bronze>
+<total>5 </total>
+</record>
+<record>
+<rk>39 </rk>
+<country>Bulgaria</country>
+<gold>1 </gold>
+<silver>1 </silver>
+<bronze>3 </bronze>
+<total>5 </total>
+</record>
+<record>
+<rk>40 </rk>
+<country>Indonesia</country>
+<gold>1 </gold>
+<silver>1 </silver>
+<bronze>3 </bronze>
+<total>5 </total>
+</record>
+<record>
+<rk>41 </rk>
+<country>Sweden</country>
+<gold>0 </gold>
+<silver>4 </silver>
+<bronze>1 </bronze>
+<total>5 </total>
+</record>
+<record>
+<rk>42 </rk>
+<country>Lithuania</country>
+<gold>0 </gold>
+<silver>2 </silver>
+<bronze>3 </bronze>
+<total>5 </total>
+</record>
+<record>
+<rk>43 </rk>
+<country>Croatia</country>
+<gold>0 </gold>
+<silver>2 </silver>
+<bronze>3 </bronze>
+<total>5 </total>
+</record>
+<record>
+<rk>44 </rk>
+<country>Mongolia</country>
+<gold>2 </gold>
+<silver>2 </silver>
+<bronze>0 </bronze>
+<total>4 </total>
+</record>
+<record>
+<rk>45 </rk>
+<country>Thailand</country>
+<gold>2 </gold>
+<silver>2 </silver>
+<bronze>0 </bronze>
+<total>4 </total>
+</record>
+<record>
+<rk>46 </rk>
+<country>Zimbabwe</country>
+<gold>1 </gold>
+<silver>3 </silver>
+<bronze>0 </bronze>
+<total>4 </total>
+</record>
+<record>
+<rk>47 </rk>
+<country>Finland</country>
+<gold>1 </gold>
+<silver>1 </silver>
+<bronze>2 </bronze>
+<total>4 </total>
+</record>
+<record>
+<rk>48 </rk>
+<country>Greece</country>
+<gold>0 </gold>
+<silver>2 </silver>
+<bronze>2 </bronze>
+<total>4 </total>
+</record>
+<record>
+<rk>49 </rk>
+<country>Nigeria</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>3 </bronze>
+<total>4 </total>
+</record>
+<record>
+<rk>50 </rk>
+<country>Chinese Taipei</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>4 </bronze>
+<total>4 </total>
+</record>
+<record>
+<rk>51 </rk>
+<country>Mexico</country>
+<gold>2 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>3 </total>
+</record>
+<record>
+<rk>52 </rk>
+<country>Latvia</country>
+<gold>1 </gold>
+<silver>1 </silver>
+<bronze>1 </bronze>
+<total>3 </total>
+</record>
+<record>
+<rk>53 </rk>
+<country>India</country>
+<gold>1 </gold>
+<silver>0 </silver>
+<bronze>2 </bronze>
+<total>3 </total>
+</record>
+<record>
+<rk>54 </rk>
+<country>Austria</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>2 </bronze>
+<total>3 </total>
+</record>
+<record>
+<rk>55 </rk>
+<country>Serbia</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>2 </bronze>
+<total>3 </total>
+</record>
+<record>
+<rk>56 </rk>
+<country>Ireland</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>2 </bronze>
+<total>3 </total>
+</record>
+<record>
+<rk>57 </rk>
+<country>Portugal</country>
+<gold>1 </gold>
+<silver>1 </silver>
+<bronze>0 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>58 </rk>
+<country>Belgium</country>
+<gold>1 </gold>
+<silver>1 </silver>
+<bronze>0 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>59 </rk>
+<country>Estonia</country>
+<gold>1 </gold>
+<silver>1 </silver>
+<bronze>0 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>60 </rk>
+<country>Dominican Republic</country>
+<gold>1 </gold>
+<silver>1 </silver>
+<bronze>0 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>61 </rk>
+<country>Iran</country>
+<gold>1 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>62 </rk>
+<country>Trinidad and Tobago</country>
+<gold>0 </gold>
+<silver>2 </silver>
+<bronze>0 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>63 </rk>
+<country>Tajikistan</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>1 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>64 </rk>
+<country>Algeria</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>1 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>65 </rk>
+<country>Colombia</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>1 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>66 </rk>
+<country>Bahamas</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>1 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>67 </rk>
+<country>Kyrgyzstan</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>1 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>68 </rk>
+<country>Morocco</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>1 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>69 </rk>
+<country>Tunisia</country>
+<gold>1 </gold>
+<silver>0 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>70 </rk>
+<country>Panama</country>
+<gold>1 </gold>
+<silver>0 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>71 </rk>
+<country>Cameroon</country>
+<gold>1 </gold>
+<silver>0 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>72 </rk>
+<country>Singapore</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>73 </rk>
+<country>Sudan</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>74 </rk>
+<country>Malaysia</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>75 </rk>
+<country>Iceland</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>76 </rk>
+<country>Chile</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>77 </rk>
+<country>Vietnam</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>78 </rk>
+<country>Ecuador</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>79 </rk>
+<country>South Africa</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>80 </rk>
+<country>Moldova</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>81 </rk>
+<country>Egypt</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>82 </rk>
+<country>Israel</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>83 </rk>
+<country>Afghanistan</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>84 </rk>
+<country>Venezuela</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>85 </rk>
+<country>Mauritius</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>86 </rk>
+<country>Togo</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>1 </total>
+</record>
+</medals_2008>
+<medals_2012>
+<record>
+<rk>1 </rk>
+<country>United States</country>
+<gold>40 </gold>
+<silver>27 </silver>
+<bronze>28 </bronze>
+<total>95 </total>
+</record>
+<record>
+<rk>2 </rk>
+<country>China</country>
+<gold>35 </gold>
+<silver>27 </silver>
+<bronze>22 </bronze>
+<total>84 </total>
+</record>
+<record>
+<rk>3 </rk>
+<country>Russia</country>
+<gold>23 </gold>
+<silver>24 </silver>
+<bronze>30 </bronze>
+<total>77 </total>
+</record>
+<record>
+<rk>4 </rk>
+<country>Great Britain</country>
+<gold>29 </gold>
+<silver>16 </silver>
+<bronze>18 </bronze>
+<total>63 </total>
+</record>
+<record>
+<rk>5 </rk>
+<country>Germany</country>
+<gold>10 </gold>
+<silver>18 </silver>
+<bronze>13 </bronze>
+<total>41 </total>
+</record>
+<record>
+<rk>6 </rk>
+<country>Japan</country>
+<gold>7 </gold>
+<silver>10 </silver>
+<bronze>16 </bronze>
+<total>33 </total>
+</record>
+<record>
+<rk>7 </rk>
+<country>Australia</country>
+<gold>7 </gold>
+<silver>16 </silver>
+<bronze>9 </bronze>
+<total>32 </total>
+</record>
+<record>
+<rk>8 </rk>
+<country>France</country>
+<gold>10 </gold>
+<silver>9 </silver>
+<bronze>10 </bronze>
+<total>29 </total>
+</record>
+<record>
+<rk>9 </rk>
+<country>South Korea</country>
+<gold>11 </gold>
+<silver>6 </silver>
+<bronze>5 </bronze>
+<total>22 </total>
+</record>
+<record>
+<rk>10 </rk>
+<country>Italy</country>
+<gold>6 </gold>
+<silver>8 </silver>
+<bronze>8 </bronze>
+<total>22 </total>
+</record>
+<record>
+<rk>11 </rk>
+<country>Ukraine</country>
+<gold>6 </gold>
+<silver>5 </silver>
+<bronze>8 </bronze>
+<total>19 </total>
+</record>
+<record>
+<rk>12 </rk>
+<country>Netherlands</country>
+<gold>5 </gold>
+<silver>5 </silver>
+<bronze>8 </bronze>
+<total>18 </total>
+</record>
+<record>
+<rk>13 </rk>
+<country>Hungary</country>
+<gold>7 </gold>
+<silver>4 </silver>
+<bronze>5 </bronze>
+<total>16 </total>
+</record>
+<record>
+<rk>14 </rk>
+<country>Canada</country>
+<gold>1 </gold>
+<silver>5 </silver>
+<bronze>10 </bronze>
+<total>16 </total>
+</record>
+<record>
+<rk>15 </rk>
+<country>Cuba</country>
+<gold>5 </gold>
+<silver>3 </silver>
+<bronze>6 </bronze>
+<total>14 </total>
+</record>
+<record>
+<rk>16 </rk>
+<country>Spain</country>
+<gold>3 </gold>
+<silver>8 </silver>
+<bronze>3 </bronze>
+<total>14 </total>
+</record>
+<record>
+<rk>17 </rk>
+<country>Brazil</country>
+<gold>2 </gold>
+<silver>3 </silver>
+<bronze>9 </bronze>
+<total>14 </total>
+</record>
+<record>
+<rk>18 </rk>
+<country>Kazakhstan</country>
+<gold>7 </gold>
+<silver>1 </silver>
+<bronze>5 </bronze>
+<total>13 </total>
+</record>
+<record>
+<rk>19 </rk>
+<country>New Zealand</country>
+<gold>5 </gold>
+<silver>3 </silver>
+<bronze>5 </bronze>
+<total>13 </total>
+</record>
+<record>
+<rk>20 </rk>
+<country>Iran</country>
+<gold>4 </gold>
+<silver>5 </silver>
+<bronze>3 </bronze>
+<total>12 </total>
+</record>
+<record>
+<rk>21 </rk>
+<country>Jamaica</country>
+<gold>4 </gold>
+<silver>4 </silver>
+<bronze>4 </bronze>
+<total>12 </total>
+</record>
+<record>
+<rk>22 </rk>
+<country>Belarus</country>
+<gold>2 </gold>
+<silver>5 </silver>
+<bronze>5 </bronze>
+<total>12 </total>
+</record>
+<record>
+<rk>23 </rk>
+<country>Kenya</country>
+<gold>2 </gold>
+<silver>4 </silver>
+<bronze>5 </bronze>
+<total>11 </total>
+</record>
+<record>
+<rk>24 </rk>
+<country>Poland</country>
+<gold>2 </gold>
+<silver>2 </silver>
+<bronze>6 </bronze>
+<total>10 </total>
+</record>
+<record>
+<rk>25 </rk>
+<country>Azerbaijan</country>
+<gold>2 </gold>
+<silver>2 </silver>
+<bronze>6 </bronze>
+<total>10 </total>
+</record>
+<record>
+<rk>26 </rk>
+<country>Czech Republic</country>
+<gold>4 </gold>
+<silver>2 </silver>
+<bronze>3 </bronze>
+<total>9 </total>
+</record>
+<record>
+<rk>27 </rk>
+<country>Denmark</country>
+<gold>2 </gold>
+<silver>4 </silver>
+<bronze>3 </bronze>
+<total>9 </total>
+</record>
+<record>
+<rk>28 </rk>
+<country>Romania</country>
+<gold>2 </gold>
+<silver>4 </silver>
+<bronze>2 </bronze>
+<total>8 </total>
+</record>
+<record>
+<rk>29 </rk>
+<country>Colombia</country>
+<gold>1 </gold>
+<silver>3 </silver>
+<bronze>4 </bronze>
+<total>8 </total>
+</record>
+<record>
+<rk>30 </rk>
+<country>Ethiopia</country>
+<gold>3 </gold>
+<silver>1 </silver>
+<bronze>3 </bronze>
+<total>7 </total>
+</record>
+<record>
+<rk>31 </rk>
+<country>Sweden</country>
+<gold>1 </gold>
+<silver>3 </silver>
+<bronze>3 </bronze>
+<total>7 </total>
+</record>
+<record>
+<rk>32 </rk>
+<country>North Korea</country>
+<gold>4 </gold>
+<silver>0 </silver>
+<bronze>2 </bronze>
+<total>6 </total>
+</record>
+<record>
+<rk>33 </rk>
+<country>South Africa</country>
+<gold>3 </gold>
+<silver>2 </silver>
+<bronze>1 </bronze>
+<total>6 </total>
+</record>
+<record>
+<rk>34 </rk>
+<country>Georgia</country>
+<gold>1 </gold>
+<silver>3 </silver>
+<bronze>2 </bronze>
+<total>6 </total>
+</record>
+<record>
+<rk>35 </rk>
+<country>Mexico</country>
+<gold>0 </gold>
+<silver>3 </silver>
+<bronze>3 </bronze>
+<total>6 </total>
+</record>
+<record>
+<rk>36 </rk>
+<country>India</country>
+<gold>0 </gold>
+<silver>2 </silver>
+<bronze>4 </bronze>
+<total>6 </total>
+</record>
+<record>
+<rk>37 </rk>
+<country>Turkey</country>
+<gold>2 </gold>
+<silver>2 </silver>
+<bronze>1 </bronze>
+<total>5 </total>
+</record>
+<record>
+<rk>38 </rk>
+<country>Lithuania</country>
+<gold>2 </gold>
+<silver>1 </silver>
+<bronze>2 </bronze>
+<total>5 </total>
+</record>
+<record>
+<rk>39 </rk>
+<country>Ireland</country>
+<gold>1 </gold>
+<silver>1 </silver>
+<bronze>3 </bronze>
+<total>5 </total>
+</record>
+<record>
+<rk>40 </rk>
+<country>Mongolia</country>
+<gold>0 </gold>
+<silver>2 </silver>
+<bronze>3 </bronze>
+<total>5 </total>
+</record>
+<record>
+<rk>41 </rk>
+<country>Switzerland</country>
+<gold>2 </gold>
+<silver>2 </silver>
+<bronze>0 </bronze>
+<total>4 </total>
+</record>
+<record>
+<rk>42 </rk>
+<country>Croatia</country>
+<gold>2 </gold>
+<silver>1 </silver>
+<bronze>1 </bronze>
+<total>4 </total>
+</record>
+<record>
+<rk>43 </rk>
+<country>Slovenia</country>
+<gold>1 </gold>
+<silver>1 </silver>
+<bronze>2 </bronze>
+<total>4 </total>
+</record>
+<record>
+<rk>44 </rk>
+<country>Trinidad and Tobago</country>
+<gold>1 </gold>
+<silver>0 </silver>
+<bronze>3 </bronze>
+<total>4 </total>
+</record>
+<record>
+<rk>45 </rk>
+<country>Uzbekistan</country>
+<gold>1 </gold>
+<silver>0 </silver>
+<bronze>3 </bronze>
+<total>4 </total>
+</record>
+<record>
+<rk>46 </rk>
+<country>Slovakia</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>3 </bronze>
+<total>4 </total>
+</record>
+<record>
+<rk>47 </rk>
+<country>Serbia</country>
+<gold>1 </gold>
+<silver>1 </silver>
+<bronze>1 </bronze>
+<total>3 </total>
+</record>
+<record>
+<rk>48 </rk>
+<country>Norway</country>
+<gold>1 </gold>
+<silver>1 </silver>
+<bronze>1 </bronze>
+<total>3 </total>
+</record>
+<record>
+<rk>49 </rk>
+<country>Argentina</country>
+<gold>1 </gold>
+<silver>0 </silver>
+<bronze>2 </bronze>
+<total>3 </total>
+</record>
+<record>
+<rk>50 </rk>
+<country>Thailand</country>
+<gold>0 </gold>
+<silver>2 </silver>
+<bronze>1 </bronze>
+<total>3 </total>
+</record>
+<record>
+<rk>51 </rk>
+<country>Armenia</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>2 </bronze>
+<total>3 </total>
+</record>
+<record>
+<rk>52 </rk>
+<country>Finland</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>2 </bronze>
+<total>3 </total>
+</record>
+<record>
+<rk>53 </rk>
+<country>Belgium</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>2 </bronze>
+<total>3 </total>
+</record>
+<record>
+<rk>54 </rk>
+<country>Dominican Republic</country>
+<gold>1 </gold>
+<silver>1 </silver>
+<bronze>0 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>55 </rk>
+<country>Latvia</country>
+<gold>1 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>56 </rk>
+<country>Egypt</country>
+<gold>0 </gold>
+<silver>2 </silver>
+<bronze>0 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>57 </rk>
+<country>Estonia</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>1 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>58 </rk>
+<country>Bulgaria</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>1 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>59 </rk>
+<country>Tunisia</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>1 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>60 </rk>
+<country>Chinese Taipei</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>1 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>61 </rk>
+<country>Indonesia</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>1 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>62 </rk>
+<country>Puerto Rico</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>1 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>63 </rk>
+<country>Malaysia</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>1 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>64 </rk>
+<country>Greece</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>2 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>65 </rk>
+<country>Qatar</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>2 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>66 </rk>
+<country>Moldova</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>2 </bronze>
+<total>2 </total>
+</record>
+<record>
+<rk>67 </rk>
+<country>Uganda</country>
+<gold>1 </gold>
+<silver>0 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>68 </rk>
+<country>Bahamas</country>
+<gold>1 </gold>
+<silver>0 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>69 </rk>
+<country>Venezuela</country>
+<gold>1 </gold>
+<silver>0 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>70 </rk>
+<country>Grenada</country>
+<gold>1 </gold>
+<silver>0 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>71 </rk>
+<country>Algeria</country>
+<gold>1 </gold>
+<silver>0 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>72 </rk>
+<country>Guatemala</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>73 </rk>
+<country>Portugal</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>74 </rk>
+<country>Cyprus</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>75 </rk>
+<country>Botswana</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>76 </rk>
+<country>Gabon</country>
+<gold>0 </gold>
+<silver>1 </silver>
+<bronze>0 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>77 </rk>
+<country>Morocco</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>78 </rk>
+<country>Bahrain</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>79 </rk>
+<country>Saudi Arabia</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>80 </rk>
+<country>Tajikistan</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>81 </rk>
+<country>Hong Kong</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>82 </rk>
+<country>Kuwait</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>83 </rk>
+<country>Afghanistan</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>1 </total>
+</record>
+<record>
+<rk>84 </rk>
+<country>Singapore</country>
+<gold>0 </gold>
+<silver>0 </silver>
+<bronze>1 </bronze>
+<total>1 </total>
+</record>
+</medals_2012>
+</Medals>
