@@ -7,13 +7,12 @@
 #   Mayor.create(name: 'Emanuel', city: cities.first)
 
 require 'rexml/document'
+require 'Nokogiri'
 
 def handle_games(doc, season)
 	doc.elements.each("/Medals/*") do |ele|
 		olympic_year = ele.name.split('_')[1]
-		game = Game.find_or_create_by_year(olympic_year)
-		game.season = season
-		game.save
+		game = Game.find_or_create_by_year_and_season(olympic_year, season)
 		ele.elements.each do |country|
 			joincg = CountryGame.new do |cg| 
 				c = Country.find_or_create_by_name(country.elements['country'].text)
@@ -35,7 +34,33 @@ summer_doc = REXML::Document.new(summer_games)
 winter_games = File.new("#{Rails.root}/db/data/wo.xml", "r")
 winter_doc = REXML::Document.new(winter_games)
 
-handle_games(summer_doc, "summer")
-handle_games(winter_doc, "winter")
+#handle_games(summer_doc, "summer")
+#handle_games(winter_doc, "winter")
 #puts doc.root
+
+players = Nokogiri::XML(File.open("#{Rails.root}/db/data/Athletes.xml", "r"))
+players.xpath("//Record[position()>115117]").each do |ele|
+	player = Athlete.new do |a|
+		a.full_name = ele.css("Full_Name").text
+		a.gender = ele.css("Gender").text
+		a.DOB = ele.css("DOB").text
+		s = Sport.find_or_create_by_name(ele.css("Sport").text)
+		s.save
+		a.sport = s
+		a.country = Country.find_or_create_by_name(ele.css('Country').text.split(' ')[0])
+	end
+	player.save
+	ele.css('Medal_history').each do |medal|
+		md = Medal.new do |m|
+			m.athlete = player
+			m.event = Event.find_or_create_by_name(medal.css('Event').text)
+			games_year = medal.css('Games').text.split(' ')[0].to_i
+			games_season = medal.css('Games').text.split(' ')[1]
+			m.game = Game.find_by_year_and_season(games_year, games_season)
+			m.medal = medal.css('Medal').text
+		end
+		md.save
+	end
+end
+
 

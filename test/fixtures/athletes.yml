@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  full_name: MyString
+  gender: MyString
+  DOB: MyString
+  sport: 
+
+two:
+  full_name: MyString
+  gender: MyString
+  DOB: MyString
+  sport: 
