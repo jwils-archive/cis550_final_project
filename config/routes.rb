@@ -8,6 +8,9 @@ OlympicQuiz::Application.routes.draw do
   match '/country_medals' => 'home#country_medals'
 
   match "/images/*path" => redirect("/assets/%{path}.png")
+
+  match "/make_bet" => 'home#make_bet'
+  
   # The priority is based upon order of creation:
   # first created -> highest priority.
 

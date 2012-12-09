@@ -1,4 +1,6 @@
 class EventBet < ActiveRecord::Base
   belongs_to :country
-  attr_accessible :amount, :event, :user
+  belongs_to :user
+  belongs_to :event
+  attr_accessible :amount
 end

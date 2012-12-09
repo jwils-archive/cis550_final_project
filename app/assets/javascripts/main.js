@@ -3,10 +3,6 @@ google.load("visualization", "1", {packages:["corechart"]});
 
 function bethistory(){
 	var bethistoryTable;
-	
-	/***
-		GET: Bet History
-	***/
 	$.ajax({
   		url: "/bets.json",
   		context: document.body
@@ -18,6 +14,7 @@ function bethistory(){
 				{ "sTitle": "Type" },
 				{ "sTitle": "Country"},
 				{ "sTitle": "Bet" ,"sClass":"center"},
+				{ "sTitle": "Bet Amount" ,"sClass":"center"},
 				{ "sTitle": "Calculated Odds" ,"sClass":"center"}
 			]
 		};
@@ -56,18 +53,17 @@ function betCty1_table(){
 		};
 			//<After completion>
 		ctycountryTable= $('#ctyTable').dataTable(ctycountryData);	
-		$("#ctyTable tbody tr").click( function(){
+		$("#ctyTable tbody tr").live("click", function(){
 			sCty = ($(this).find('td').html());
 			$("#bet-cty-label").html(sCty);
 			$("#bet-cty-1").modal('hide');
+
 			$("#bet-cty-2").modal();
+
 		});
 		//</After completion>
 		});
 	//Data
-	
-	
-	
 }
 
 
@@ -152,7 +148,7 @@ function betCty2_graph(){
 		//After completion
 		$("#bet-cty-odds").html("Calculated Odds: "+odds);
 	
-	$("#betplace .gold").click(function(){
+	$("#betplace .gold").live("click",function(){
 		/***
 			POST: Betting oods for Gold
 		***/
@@ -163,7 +159,7 @@ function betCty2_graph(){
 		//After completion
 		$("#bet-cty-odds").html("Calculated Odds: "+odds);
 	});
-	$("#betplace .silver").click(function(){
+	$("#betplace .silver").live("click",function(){
 		/***
 			POST: Betting odds for Silver
 		***/
@@ -174,14 +170,13 @@ function betCty2_graph(){
 		//After completion
 		$("#bet-cty-odds").html("Calculated Odds: "+odds);
 	});
-	$("#betplace .bronze").click(function(){
+	$("#betplace .bronze").live("click",function(){
 		/***
 			POST: Betting odds for Bronze
 		***/
 		
 		//Data
 		var odds = "1:10";
-		
 		//After completion
 		$("#bet-cty-odds").html("Calculated Odds: "+odds);
 	});
@@ -194,12 +189,24 @@ function betCty2_graph(){
 			POST: Country Bet (Country Name: sCty, Place: $("#betplace").val(), Bet Amount: $("#bet-cty-input").val())
 		***/
 		
+		$.ajax({
+	        url: "/make_bet",
+	        type: "post",
+	        data: {
+	        'country' : sCty, 
+	        'amount' : document.getElementById('bet-cty-input').value
+	        },
+	        // callback handler that will be called on success
+	        success: function(response){
+	        	document.location.reload(true)
+	            // log a message to the console
+	            // console.log("Hooray, it worked!");
+	        }
+    	});
 		//After Completion
 		$("#bet-cty-input").val('');
 		$("#bet-cty-2").modal('hide');
-	});
-	
-	
+	});	
 }
 
 
@@ -229,20 +236,19 @@ function betEvt1_table(){
 		//<After completion>
 	evtTable= $('#evtTable').dataTable(evtData);	
 	
-	$("#evtTable tbody tr").click( function(){
+	$("#evtTable tbody tr").live("click", function(){
 		sEvt = ($(this).find('td').html());
 		$("#bet-evt-label").html(sEvt+": Select a Country");
 		$("#bet-evt-1").modal('hide');
 		$("#bet-evt-2").modal();
+		betEvt2_table();
+
 	});
 	//</After completion>
 	});
 
 
 	//Data
-	
-	
-	
 }
 
 
@@ -271,10 +277,11 @@ function betEvt2_table(){
 	};
 	evtCountryTable= $('#evt-ctyTable').dataTable(evtCountryData);	
 	
-	$("#evt-ctyTable tbody tr").click( function(){
+	$("#evt-ctyTable tbody tr").live("click", function(){
 			sCty = ($(this).find('td').html());
 			$("#bet-evt-label2").html(sEvt +" : " + sCty);
 			$("#bet-evt-2").modal('hide');
+			evtCountryTable.fnDestroy();
 			$("#bet-evt-3").modal();
 		
 	});
@@ -373,7 +380,21 @@ function betEvt3_graph(){
 		/***
 			POST: Event Bet (Event Name : sEvt, Country Name : sCty, Bet Amount : $("#bet-evt-input").val())
 		***/
-	
+		$.ajax({
+	        url: "/make_bet",
+	        type: "post",
+	        data: {
+	        'country' : sCty, 
+	        'event' : sEvt, 
+	        'amount' : document.getElementById('bet-evt-input').value
+	        },
+	        // callback handler that will be called on success
+	        success: function(response){
+	            // log a message to the console
+	            console.log("Hooray, it worked!");
+	            document.location.reload(true)
+	        }
+    	});
 		//After completion
 		$("#bet-evt-input").val('');
 		$("#bet-evt-3").modal('hide');

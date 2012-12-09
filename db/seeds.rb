@@ -38,15 +38,25 @@ handle_games(summer_doc, "summer")
 handle_games(winter_doc, "winter")
 #puts doc.root
 
+events = File.read("#{Rails.root}/db/data/events_unique.txt", "r")
+sports = File.read("#{Rails.root}/db/data/sports_unique.txt", "r")
+
+event_to_sport = events.each_line.zip(sports.each_line)
+
+event_to_sport.each do |event, sport|
+	s = Sport.find_or_create_by_name(sport.rstrip)
+	e = Event.find_or_create_by_name(event.rstrip)
+	e.sport = s
+	e.save
+end
+
+
 players = Nokogiri::XML(File.open("#{Rails.root}/db/data/Athletes.xml", "r"))
 players.xpath("//Record").each do |ele|
 	player = Athlete.new do |a|
 		a.full_name = ele.css("Full_Name").text
 		a.gender = ele.css("Gender").text
 		a.DOB = ele.css("DOB").text
-		s = Sport.find_or_create_by_name(ele.css("Sport").text)
-		s.save
-		a.sport = s
 		a.country = Country.find_or_create_by_name(ele.css('Country').text.split(' ')[0])
 	end
 	player.save

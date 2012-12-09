@@ -9,7 +9,7 @@
         <div class="header-user">
           <% if user_signed_in? %>
             <h3>Welcome</h3>
-            <p>Funds: Over 9000</p>
+            <p>Funds: <%= @funds %></p>
             <li class="nav pull-right"><%= link_to 'Logout', destroy_user_session_path, :method => :delete %></li>   
           <% end %>
         </div>
@@ -124,9 +124,6 @@
           <div class="span9">
             <table id="evt-ctyTable"></table>
             
-            <script>
-              betEvt2_table();
-            </script>
           </div>
           <div class="span3">
             <div id="bet-evt-vis-2" style="width:200px;height:200px;"></div>

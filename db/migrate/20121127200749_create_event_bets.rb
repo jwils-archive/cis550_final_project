@@ -8,6 +8,7 @@ class CreateEventBets < ActiveRecord::Migration
 
       t.timestamps
     end
-    add_index :event_bets, :country_id, :user_id
+    add_index :event_bets, :country_id
+    add_index :event_bets, :user_id
   end
 end

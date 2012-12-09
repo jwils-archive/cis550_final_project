@@ -1,6 +1,7 @@
 class HomeController < ApplicationController
 	def index
-		
+		@funds = ActiveRecord::Base.connection.execute("SELECT 50000 - SUM(eb.amount) as funds FROM event_bets eb WHERE user_id = #{current_user.id}")
+		@funds = '$%.2f' % @funds.first[0]
 	end
 
 	#list all events
@@ -18,7 +19,35 @@ class HomeController < ApplicationController
 	#get bets for a given user
 	def bets
 		user_id = current_user.id
-		@q = ActiveRecord::Base.connection.execute("SELECT * from event_bets WHERE user_id = #{user_id}")
+		@q = ActiveRecord::Base.connection.execute("SELECT 
+			IF (eb.event_id < 0, 'Country', 'Event'), 
+			c.`name`, 
+			IF (eb.event_id < 0, 
+					CASE
+						WHEN  eb.event_id = -1 THEN 'FIRST'
+						WHEN  eb.event_id = -2 THEN 'SECOND'
+						WHEN  eb.event_id = -3 THEN 'THIRD'
+					END
+				,
+				    e.`name`
+				),
+				eb.amount,
+					CONCAT(ROUND(((eb.amount/
+						(SELECT SUM(btamt.amount)
+						FROM
+						event_bets btamt 
+						WHERE btamt.event_id = eb.event_id
+						AND btamt.country_id = eb.country_id)
+		           *
+		           (SELECT 
+						SUM(ttl.amount) 
+					FROM 
+						event_bets ttl 
+					WHERE 
+						ttl.event_id = eb.event_id)) - eb.amount) / eb.amount, 2) , ' to 1')
+			from event_bets eb, countries c,  events e
+			WHERE user_id = #{user_id} and c.id = eb.country_id
+			and (eb.event_id < 0 or e.id = eb.event_id) group by 1, 2, 3, 4")
 
 		respond_to do |format|
 			format.json { render json: @q}
@@ -31,7 +60,7 @@ class HomeController < ApplicationController
 		@q = ActiveRecord::Base.connection.execute("SELECT c.`name`, 
 			COUNT(medal.`medal` = 'Gold'), COUNT(medal.`medal` = 'Silver'), COUNT(medal.`medal` = 'Bronze') 
 			FROM athletes a, countries c, medals medal, events e Where medal.athlete_id = a.id 
-			and c.id = a.country_id and medal.event_id = e.id and e.`name` = #{event} GROUP BY 1;")
+			and c.id = a.country_id and medal.event_id = e.id and e.`name` = \"#{event}\" GROUP BY 1;")
 
 		respond_to do |format|
 			format.json { render json: @q}
@@ -39,8 +68,8 @@ class HomeController < ApplicationController
 	end
 
 	def country_medals
-		@q = ActiveRecord::Base.connection.execute("SELECT c.`name`, SUM(cg.gold), SUM(cg.silver)
-			, SUM(cg.bronze) FROM countries c, country_games cg WHERE c.id = cg.country_id 
+		@q = ActiveRecord::Base.connection.execute("SELECT c.`name`, ROUND(SUM(cg.gold)), ROUND(SUM(cg.silver))
+			, ROUND(SUM(cg.bronze)) FROM countries c, country_games cg WHERE c.id = cg.country_id 
 			group by 1;")
 		respond_to do |format|
 			format.json { render json: @q}
@@ -48,67 +77,22 @@ class HomeController < ApplicationController
 	end
 
 
-	#integrate this into displaying bets somehow
-	def pari_bet(bet_type, bet_data, country, bet_amt)
+	def make_bet
+		bet = EventBet.new
+		bet.amount = params['amount']
+		bet.save
+		bet.user = current_user
+		if params['event']
+			bet.event = Event.find_by_name(params['event'])
+		else
+			bet.event_id = params['place']
+		end
 
-		#first query the SQL database to gather the required info
-		
-		if(bet_type == 'e') #event bet
-			
-			#first get total pot
-			rs = ActiveRecord::Base.connection.execute("SELECT SUM(amt)
-							FROM EventBets eb
-							WHERE event_id = \"#{bet_data}\"
-							")
-							
-			row = rs.fetch_row
-			total_pot = row[0]
-			
-			#next find total money bet on the same country the user
-			#wants to bet on
-			rs = ActiveRecord::Base.connection.execute("SELECT SUM(eb.amt)
-							FROM EventBets eb, Countries c
-							WHERE eb.event_id = \"#{bet_data}\" AND
-							c.name=\"#{country}\" AND 
-							eb.country_id = c.id						
-							")
-							
-			row = rs.fetch_row
-			country_pot = row[0]
-			
-		else #country total medal bet
-			
-			#first get total pot
-			rs = ActiveRecord::Base.connection.execute("SELECT SUM(amt)
-							FROM CountryBets cb
-							WHERE bet_id = \"#{bet_data}\"
-							")
-			
-			row = rs.fetch_row
-			total_pot = row[0]
-			
-			#next find total money bet on the same country the user
-			#wants to bet on
-			rs = ActiveRecord::Base.connection.execute("SELECT SUM(cb.amt)
-							FROM CountryBets cb, Countries c
-							WHERE cb.bet_id = \"#{bet_data}\" AND
-							c.name=\"#{country}\" AND 
-							cb.country_id = c.id						
-							")
-							
-			row = rs.fetch_row
-			country_pot = row[0]
-			
-		end	
+		bet.country = Country.find_by_name(params['country'])
+		bet.save
 
-		#calculate expected payout
-		exp_payout = (bet_amt/country_pot) * total_pot
-		
-		#calculate odds
-		o = (exp_payout - bet_amt)/bet_amt
-		odds = "#{o} to 1"
-		
-		return exp_payout, odds
+		respond_to do |format|
+			format.json { render json: bet}
+		end
 	end
-
 end
