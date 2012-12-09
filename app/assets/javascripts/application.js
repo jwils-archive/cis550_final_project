@@ -13,4 +13,24 @@
 //= require jquery
 //= require jquery_ujs
 //= require twitter/bootstrap
+//= require jquery.dataTables.min.js
 //= require_tree .
+
+$(document).ready(function(){
+				$(".bet-btn").click(function(){
+					$("#bet").modal();
+				});
+				
+				$(".cty-bet").click(function(){
+					$("#bet").modal('hide');
+					$("#bet-cty-1").modal();
+					
+					
+					
+				});
+				
+				$(".evt-bet").click(function(){
+					$("#bet").modal('hide');
+					$("#bet-evt-1").modal();
+				});
+			});

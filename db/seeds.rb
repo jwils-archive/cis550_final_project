@@ -34,12 +34,12 @@ summer_doc = REXML::Document.new(summer_games)
 winter_games = File.new("#{Rails.root}/db/data/wo.xml", "r")
 winter_doc = REXML::Document.new(winter_games)
 
-#handle_games(summer_doc, "summer")
-#handle_games(winter_doc, "winter")
+handle_games(summer_doc, "summer")
+handle_games(winter_doc, "winter")
 #puts doc.root
 
 players = Nokogiri::XML(File.open("#{Rails.root}/db/data/Athletes.xml", "r"))
-players.xpath("//Record[position()>115117]").each do |ele|
+players.xpath("//Record").each do |ele|
 	player = Athlete.new do |a|
 		a.full_name = ele.css("Full_Name").text
 		a.gender = ele.css("Gender").text

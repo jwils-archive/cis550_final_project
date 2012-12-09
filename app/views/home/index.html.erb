@@ -1,0 +1,172 @@
+<body>
+    <div id="wrap">
+    <div class="container">
+      <div class="header">
+        <div class="header-logo">
+
+          <%=image_tag "olympicbettinglogo.png" %>
+        </div>
+        <div class="header-user">
+          <% if user_signed_in? %>
+            <h3>Welcome</h3>
+            <p>Funds: Over 9000</p>
+            <li class="nav pull-right"><%= link_to 'Logout', destroy_user_session_path, :method => :delete %></li>   
+          <% end %>
+        </div>
+      </div>
+      
+      <div class="bet">
+        <button class="btn btn-large btn-success bet-btn">Make a Bet!</button>
+      </div>
+      
+      <div class="content">
+        
+        <div class="content-bethistory">
+          <h2>Bet History</h2>
+          <table id="betHistTable"></table>
+            
+            <script>
+              bethistory();
+            </script>
+        </div>
+      </div>
+      
+      <div id="bet" class="modal hide fade" aria-labelledby="bet-label" aria-hidden="true">
+        <div class="modal-header">
+         <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+          <h3 id="bet-label">Make a New Bet</h3>
+          <p>Please select the type of bet you would like to make.</p>
+        </div>
+        <div class="modal-body">
+          <button class="btn btn-large btn-primary cty-bet">Country</button>
+          <button class="btn btn-large btn-primary evt-bet">Event</button>
+        </div>
+      </div>
+      
+      <div id="bet-cty-1" class="modal modal-big hide fade" aria-labelledby="bet-label" aria-hidden="true">
+        <div class="modal-header">
+         <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+          <h3 id="bet-label">Select a Country</h3>
+          <p>Please select the country you would like to bet on.</p>
+        </div>
+        <div class="modal-body row-fluid">
+          <div class="span9">
+            <table id="ctyTable"></table>
+            
+            <script>
+              betCty1_table();
+            </script>
+          </div>
+          <div class="span3">
+          <div id="infovis" style="width:200px;height:200px;"></div>
+            
+            <script>
+              betCty1_graph();
+            
+            </script>
+            
+            
+          </div>
+        </div>
+      </div>
+      
+      <div id="bet-cty-2" class="modal modal-big hide fade" aria-labelledby="bet-label" aria-hidden="true">
+        <div class="modal-header">
+         <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+          <h3 id="bet-cty-label">Country Name</h3>
+          <p>Please submit the bet you wish to make.</p>
+        </div>
+        <div class="modal-body row-fluid">
+          <div class="span9">
+            <select id="betplace" style="padding:4px;margin:4px;font-size:14px;height:auto;">
+              <option value="1" class="gold">Gold</option>
+              <option value="2" class="silver">Silver</option>
+              <option value="3" class="bronze">Bronze</option>
+            </select>
+            <input id="bet-cty-input" type="text" placeholder="Bet Amount" style="padding:4px;margin:4px;font-size:14px;height:auto;"/>
+            <button class="btn btn-success" id="bet-cty-btn">Bet!</button>
+            <p id="bet-cty-odds">Calculated Odds: 1:8</p>
+          </div>
+          <div class="span3">
+            <div id="infovis2" style="width:200px;height:200px;"></div>
+            
+            <script>
+              betCty2_graph();
+            </script>
+          </div>
+        </div>
+      </div>
+      
+      <div id="bet-evt-1" class="modal modal-big hide fade" aria-labelledby="bet-label" aria-hidden="true">
+        <div class="modal-header">
+         <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+          <h3 id="bet-label">Select an Olympic Event</h3>
+          <p>Please select the Olympic Event you would like to bet on.</p>
+        </div>
+        <div class="modal-body">
+        
+            <table id="evtTable"></table>
+            
+            <script>
+              betEvt1_table();
+            </script>
+          
+        </div>
+      </div>
+      
+      <div id="bet-evt-2" class="modal modal-big hide fade" aria-labelledby="bet-label" aria-hidden="true">
+        <div class="modal-header">
+         <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+          <h3 id="bet-evt-label">Olympic Event: Select a Country</h3>
+          <p>Please select the country you would like to bet on.</p>
+        </div>
+        <div class="modal-body row-fluid">
+          <div class="span9">
+            <table id="evt-ctyTable"></table>
+            
+            <script>
+              betEvt2_table();
+            </script>
+          </div>
+          <div class="span3">
+            <div id="bet-evt-vis-2" style="width:200px;height:200px;"></div>
+            
+            <script>
+              betEvt2_graph();
+            </script>
+          </div>
+        </div>
+      </div>
+      
+      <div id="bet-evt-3" class="modal modal-big hide fade" aria-labelledby="bet-evt-label2" aria-hidden="true">
+        <div class="modal-header">
+         <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+          <h3 id="bet-evt-label2">Olympic Event: Country Name</h3>
+          <p>Please submit the bet you wish to make.</p>
+        </div>
+        <div class="modal-body row-fluid">
+          <div class="span9">
+            <input id="bet-evt-input" type="text" placeholder="Bet Amount" style="padding:4px;margin:4px;font-size:14px;height:auto;"/>
+            <button class="btn btn-success" id="bet-evt-btn">Bet!</button>
+            <p id="bet-evt-odds">Calculated Odds: 1:8</p>
+          </div>
+          <div class="span3">
+            <div id="bet-evt-vis-3" style="width:200px;height:200px;"></div>
+            
+            <script>
+              betEvt3_graph();
+            </script>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    <div id="push"></div>
+    </div>
+    
+    <div id="footer">
+      <div class="container">
+        <p class="muted credit">Group Thirteen '12: Varun Gupta, Daniel Kim, Michael Posner, Joshua Wilson</p>
+      </div>
+    </div>
+  </body>

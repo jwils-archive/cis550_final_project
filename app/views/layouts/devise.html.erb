@@ -1,0 +1,99 @@
+
+<html>
+	<head>
+		<title>Olympic Betting</title>
+		
+		<%= stylesheet_link_tag    "application", :media => "all" %>
+ 	 <%= javascript_include_tag "application" %>
+		
+		<style type="text/css">
+			#wrap .container{
+				width:300px;
+				position:absolute;
+				left:50%;
+				top:50%;
+				margin-left:-150px;
+				height:300px;
+				margin-top:-150px;
+			}
+			
+			#wrap .container .logo{
+				margin-bottom:40px;
+			}
+			
+			#form-signin input[type="email"],
+			#form-signin input[type="password"]{
+				padding:7px;
+				border:1px solid black;
+				width:100%;
+				font-size:20px;
+				height:auto;
+			}
+			
+			
+			html,
+      body {
+        height: 100%;
+        /* The html and body elements cannot have any padding or margin. */
+      }
+
+      /* Wrapper for page content to push down footer */
+      #wrap {
+        min-height: 100%;
+        height: auto !important;
+        height: 100%;
+        /* Negative indent footer by it's height */
+        margin: 0 auto -60px;
+      }
+
+      /* Set the fixed height of the footer here */
+      #push,
+      #footer {
+        height: 60px;
+      }
+      #footer {
+        background-color: #f5f5f5;
+      }
+
+      /* Lastly, apply responsive CSS fixes as necessary */
+      @media (max-width: 767px) {
+        #footer {
+          margin-left: -20px;
+          margin-right: -20px;
+          padding-left: 20px;
+          padding-right: 20px;
+        }
+      }
+	  
+		.container .credit{
+			margin-top:20px;
+			text-align:center;
+		}
+		</style>
+		<script type="text/javascript">
+			$(document).ready(function(){
+				$(".btn-primary").click(function(){
+					
+				});
+			});
+		</script>
+	</head>
+	<body>
+		<div id="wrap">
+		<div class="container">
+			<div class="logo">
+				<%= image_tag("olympicbettinglogo.png") %>
+			</div>
+			<%= yield %>
+		</div>
+		
+		<div id="push"></div>
+		</div>
+		
+		<div id="footer">
+      <div class="container">
+        <p class="muted credit">Group Thirteen '12: Varun Gupta, Daniel Kim, Michael Posner, Joshua Wilson</p>
+      </div>
+    </div>
+	</body>
+</html>
