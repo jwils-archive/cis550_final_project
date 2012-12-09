@@ -155,7 +155,7 @@ function betCty2_graph(){
 		
 		//Data
 		var odds = "1:3";
-		tmp = -1;
+		tmp = "-1";
 		
 		//After completion
 		$("#bet-cty-odds").html("Calculated Odds: "+odds);
@@ -167,7 +167,7 @@ function betCty2_graph(){
 		
 		//Data
 		var odds = "1:4";
-		tmp = -2;
+		tmp = "-2";
 		//After completion
 		$("#bet-cty-odds").html("Calculated Odds: "+odds);
 	});
@@ -178,7 +178,7 @@ function betCty2_graph(){
 		
 		//Data
 		var odds = "1:10";
-		tmp = -3;
+		tmp = "-3";
 		//After completion
 		$("#bet-cty-odds").html("Calculated Odds: "+odds);
 	});
