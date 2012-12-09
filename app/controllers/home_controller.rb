@@ -1,7 +1,12 @@
 class HomeController < ApplicationController
 	def index
 		@funds = ActiveRecord::Base.connection.execute("SELECT 50000 - SUM(eb.amount) as funds FROM event_bets eb WHERE user_id = #{current_user.id}")
-		@funds = '$%.2f' % @funds.first[0]
+		if @funds.first[0].nil?
+			@funds = 50000
+		else
+			@funds = @funds.first[0]
+		end
+		@funds = '$%.2f' % @funds
 	end
 
 	#list all events
