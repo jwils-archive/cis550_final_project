@@ -1,5 +1,4 @@
-var sCty,sEvt;
-var sctyval = -1;
+var sCty,sEvt,tmp;
 google.load("visualization", "1", {packages:["corechart"]});
 
 function bethistory(){
@@ -156,7 +155,7 @@ function betCty2_graph(){
 		
 		//Data
 		var odds = "1:3";
-		sctyval = -1;
+		tmp = -1;
 		
 		//After completion
 		$("#bet-cty-odds").html("Calculated Odds: "+odds);
@@ -168,7 +167,7 @@ function betCty2_graph(){
 		
 		//Data
 		var odds = "1:4";
-		sctyval = -2;
+		tmp = -2;
 		//After completion
 		$("#bet-cty-odds").html("Calculated Odds: "+odds);
 	});
@@ -179,7 +178,7 @@ function betCty2_graph(){
 		
 		//Data
 		var odds = "1:10";
-		sctyval = -3;
+		tmp = -3;
 		//After completion
 		$("#bet-cty-odds").html("Calculated Odds: "+odds);
 	});
@@ -198,7 +197,7 @@ function betCty2_graph(){
 	        data: {
 	        'country' : sCty, 
 	        'amount' : document.getElementById('bet-cty-input').value,
-	        'place' : sctyval
+	        'place' : tmp
 	        },
 	        // callback handler that will be called on success
 	        success: function(response){
