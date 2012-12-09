@@ -87,7 +87,7 @@ class HomeController < ApplicationController
 		bet.amount = params['amount']
 		bet.save
 		bet.user = current_user
-		if params['event']
+		if not params['event'].nil?
 			bet.event = Event.find_by_name(params['event'])
 		else
 			bet.event_id = params['place']
