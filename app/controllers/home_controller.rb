@@ -91,6 +91,8 @@ class HomeController < ApplicationController
 			bet.event = Event.find_by_name(params['event'])
 		else
 			bet.event_id = params['place']
+		else
+			bet.event_id = -2
 		end
 
 		bet.country = Country.find_by_name(params['country'])

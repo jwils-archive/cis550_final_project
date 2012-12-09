@@ -197,7 +197,7 @@ function betCty2_graph(){
 	        data: {
 	        'country' : sCty, 
 	        'amount' : document.getElementById('bet-cty-input').value,
-	        'place' : tmp
+	        'place' : tmp,
 	        },
 	        // callback handler that will be called on success
 	        success: function(response){
