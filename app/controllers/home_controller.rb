@@ -89,7 +89,7 @@ class HomeController < ApplicationController
 		bet.user = current_user
 		if not params['event'].nil?
 			bet.event = Event.find_by_name(params['event'])
-		else
+		elsif not params['place'].nil?
 			bet.event_id = params['place']
 		else
 			bet.event_id = -2
