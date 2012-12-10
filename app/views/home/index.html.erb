@@ -3,8 +3,7 @@
     <div class="container">
       <div class="header">
         <div class="header-logo">
-
-          <%=image_tag "olympicbettinglogo.png" %>
+          <img src="images/olympicbettinglogo.png"/>
         </div>
         <div class="header-user">
           <% if user_signed_in? %>
@@ -13,6 +12,11 @@
             <li class="nav pull-right"><%= link_to 'Logout', destroy_user_session_path, :method => :delete %></li>   
           <% end %>
         </div>
+      </div>
+      
+      <div class="alert alert-success welcome">
+        <button type="button" class="close" data-dismiss="alert">&times;</button>
+        <b>Welcome to Olympic Betting! </b><br/>You are given $50,000 of virtual betting money to start. To begin making a bet, click on the "Make a Bet" button. To see how much money you have to bet, look above next to "Funds". To see the bets you've made, look below at your betting history.
       </div>
       
       <div class="bet">
@@ -38,8 +42,8 @@
           <p>Please select the type of bet you would like to make.</p>
         </div>
         <div class="modal-body">
-          <button class="btn btn-large btn-primary cty-bet">Country</button>
-          <button class="btn btn-large btn-primary evt-bet">Event</button>
+          <button class="btn btn-large btn-primary cty-bet" rel="popover" data-placement="left" data-content="Bet on the country you think will get the most, second most, or third most medals altogether." data-trigger="hover">Country</button>
+          <button class="btn btn-large btn-primary evt-bet" rel="popover" data-placement="right" data-content="Bet on the country you think will win a particular event." data-trigger="hover">Event</button>
         </div>
       </div>
       
@@ -61,6 +65,7 @@
           <div id="infovis" style="width:200px;height:200px;"></div>
             
             
+            
           </div>
         </div>
       </div>
@@ -74,9 +79,9 @@
         <div class="modal-body row-fluid">
           <div class="span9">
             <select id="betplace" style="padding:4px;margin:4px;font-size:14px;height:auto;">
-              <option value="1" class="gold">First</option>
-              <option value="2" class="silver">Second</option>
-              <option value="3" class="bronze">Third</option>
+              <option value="1" class="gold">Gold</option>
+              <option value="2" class="silver">Silver</option>
+              <option value="3" class="bronze">Bronze</option>
             </select>
             <input id="bet-cty-input" type="text" placeholder="Bet Amount" style="padding:4px;margin:4px;font-size:14px;height:auto;"/>
             <button class="btn btn-success" id="bet-cty-btn">Bet!</button>
@@ -84,7 +89,8 @@
           </div>
           <div class="span3">
             <div id="infovis2" style="width:200px;height:200px;"></div>
-                      </div>
+            
+          </div>
         </div>
       </div>
       
@@ -115,9 +121,13 @@
           <div class="span9">
             <table id="evt-ctyTable"></table>
             
+            <script>
+              betEvt2_table();
+            </script>
           </div>
           <div class="span3">
             <div id="bet-evt-vis-2" style="width:200px;height:200px;"></div>
+            
           </div>
         </div>
       </div>
@@ -132,7 +142,6 @@
           <div class="span9">
             <input id="bet-evt-input" type="text" placeholder="Bet Amount" style="padding:4px;margin:4px;font-size:14px;height:auto;"/>
             <button class="btn btn-success" id="bet-evt-btn">Bet!</button>
-            <p id="bet-evt-odds"></p>
           </div>
           <div class="span3">
             <div id="bet-evt-vis-3" style="width:200px;height:200px;"></div>
