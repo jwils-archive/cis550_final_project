@@ -17,6 +17,9 @@
 //= require_tree .
 
 $(document).ready(function(){
+	 $(".cty-bet").popover();
+	 $(".evt-bet").popover();
+
 				$(".bet-btn").click(function(){
 					$("#bet").modal();
 				});
