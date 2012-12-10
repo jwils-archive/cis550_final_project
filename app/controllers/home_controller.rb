@@ -63,7 +63,7 @@ class HomeController < ApplicationController
 		event = params['event_id']
 
 		@q = ActiveRecord::Base.connection.execute("SELECT c.`name`, 
-			COUNT(medal.`medal` = 'Gold'), COUNT(medal.`medal` = 'Silver'), COUNT(medal.`medal` = 'Bronze') 
+			COUNT(IF(medal.`medal` = 'Gold', 1,NULL)), COUNT(IF(medal.`medal` = 'Silver', 1,NULL)), COUNT(IF(medal.`medal` = 'Bronze', 1,NULL)) 
 			FROM athletes a, countries c, medals medal, events e Where medal.athlete_id = a.id 
 			and c.id = a.country_id and medal.event_id = e.id and e.`name` = \"#{event}\" GROUP BY 1;")
 
