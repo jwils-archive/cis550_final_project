@@ -232,7 +232,8 @@ function betEvt1_table(){
 		var evtData = {
 		"aaData":data,
 		"aoColumns": [
-			{ "sTitle": "Event" }
+			{ "sTitle": "Event" },
+			{ "sTitle": "Sport" }
 		]
 	};
 		//</After completion>

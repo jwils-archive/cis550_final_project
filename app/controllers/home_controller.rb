@@ -11,7 +11,7 @@ class HomeController < ApplicationController
 
 	#list all events
 	def events
-		@q = ActiveRecord::Base.connection.execute("select name from events;")
+		@q = ActiveRecord::Base.connection.execute("select name, sport from events;")
 		respond_to do |format|
 			format.json { render json: @q}
 		end

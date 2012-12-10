@@ -44,9 +44,8 @@ sports = File.read("#{Rails.root}/db/data/sports_unique.txt", "r")
 event_to_sport = events.each_line.zip(sports.each_line)
 
 event_to_sport.each do |event, sport|
-	s = Sport.find_or_create_by_name(sport.rstrip)
 	e = Event.find_or_create_by_name(event.rstrip)
-	e.sport = s
+	e.sport = sport.rstrip
 	e.save
 end
 
