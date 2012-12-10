@@ -26,7 +26,6 @@ $(document).ready(function(){
 					$("#bet-cty-1").modal();
 					
 					
-					
 				});
 				
 				$(".evt-bet").click(function(){

@@ -57,9 +57,8 @@ function betCty1_table(){
 			sCty = ($(this).find('td').html());
 			$("#bet-cty-label").html(sCty);
 			$("#bet-cty-1").modal('hide');
-
+			betCty2_graph(sCty);
 			$("#bet-cty-2").modal();
-
 		});
 		//</After completion>
 		});
@@ -70,73 +69,11 @@ function betCty1_table(){
 
 
 
-function betCty1_graph(){
-	
-	/***
-		GET: Top country medal counts
-	***/
-	google.setOnLoadCallback(betCty1_Draw);
-	function betCty1_Draw() {
-		//Data
-		var getdata = [
-		  ['Country', 'Gold', 'Silver', 'Bronze'],
-		  ['DBS',  1000,      400, 200],
-		  ['BTN',  1170,      460,	100],
-		  ['RSA',  660,       1120,	150],
-		  ['USA',  1030,      540,	600]
-		];
-		
-		
-		//<After completion>
-		var data = google.visualization.arrayToDataTable(getdata);
-		
-		
-		var options = {
-		  title: 'Medal Count by Country',
-		  hAxis: {title: 'Country', titleTextStyle: {color: 'red'}},
-		width:200
-		};
 
-		var chart = new google.visualization.ColumnChart(document.getElementById('infovis'));
-		chart.draw(data, options);
-		
-		//<After completion>
-	}
-}
-
-
-
-
-
-function betCty2_graph(){
+function betCty2_graph(sCty){
 	/***
 		GET: Country's history for specified event
 	***/
-
-	google.setOnLoadCallback(betCty2_Draw);
-	function betCty2_Draw() {
-		//Data
-		var getdata = [
-		  ['Year', 'Gold', 'Silver', 'Bronze'],
-		  ['2009',  100,      40, 20],
-		  ['2010',  70,      40,	100],
-		  ['2011',  660,       110,	150],
-		  ['2012',  1030,      540,	600]
-		];
-	
-		//<After completion>
-		var data = google.visualization.arrayToDataTable(getdata);
-
-		var options = {
-		  title: 'History',
-		  hAxis: {title: 'Year', titleTextStyle: {color: 'red'}},
-		width:200
-		};
-
-		var chart = new google.visualization.ColumnChart(document.getElementById('infovis2'));
-		chart.draw(data, options);
-		//</After completion>
-	}
 	
 	/***
 			POST: Betting oods for Gold (default)
@@ -144,9 +81,9 @@ function betCty2_graph(){
 		
 		//Data
 		var odds = "1:5";
+		tmp = "-1";
 		
 		//After completion
-		$("#bet-cty-odds").html("Calculated Odds: "+odds);
 	
 	$("#betplace .gold").live("click",function(){
 		/***
@@ -158,7 +95,6 @@ function betCty2_graph(){
 		tmp = "-1";
 		
 		//After completion
-		$("#bet-cty-odds").html("Calculated Odds: "+odds);
 	});
 	$("#betplace .silver").live("click",function(){
 		/***
@@ -169,7 +105,6 @@ function betCty2_graph(){
 		var odds = "1:4";
 		tmp = "-2";
 		//After completion
-		$("#bet-cty-odds").html("Calculated Odds: "+odds);
 	});
 	$("#betplace .bronze").live("click",function(){
 		/***
@@ -180,7 +115,6 @@ function betCty2_graph(){
 		var odds = "1:10";
 		tmp = "-3";
 		//After completion
-		$("#bet-cty-odds").html("Calculated Odds: "+odds);
 	});
 	
 	
@@ -246,7 +180,6 @@ function betEvt1_table(){
 		$("#bet-evt-1").modal('hide');
 		$("#bet-evt-2").modal();
 		betEvt2_table();
-
 	});
 	//</After completion>
 	});
@@ -287,7 +220,8 @@ function betEvt2_table(){
 			$("#bet-evt-2").modal('hide');
 			evtCountryTable.fnDestroy();
 			$("#bet-evt-3").modal();
-		
+			
+			betEvt3_graph(sCty,sEvt);
 	});
 	});
 
@@ -301,83 +235,19 @@ function betEvt2_table(){
 
 
 
-function betEvt2_graph(){
-	/***
-		GET: Top counties for specified event
-	***/
-	google.setOnLoadCallback(betEvt2_Draw);
-	function betEvt2_Draw() {
-	
-		//Data
-		var getdata = [
-		  ['Country', 'Gold', 'Silver', 'Bronze'],
-		  ['DBS',  1000,      400, 200],
-		  ['BTN',  1170,      460,	100],
-		  ['RSA',  660,       1120,	150],
-		  ['USA',  1030,      540,	600]
-		];
-	
-		//<After completion>
-		var data = google.visualization.arrayToDataTable(getdata);
-
-		var options = {
-			title: 'Medal Count by Country',
-			hAxis: {title: 'Country', titleTextStyle: {color: 'red'}},
-			width:200
-		};
-
-		var chart = new google.visualization.ColumnChart(document.getElementById('bet-evt-vis-2'));
-		chart.draw(data, options);
-		//<After completion>
-	}
-}
 
 
 
-
-function betEvt3_graph(){
+function betEvt3_graph(sCty, sEvt){
 	/***
 		GET: Country's history for specified event
 	***/
-
-	google.setOnLoadCallback(betEvt3_Draw);
-	function betEvt3_Draw() {
-	
-		//Data
-		var getdata = [
-		  ['Country', 'Gold', 'Silver', 'Bronze'],
-		  ['DBS',  1000,      400, 200],
-		  ['BTN',  1170,      460,	100],
-		  ['RSA',  660,       1120,	150],
-		  ['USA',  1030,      540,	600]
-		];
-		
-		
-		//<After completion>
-		var data = google.visualization.arrayToDataTable(getdata);
-		
-
-		var options = {
-		  title: 'History',
-		  hAxis: {title: 'Country', titleTextStyle: {color: 'red'}},
-		width:200
-		};
-
-		var chart = new google.visualization.ColumnChart(document.getElementById('bet-evt-vis-3'));
-		chart.draw(data, options);
-		
-		//</After completion>
-	}
 	
 	/***
 			POST: Betting oods for specified bet and country
 		***/
 		
 		//Data
-		var odds = "1:4";
-		
-		//After completion
-		$("#bet-evt-odds").html("Calculated Odds: "+odds);
 
 	$("#bet-evt-btn").click(function(){
 	
